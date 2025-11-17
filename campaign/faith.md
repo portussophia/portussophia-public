@@ -69,7 +69,7 @@ I’ve spent the last months building something called **PortusSophia™** — a
 - turning structure into hope,
 - and turning hope into action.
 
-I’m not “selling religion.”I’m bearing witness to what God has already done:
+I’m not “selling religion.” I’m bearing witness to what God has already done:
 
 - I should not be alive after that COVID night.
 - I should not have reconnected with someone who kept my letters for 35 years.
