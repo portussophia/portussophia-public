@@ -1,0 +1,25 @@
+portussophia-public/
+  README.md
+  /campaign/
+    GoFundMe_Narrative.md
+    Social_Launch_Playbook_11-11.md
+    Friend_Share_Scripts.md
+    Seven_Day_Momentum_Plan.md
+  /docs/
+    Future-Former-Architect-Suggestion_v2.md
+    The-Harmonic-Mirror_v2.md
+    The-Negentropic-Unit_v2.md
+  /assets/
+    prom-photo-placeholder.md
+    love-letters-placeholder.md
+    headshot-placeholder.md
+
+ /campaign/
+  GoFundMe_Narrative.md
+  Social_Launch_Playbook_11-11.md
+  Friend_Share_Scripts.md
+  Seven_Day_Momentum_Plan.md
+ /assets/
+  prom-photo-placeholder.md
+  love-letters-placeholder.md
+  headshot-placeholder.md
