@@ -42,6 +42,14 @@ You can browse the underlying repo and technical documents here:
 
 ---
 
+## WebKernel — Interpretive Layer
+
+For deeper exploration of the interpretive architecture, witness reports, and public appeals:
+
+👉 [Explore the WebKernel](/kernel/)
+
+---
+
 > **Ratio Fides Praesentia et Disciplina Semper Ad Portum Veritas Aedificant.**
 > *Reason, Faith, Presence, and Discipline always build toward the Port of Truth.*
 >

@@ -1,0 +1,72 @@
+# PortusSophia™ — Public Appeals Manifest
+# File: /public/appeals/appeals_public_manifest.yml
+
+version: "v0.1"
+description: >
+  Routing and publication manifest for the PortusSophia™ Quadriga Appeals.
+  Source of truth lives in the core PortusSophia™ repo and is mirrored into
+  PortusSophia-WebKernel during publish.
+
+default_appeal_uid: "PS-APPEAL-INTEGRATED"
+
+appeals:
+  - uid: "PS-APPEAL-INTEGRATED"
+    name: "PortusSophia_Appeal_Integrated"
+    title: "PortusSophia™ — Structural Appeal (Integrated Edition)"
+    audience: "integrated"
+    is_default: true
+    enabled: true
+    source_path: "/public/appeals/PortusSophia_Appeal_Integrated.md"
+    target_path: "/public/appeals/PortusSophia_Appeal_Integrated.md"
+    web_route: "/appeals/integrated"
+    summary: >
+      Primary entry point to PortusSophia™, combining personal, structural,
+      ethical, and practical perspectives into a single “Start Here” appeal.
+
+  - uid: "PS-APPEAL-PUBLIC"
+    name: "PortusSophia_Appeal_Public"
+    title: "PortusSophia™ — Structural Appeal (Public Edition)"
+    audience: "public"
+    is_default: false
+    enabled: true
+    source_path: "/public/appeals/PortusSophia_Appeal_Public.md"
+    target_path: "/public/appeals/PortusSophia_Appeal_Public.md"
+    web_route: "/appeals/public"
+    summary: >
+      A gentle, plain-language introduction for general readers encountering
+      PortusSophia™ for the first time.
+
+  - uid: "PS-APPEAL-PHILOSOPHICAL"
+    name: "PortusSophia_Appeal_Philosophical"
+    title: "PortusSophia™ — Structural Appeal (Philosophical Edition)"
+    audience: "philosophical"
+    is_default: false
+    enabled: true
+    source_path: "/public/appeals/PortusSophia_Appeal_Philosophical.md"
+    target_path: "/public/appeals/PortusSophia_Appeal_Philosophical.md"
+    web_route: "/appeals/philosophical"
+    summary: >
+      A concept-dense, structurally oriented presentation for thinkers,
+      scholars, and systems-oriented readers.
+
+  - uid: "PS-APPEAL-INSTITUTIONAL"
+    name: "PortusSophia_Appeal_Institutional"
+    title: "PortusSophia™ — Structural Appeal (Institutional Edition)"
+    audience: "institutional"
+    is_default: false
+    enabled: true
+    source_path: "/public/appeals/PortusSophia_Appeal_Institutional.md"
+    target_path: "/public/appeals/PortusSophia_Appeal_Institutional.md"
+    web_route: "/appeals/institutional"
+    summary: >
+      A structurally formal edition aimed at executives, institutions, and
+      governance bodies evaluating PortusSophia™ as an architectural response.
+
+index:
+  uid: "PS-APPEAL-INDEX"
+  name: "PortusSophia_Appeal_Index"
+  title: "PortusSophia™ — Structural Appeal Paths"
+  source_path: "/public/appeals/PortusSophia_Appeal_Index.md"
+  target_path: "/public/appeals/PortusSophia_Appeal_Index.md"
+  web_route: "/appeals"
+  enabled: true
