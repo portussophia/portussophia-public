@@ -1,0 +1,12 @@
+title: "PortusSophia™ Public Orientation"
+description: "High-level architecture overview and public announcements for PortusSophia™"
+theme: minima
+
+markdown: kramdown
+github:
+  is_project_page: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
