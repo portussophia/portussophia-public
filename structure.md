@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Structure Overview"
+nav_title: "Structure"
+site_title: "PortusSophia™"
+show_header: true
 permalink: /structure.html
 ---
-
-# Structure Overview
 
 This page explains how PortusSophia™ is organized across multiple layers and nodes.
 

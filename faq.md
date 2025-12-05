@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "FAQ"
+title: "Frequently Asked Questions"
+nav_title: "FAQ"
+site_title: "PortusSophia™"
+show_header: true
 permalink: /faq.html
 ---
-
-# Frequently Asked Questions
 
 ---
 

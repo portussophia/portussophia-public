@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Core Principles"
+nav_title: "Principles"
+site_title: "PortusSophia™"
+show_header: true
 permalink: /principles.html
 ---
-
-# Core Principles
 
 PortusSophia™ operates under a set of foundational principles that govern how content is created, validated, and preserved.
 

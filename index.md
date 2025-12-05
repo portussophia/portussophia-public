@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "PortusSophia™ — Public Orientation"
+title: "Public Orientation"
+nav_title: "Home"
+site_title: "PortusSophia™"
+show_header: true
 permalink: /
 ---
-
-# PortusSophia™ — Public Orientation
 
 **Welcome.** This is the public-facing orientation layer for PortusSophia™, a governance-first architecture designed to preserve human meaning while using structured stewardship.
 
