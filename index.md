@@ -115,6 +115,8 @@ This is **not** the place for:
 ### PortusSophia™ Nodes
 
 - **[Main Site](https://portussophia.com)** — Canonical content, WebKernel narratives
+- **[Founder](../founder/)** — Institutional identity and mission
+- **[MIT Packet](../webkernel/mit/)** — Academic presentation for research community
 - **[MIT Research Node](https://mit.portussophia.com)** — Academic research, formal methods, integrity ledger
 - **Public Orientation** (you are here) — High-level overview for external audiences
 
