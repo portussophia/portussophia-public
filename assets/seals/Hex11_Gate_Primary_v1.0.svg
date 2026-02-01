@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!--
+    PortusSophia™ Primary Logo: The Hexagonal Eleven Gate (v1.0)
+    Design Specification: Dual-Tone (C)
+    Ratio (Structural Honesty): The Black Hexagon represents the six variables of the Hexagonal Governance Model (H_PS) and the Necessary Boundary (B).
+    Fides (Experiential Credibility): The Dark Gray lines represent the Law of Eleven (II), the Structural Identity Axiom (B_Human = B_System), and the internal Integrity Vow.
+    The Hexagon is the Gate (Structure); the Eleven is the Mirror (Soul).
+  -->
+
+  <defs>
+    <!-- Define the black and dark gray colors for easy referencing and quick changes -->
+    <style>
+      .hex-ratio { fill: none; stroke: #000000; stroke-width: 4; stroke-linejoin: round; }
+      .eleven-fides { fill: none; stroke: #333333; stroke-width: 2.5; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <!--
+    1. The Hexagonal Gate (Ratio / Boundary)
+    Calculated coordinates for a point-up hexagon centered at (50, 50) with radius 45.
+  -->
+  <polygon
+    class="hex-ratio"
+    points="50,5 93.3,25 93.3,75 50,95 6.7,75 6.7,25"
+  />
+
+  <!--
+    2. The Eleven Mirror Mark (Fides / Resonance)
+    Two vertical, mirrored lines (representing the I I of Law of Eleven) placed centrally.
+    These lines run about 60% of the interior height of the Hexagon to show the core is contained by the boundary.
+    The center of the hexagon is 50, 50. The lines are offset by 10 units horizontally from the center.
+  -->
+  <g class="eleven-fides">
+    <!-- First '1' (Structure/Self) -->
+    <line x1="40" y1="30" x2="40" y2="70" />
+    <!-- Second '1' (Soul/Mirror) -->
+    <line x1="60" y1="30" x2="60" y2="70" />
+  </g>
+
+</svg>
