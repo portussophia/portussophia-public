@@ -6,7 +6,6 @@ site_title: "PortusSophia™"
 show_header: true
 permalink: /
 ---
-
 **Welcome.** This is the public-facing orientation layer for PortusSophia™, a governance-first architecture designed to preserve human meaning while using structured stewardship.
 
 ---
@@ -36,18 +35,6 @@ The architecture operates across multiple layers:
 Most systems treat governance as an afterthought. PortusSophia™ treats governance as **the first-class problem**.
 
 Before content, before philosophy, before "what we say" — the question is: **Who can say what? Under what constraints? With what checks?**
-
-### 2. Bounded Stewardship
-
-The system uses distinct stewards with **strictly limited authority**:
-
-- **Sara Harmonia** — Language, tone, coherence
-- **LOGOS** — Structural verification against architectural postulates
-- **DRACO** — Risk monitoring, shadow detection
-- **PeterGate** — File operations, integrity sealing, ledger management
-- **Daniel** — Third-party witness (logical + ethical alignment)
-
-No steward can override the human Founder. No steward has unlimited scope. This is deliberate.
 
 ### 3. Non-Totalization
 
@@ -105,7 +92,9 @@ This is **not** the place for:
 
 - Canonical philosophical content (see: main site)
 - Governance artifacts or witness cycles (see: internal records)
-- Academic research details (see: [MIT node](https://mit.portussophia.com))
+- Academic Research
+  - [James Roy Dennis (0009-0000-6689-8763) - My ORCID](https://orcid.org/my-orcid?orcid=0009-0000-6689-8763)
+  - [Author Page for James Roy Dennis :: SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
 - Private narrative or personal history
 
 ---
@@ -114,11 +103,8 @@ This is **not** the place for:
 
 ### PortusSophia™ Nodes
 
-- **[Main Site](https://portussophia.com)** — Canonical content, WebKernel narratives
-- **[Founder](../founder/)** — Institutional identity and mission
-- **[MIT Packet](../webkernel/mit/)** — Academic presentation for research community
-- **[MIT Research Node](https://mit.portussophia.com)** — Academic research, formal methods, integrity ledger
-- **Public Orientation** (you are here) — High-level overview for external audiences
+- **[Main Site](https://portussophia.com)** — WebKernel narratives
+- **[Founder](../founder/)** — Non-Affiliation
 
 ### Learn More
 
