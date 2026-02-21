@@ -6,6 +6,11 @@ markdown: kramdown
 github:
   is_project_page: false
 
+header_pages:
+  - index.md
+  - ../founder/index.md
+  - ../webkernel/mit/index.md
+
 exclude:
   - README.md
   - Gemfile

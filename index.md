@@ -6,7 +6,7 @@ site_title: "PortusSophia™"
 show_header: true
 permalink: /
 ---
-**Welcome.** This is the public-facing orientation layer for PortusSophia™, a governance-first architecture designed to preserve human meaning while using structured stewardship.
+**Welcome.** This is the public-facing orientation layer for PortusSophia™, an experimental research framework exploring governance-first architecture designed to preserve human meaning while using structured stewardship.
 
 ---
 
@@ -108,8 +108,8 @@ Governance artifacts or witness cycles (see: internal records)
 
 * Academic research:
   * ORCID.org Public Record: [James Roy Dennis (0009-0000-6689-8763) - ORCID](https://orcid.org/0009-0000-6689-8763)
-  * SSRN: Author Page: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792
-    * Core Research: [Schema Epistemics: Knowledge as Constraint-Bearing Structure by James Roy Dennis :: SSRN
+  * SSRN: Author Page: [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
+  * * Core Research: [Schema Epistemics: Knowledge as Constraint-Bearing Structure by James Roy Dennis :: SSRN
       ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945995)
 
 ---
@@ -118,8 +118,8 @@ Governance artifacts or witness cycles (see: internal records)
 
 ### PortusSophia™ Nodes
 
-- **[Main Site](https://portussophia.com)** — Abstract Content, WebKernel narratives
-- **Public Orientation** (you are here) — High-level overview for external audiences
+- **[Main Site](https://portussophia.com)** — (you are here) — High-level overview for external audiences
+- **Architect/[Founder](../founder/)** — Institutional identity and mission
 
 ### Learn More
 
@@ -132,7 +132,7 @@ Governance artifacts or witness cycles (see: internal records)
 ## Status
 
 **Node Status:** Active
-**Last Updated:** 2025-12-04
+**Last Updated:** 2026-02-20
 **Classification:** Public (WebKernel Layer)
 **Boundary Compliance:** ✅ Verified
 
