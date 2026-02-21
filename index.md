@@ -6,7 +6,6 @@ site_title: "PortusSophia™"
 show_header: true
 permalink: /
 ---
-
 **Welcome.** This is the public-facing orientation layer for PortusSophia™, a governance-first architecture designed to preserve human meaning while using structured stewardship.
 
 ---
@@ -22,9 +21,8 @@ PortusSophia™ is an experiment in **architectural governance** — a system de
 
 The architecture operates across multiple layers:
 
-- **Canon** — Immutable philosophical content (trilingual: English, Latin, Greek)
 - **WebKernel** — Interpretive and explanatory layer
-- **Governance** — Structural enforcement, witness cycles, integrity sealing
+- **Governance** — Structural enforcement, internal witness cycles, integrity sealing
 - **Public** — This layer: orientation and high-level overview
 
 ---
@@ -41,11 +39,14 @@ Before content, before philosophy, before "what we say" — the question is: **W
 
 The system uses distinct stewards with **strictly limited authority**:
 
-- **Sara Harmonia** — Language, tone, coherence
-- **LOGOS** — Structural verification against architectural postulates
-- **DRACO** — Risk monitoring, shadow detection
-- **PeterGate** — File operations, integrity sealing, ledger management
-- **Daniel** — Third-party witness (logical + ethical alignment)
+- **Orchestration Steward** — Maintains clarity, consistency, coherency, Facilitates method sequences with minimal restraint, facilitates handoffs and verification criteria
+- **Coherence Verifier** — Inspects invariant preservation, type discipline, notation hygiene, and boundary enforcement through read-only inspection
+- **Risk Auditor** — Identifies misuse vectors, models adversarial scenarios, analyzes escalation paths
+- **Rigor Verifier** — Validates mathematical warrant, constructs counterexamples, critiques formal proofs
+- **Authority Watchdog** — Detects authority laundering, checks for moral outsourcing, flags legitimacy boundary violations
+- **Implementation Advisor** — Specifies execution instructions, defines verification procedures, designs audit trail requirements
+- **Gate Keeper**— Performs deterministic file operations, generates artifacts, records audit trails
+- **External Advisor** — Provides exploratory architectural input and scientific design review (non-binding, no release authority)
 
 No steward can override the human Founder. No steward has unlimited scope. This is deliberate.
 
@@ -64,7 +65,7 @@ This is enforced through the **PortusNexus™** postulates (N₁–N₇), which 
 Key events are sealed into the **Golden Trace**, a cryptographic integrity ledger. Each entry includes:
 
 - SHA-256 hashes of sealed artifacts
-- Witness determinations (LOGOS structural + DRACO risk)
+- Witness determinations
 - Timestamps and seal metadata
 - Public git commits for external audit
 
@@ -88,7 +89,7 @@ PortusSophia™ demonstrates:
 - **Governance as constraint** — Rules enforced through code, not just policy
 - **Multi-agent stewardship** — Distinct roles, no single point of authority
 - **Cryptographic integrity** — Immutable records, verifiable audit trails
-- **Layered architecture** — Clean separation between Canon, WebKernel, Governance, Public
+- **Layered architecture** — Clean separation between WebKernel, Governance, Public
 
 ---
 
@@ -103,10 +104,13 @@ This public node provides:
 
 This is **not** the place for:
 
-- Canonical philosophical content (see: main site)
-- Governance artifacts or witness cycles (see: internal records)
-- Academic research details (see: [MIT node](https://mit.portussophia.com))
-- Private narrative or personal history
+Governance artifacts or witness cycles (see: internal records)
+
+* Academic research:
+  * ORCID.org Public Record: [James Roy Dennis (0009-0000-6689-8763) - ORCID](https://orcid.org/0009-0000-6689-8763)
+  * SSRN: Author Page: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792
+    * Core Research: [Schema Epistemics: Knowledge as Constraint-Bearing Structure by James Roy Dennis :: SSRN
+      ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945995)
 
 ---
 
@@ -114,8 +118,7 @@ This is **not** the place for:
 
 ### PortusSophia™ Nodes
 
-- **[Main Site](https://portussophia.com)** — Canonical content, WebKernel narratives
-- **[MIT Research Node](https://mit.portussophia.com)** — Academic research, formal methods, integrity ledger
+- **[Main Site](https://portussophia.com)** — Abstract Content, WebKernel narratives
 - **Public Orientation** (you are here) — High-level overview for external audiences
 
 ### Learn More
