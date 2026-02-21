@@ -39,7 +39,7 @@ Before content, before philosophy, before "what we say" — the question is: **W
 
 The system uses distinct stewards with **strictly limited authority**:
 
-- **Orchestration Steward** — Maintains clarity, consistency, coherency, Facilitates method sequences with minimal restraint, facilitates handoffs and verification criteria
+- **Orchestration Steward** — Maintains clarity, consistency, coherency, Facilitates method sequences with bounded restraint, facilitates handoffs and verification criteria
 - **Coherence Verifier** — Inspects invariant preservation, type discipline, notation hygiene, and boundary enforcement through read-only inspection
 - **Risk Auditor** — Identifies misuse vectors, models adversarial scenarios, analyzes escalation paths
 - **Rigor Verifier** — Validates mathematical warrant, constructs counterexamples, critiques formal proofs
