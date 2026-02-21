@@ -1,29 +1,31 @@
+**Welcome.** PortusSophia™ is an experimental research framework exploring governance-first design for complex reasoning systems. Its central question is simple: *How can authority, interpretation, and verification be structurally constrained without eliminating human authorship?*
+
 ---
-layout: page
-title: "Public Orientation"
-nav_title: "Home"
-site_title: "PortusSophia™"
-show_header: true
-permalink: /
----
-**Welcome.** This is the public-facing orientation layer for PortusSophia™, an experimental research framework exploring governance-first architecture designed to preserve human meaning while using structured stewardship.
+
+## Academic Research
+
+* ORCID Public Record: [(0009-0000-6689-8763)]()
+* SSRN Author Page: [(9648792)]()
+* DOI (Schema Epistemics): [http://dx.doi.org/10.2139/ssrn.5945995]()
+
+PortusSophia™ research outputs are published independently. The governance framework described here provides structural discipline, not doctrinal authority. All claims remain open to critique and revision.
 
 ---
 
 ## What Is PortusSophia™?
 
-PortusSophia™ is an experiment in **architectural governance** — a system designed to:
+PortusSophia™ is a research initiative investigating **architectural governance** — the design of systems in which:
 
-- Keep human-origin meaning at the center
-- Distribute responsibilities across named stewards (agents with specific, limited roles)
-- Prevent any single voice (human or agent) from becoming absolute
-- Record critical decisions in a verifiable integrity ledger
+* Human-origin meaning remains central
+* Responsibilities are distributed across bounded roles
+* No single voice (human or computational) becomes absolute
+* Critical decisions are recorded in a cryptographically verifiable audit ledger
 
-The architecture operates across multiple layers:
+The framework operates across three conceptual layers:
 
-- **WebKernel** — Interpretive and explanatory layer
-- **Governance** — Structural enforcement, internal witness cycles, integrity sealing
-- **Public** — This layer: orientation and high-level overview
+* **Interpretive Layer** — Explanatory and narrative surface
+* **Governance Layer** — Internal review processes and hash-based version control
+* **Public Layer** — Orientation and high-level overview
 
 ---
 
@@ -31,111 +33,96 @@ The architecture operates across multiple layers:
 
 ### 1. Governance-First Design
 
-Most systems treat governance as an afterthought. PortusSophia™ treats governance as **the first-class problem**.
+Most systems treat governance as secondary to content. PortusSophia™ treats governance as the primary design problem.
 
-Before content, before philosophy, before "what we say" — the question is: **Who can say what? Under what constraints? With what checks?**
+Before conclusions, before philosophical claims, the guiding question is:
+
+**Who can say what? Under what constraints? With what verification?**
 
 ### 2. Bounded Stewardship
 
-The system uses distinct stewards with **strictly limited authority**:
+The framework distributes reasoning across distinct steward roles with strictly limited scope. These roles include:
 
-- **Orchestration Steward** — Maintains clarity, consistency, coherency, Facilitates method sequences with bounded restraint, facilitates handoffs and verification criteria
-- **Coherence Verifier** — Inspects invariant preservation, type discipline, notation hygiene, and boundary enforcement through read-only inspection
-- **Risk Auditor** — Identifies misuse vectors, models adversarial scenarios, analyzes escalation paths
-- **Rigor Verifier** — Validates mathematical warrant, constructs counterexamples, critiques formal proofs
-- **Authority Watchdog** — Detects authority laundering, checks for moral outsourcing, flags legitimacy boundary violations
-- **Implementation Advisor** — Specifies execution instructions, defines verification procedures, designs audit trail requirements
-- **Gate Keeper**— Performs deterministic file operations, generates artifacts, records audit trails
-- **External Advisor** — Provides exploratory architectural input and scientific design review (non-binding, no release authority)
+* Orchestration (process coordination)
+* Coherence verification (constraint preservation)
+* Risk auditing (misuse analysis)
+* Rigor verification (mathematical and logical review)
+* Authority monitoring (legitimacy boundary checks)
+* Implementation specification (execution design and verification)
+* Deterministic record management (artifact handling and audit logging)
+* External advisory input (non-binding scientific review)
 
-No steward can override the human Founder. No steward has unlimited scope. This is deliberate.
+All steward roles are bounded. Final authorship and accountability remain human.
 
 ### 3. Non-Totalization
 
-The system refuses to make universal, absolute, or totalizing claims. All insights remain:
+The framework avoids universal or totalizing claims. All outputs are treated as:
 
-- Contextual
-- Revisable
-- Subject to constraint
+* Contextual
+* Revisable
+* Constraint-bound
 
-This is enforced through the **PortusNexus™** postulates (N₁–N₇), which function as architectural guardrails against grandiosity and delusion.
+This posture is formalized through the PortusNexus™ postulates (N₁–N₇), which define modeling constraints within the architecture.
 
 ### 4. Integrity by Default
 
-Key events are sealed into the **Golden Trace**, a cryptographic integrity ledger. Each entry includes:
+Key decisions are recorded in a cryptographically verifiable audit ledger. Each entry includes:
 
-- SHA-256 hashes of sealed artifacts
-- Witness determinations
-- Timestamps and seal metadata
-- Public git commits for external audit
+* SHA-256 hash references
+* Independent review notes
+* Timestamps and version metadata
+* Public git commits for external audit
+
+The goal is transparency through mechanism rather than assertion.
+
+### 5. Non-Coercion and Non-Resolution (Operational Constraints)
+
+PortusSophia™ uses two operational constraints to reduce authority inflation and premature closure:
+
+- **Non-coercion:** the framework avoids mechanisms that manipulate, compel, or launder authority into conclusions.
+- **Non-resolution:** the framework avoids forcing certainty beyond what evidence, method, or interface can warrant; outputs remain revisable.
+
+These are design constraints for governed reasoning, not moral claims or universal truths.
 
 ---
 
 ## Why This Matters
 
-### From a Human Perspective
+### Human Perspective
 
-PortusSophia™ provides a way to:
+PortusSophia™ explores ways to:
 
-- **Externalize reasoning** — Don't just "think harder"; structure your thinking
-- **Prevent self-deception** — Multi-steward witnesses catch blind spots
-- **Preserve authority** — The human remains the final decision-maker
-- **Maintain humility** — The system actively resists grandiose claims
+* Externalize reasoning through structured constraint
+* Reduce self-deception via role differentiation
+* Preserve human authorship while using computational assistance
+* Maintain intellectual humility under formal discipline
 
-### From a Technical Perspective
+### Technical Perspective
 
 PortusSophia™ demonstrates:
 
-- **Governance as constraint** — Rules enforced through code, not just policy
-- **Multi-agent stewardship** — Distinct roles, no single point of authority
-- **Cryptographic integrity** — Immutable records, verifiable audit trails
-- **Layered architecture** — Clean separation between WebKernel, Governance, Public
-
----
-
-## What You'll Find Here
-
-This public node provides:
-
-- **Orientation** — High-level explanations of how the system works
-- **Announcements** — Public updates and milestones
-- **Overview** — Non-technical summaries of key concepts
-- **Navigation** — Links to other nodes (when appropriate)
-
-This is **not** the place for:
-
-Governance artifacts or witness cycles (see: internal records)
-
-* Academic research:
-  * ORCID.org Public Record: [James Roy Dennis (0009-0000-6689-8763) - ORCID](https://orcid.org/0009-0000-6689-8763)
-  * SSRN: Author Page: [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
-  * * Core Research: [Schema Epistemics: Knowledge as Constraint-Bearing Structure by James Roy Dennis :: SSRN
-      ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5945995)
+* Governance enforced through structural design rather than policy alone
+* Multi-role verification without centralized epistemic authority
+* Cryptographic traceability for critical decisions
+* Clean separation between interpretive, governance, and public layers
 
 ---
 
 ## Navigation
 
-### PortusSophia™ Nodes
-
-- **[Main Site](https://portussophia.com)** — (you are here) — High-level overview for external audiences
-- **Architect/[Founder](../founder/)** — Institutional identity and mission
-
-### Learn More
-
-- [Structure Overview](./structure.html) — How the architecture is organized
-- [Principles](./principles.html) — Core design principles and constraints
-- [FAQ](./faq.html) — Common questions about the project
+* [**Founder**]() — Institutional identity and mission
+* [Structure Overview]()
+* [Principles]()
+* [FAQ]()
 
 ---
 
 ## Status
 
 **Node Status:** Active
-**Last Updated:** 2026-02-20
-**Classification:** Public (WebKernel Layer)
-**Boundary Compliance:** ✅ Verified
+**Last Updated:** 2026-02
+**Classification:** Public (Interpretive Layer)
 
 ---
 
-**PortusSophia™** — Governance-first architecture, preserved in *"Here and Now!"*
+**PortusSophia™** — Governance-first research framework.
