@@ -1,3 +1,5 @@
+
+
 ---
 layout: page
 title: "Public Orientation"
@@ -5,6 +7,27 @@ nav_title: "Home"
 site_title: "PortusSophia™"
 show_header: true
 permalink: /
+
+uid: "PS-PUB-INDEX_PublicOrientation_v1"
+cycle: "Public"
+version: "v1.0"
+language: "en"
+author: "PortusSophia™"
+classification: "Public Orientation"
+distribution: "Public"
+controlled_lexical_element: "*Here and Now!*"
+
+public_orientation:
+  motto: "**Love, Faith and Joy** — *Here and Now!*"
+  url: "https://public.portussophia.com"
+
+distributed_research:
+  - label: "ORCID"
+    url: "https://orcid.org/0009-0000-6689-8763"
+  - label: "SSRN Author Page"
+    url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792"
+
+identity_note: "Public orientation for PortusSophia™. Structure is primary; personality is not elevated above the work."
 ---
 **Welcome.** This is the public-facing orientation layer for PortusSophia™, a governance-first architecture designed to preserve human meaning while using structured stewardship.
 
