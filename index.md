@@ -49,6 +49,8 @@ The architecture operates across multiple layers:
 - **Governance** — Structural enforcement, witness cycles, integrity sealing
 - **Public** — This layer: orientation and high-level overview
 
+In plain terms, **PortusStructura™** addresses formal system structure and ontological constraints, **PortusEthica™** addresses constraint-bearing cost and responsibility, and **PortusLumen™** addresses interpretive clarity under bounded conditions. These branded components are not metaphors—they are architectural primitives.
+
 ---
 
 ## Core Principles
