@@ -1,151 +1,58 @@
-
-
 ---
 layout: page
-title: "Public Orientation"
+title: "PortusSophia™ Public Orientation"
 nav_title: "Home"
 site_title: "PortusSophia™"
 show_header: true
 permalink: /
-
-uid: "PS-PUB-INDEX_PublicOrientation_v1"
-cycle: "Public"
-version: "v1.0"
-language: "en"
-author: "PortusSophia™"
-classification: "Public Orientation"
-distribution: "Public"
-controlled_lexical_element: "*Here and Now!*"
-
-public_orientation:
-  motto: "**Love, Faith and Joy** — *Here and Now!*"
-  url: "https://public.portussophia.com"
-
-distributed_research:
-  - label: "ORCID"
-    url: "https://orcid.org/0009-0000-6689-8763"
-  - label: "SSRN Author Page"
-    url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792"
-
-identity_note: "Public orientation for PortusSophia™. Structure is primary; personality is not elevated above the work."
----
-**Welcome.** This is the public-facing orientation layer for PortusSophia™, a governance-first architecture designed to preserve human meaning while using structured stewardship.
-
 ---
 
-## What Is PortusSophia™?
+**Welcome.** PortusSophia™ is a methodical inquiry examining how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds with dignified restraint, attending to consequence and propagation without prescribing belief, authority, hierarchy, or outcome.
 
-PortusSophia™ is an experiment in **architectural governance** — a system designed to:
+PortusSophia™ is an independent research initiative based in Maryland, focused on research, systems architecture, and ethical/technical consulting. A Maryland LLC registration for PortusSophia is currently pending review.
 
-- Keep human-origin meaning at the center
-- Distribute responsibilities across named stewards (agents with specific, limited roles)
-- Prevent any single voice (human or agent) from becoming absolute
-- Record critical decisions in a verifiable integrity ledger
+This framework provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive—they articulate what has been observed, not what must be. PortusSophia™ makes no universal claims.
 
-The architecture operates across multiple layers:
+**Public Records**
 
-- **Canon** — Immutable philosophical content (trilingual: English, Latin, Greek)
-- **WebKernel** — Interpretive and explanatory layer
-- **Governance** — Structural enforcement, witness cycles, integrity sealing
-- **Public** — This layer: orientation and high-level overview
+- [Founder](https://founder.portussophia.com)
+- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
+- [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
 
-In plain terms, **PortusStructura™** addresses formal system structure and ontological constraints, **PortusEthica™** addresses constraint-bearing cost and responsibility, and **PortusLumen™** addresses interpretive clarity under bounded conditions. These branded components are not metaphors—they are architectural primitives.
+**What Is PortusSophia™?**
 
----
+PortusSophia™ is a bounded research initiative concerned with coherence, constraint, interpretation, and judgment under conditions where responsibility and consequence cannot be cleanly separated. Its work explores how structure can support disciplined inquiry without displacing human authorship or substituting for individual judgment.
 
-## Core Principles
+The public site provides orientation to that inquiry. It does not ask for belief, subscription, or deference.
 
-### 1. Governance-First Design
+**Working Posture**
 
-Most systems treat governance as an afterthought. PortusSophia™ treats governance as **the first-class problem**.
+PortusSophia™ proceeds with several standing commitments:
 
-Before content, before philosophy, before "what we say" — the question is: **Who can say what? Under what constraints? With what checks?**
+- human-origin meaning remains central
+- judgment is supported, not replaced
+- claims remain contextual and revisable
+- structure is used to improve legibility, not to launder authority
+- engagement is voluntary and non-delegative; autonomy and responsibility remain with the individual at all times
 
-### 3. Non-Totalization
+**Why This Matters**
 
-The system refuses to make universal, absolute, or totalizing claims. All insights remain:
+PortusSophia™ investigates how disciplined structure may help:
 
-- Contextual
-- Revisable
-- Subject to constraint
+- preserve authorship under complexity
+- reduce interpretive drift
+- clarify responsibility without overclaiming certainty
+- support critique without requiring doctrinal agreement
+- maintain coherence while remaining open to revision
 
-This is enforced through the **PortusNexus™** postulates (N₁–N₇), which function as architectural guardrails against grandiosity and delusion.
+**Navigation**
 
-### 4. Integrity by Default
+- [Framework](./framework.html)
+- [Research](./research.html)
+- [Founder](https://founder.portussophia.com)
 
-Key events are sealed into the **Golden Trace**, a cryptographic integrity ledger. Each entry includes:
+**Boundary**
 
-- SHA-256 hashes of sealed artifacts
-- Witness determinations (LOGOS structural + DRACO risk)
-- Timestamps and seal metadata
-- Public git commits for external audit
+This site is an orientation surface. It introduces the project, its posture, and its published work. It is not a substitute for judgment, and any use of PortusSophia™ as authority, prescription, or replacement for individual responsibility is inconsistent with its stated standard.
 
----
-
-## Why This Matters
-
-### From a Human Perspective
-
-PortusSophia™ provides a way to:
-
-- **Externalize reasoning** — Don't just "think harder"; structure your thinking
-- **Prevent self-deception** — Multi-steward witnesses catch blind spots
-- **Preserve authority** — The human remains the final decision-maker
-- **Maintain humility** — The system actively resists grandiose claims
-
-### From a Technical Perspective
-
-PortusSophia™ demonstrates:
-
-- **Governance as constraint** — Rules enforced through code, not just policy
-- **Multi-agent stewardship** — Distinct roles, no single point of authority
-- **Cryptographic integrity** — Immutable records, verifiable audit trails
-- **Layered architecture** — Clean separation between Canon, WebKernel, Governance, Public
-
----
-
-## What You'll Find Here
-
-This public node provides:
-
-- **Orientation** — High-level explanations of how the system works
-- **Announcements** — Public updates and milestones
-- **Overview** — Non-technical summaries of key concepts
-- **Navigation** — Links to other nodes (when appropriate)
-
-This is **not** the place for:
-
-- Canonical philosophical content (see: main site)
-- Governance artifacts or witness cycles (see: internal records)
-- Academic Research
-  - [James Roy Dennis (0009-0000-6689-8763) - My ORCID](https://orcid.org/my-orcid?orcid=0009-0000-6689-8763)
-  - [Author Page for James Roy Dennis :: SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
-- Private narrative or personal history
-
----
-
-## Navigation
-
-### PortusSophia™ Nodes
-
-- **[Main Site](https://portussophia.com)** — WebKernel narratives
-- **[Founder](../founder/)** — Non-Affiliation
-
-### Learn More
-
-- [Structure Overview](./structure.html) — How the architecture is organized
-- [Principles](./principles.html) — Core design principles and constraints
-- [FAQ](./faq.html) — Common questions about the project
-
----
-
-## Status
-
-**Node Status:** Active
-**Last Updated:** 2025-12-04
-**Classification:** Public (WebKernel Layer)
-**Boundary Compliance:** ✅ Verified
-
----
-
-**PortusSophia™** — Governance-first architecture, preserved in *"Here and Now!"*
+**PortusSophia™** — methodical inquiry under constraint.

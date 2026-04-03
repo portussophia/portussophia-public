@@ -1,0 +1,8 @@
+# Governance directory (local only, not published to GitHub)
+governance/
+
+# Research directory (local only, not published to GitHub)
+research/
+
+# Temporary status reports
+temp_git_status_report.txt

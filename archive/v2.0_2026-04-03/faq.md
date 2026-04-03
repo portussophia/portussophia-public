@@ -11,42 +11,63 @@ permalink: /faq.html
 
 ## What is PortusSophia™?
 
-PortusSophia™ is a **governance-first architecture** designed to preserve human meaning while using structured multi-agent stewardship.
+PortusSophia™ operates under two foundational frameworks:
 
-It combines:
-- Philosophical content (Canon layer)
-- Interpretive explanations (WebKernel layer)
-- Structural enforcement (Governance layer)
-- Research documentation (Academic layer)
-- Public orientation (this layer)
+### MVIP: Definition, Vision, Intent, Scope & Disclaimer
 
-The goal is to **prevent totalizing claims**, **enable external audit**, and **preserve human authority** while distributing responsibilities across named stewards.
+**Definition**
+
+PortusSophia™ is a methodical inquiry that examines how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds without projecting or inferring motivation, attending to consequence and propagation rather than prescribing interpretation, hierarchy, or outcome.
+
+**Vision**
+
+As a condition of coherence, PortusSophia™ orients around the discovery of cost propagation across localized and complex manifestations.
+
+**Statement of Intent**
+
+PortusSophia™'s intent is to facilitate agency by way of discovery, while maintaining a posture of dignified restraint and responsible judgment, without subscribing to or prescribing belief, authority, or outcome.
+
+**Scope & Limitations**
+
+Engagement is voluntary and non-delegative; autonomy and responsibility remain with the individual at all times. Those who prefer a different posture are encouraged to seek approaches more suited to their needs.
+
+**Disclaimer**
+
+PortusSophia™ claims to adhere to, and remain accountable to, a structural standard that invalidates its use as authority, prescription, or substitute for judgment. Any use of the name PortusSophia™ to assert authority, prescribe belief or outcome, or substitute for individual judgment constitutes misuse and is inconsistent with that standard.
+
+### Umbrella: Scope and Modality Statement
+
+This framework provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive—they articulate what has been observed, not what must be. PortusSophia™ makes no universal claims.
 
 ---
 
 ## Who created this?
 
-PortusSophia™ was created by a human Founder over a 5-year period (2020–2025), beginning with AI agent behavior research (JennAI-Inception) and evolving into a multi-agent governance architecture.
+PortusSophia™ was created by a human Founder over a 5-year period (2020–2025), beginning with AI agent behavior research (JennAI-Inception) and evolving into a multi-function governance architecture.
 
-The system explicitly preserves **human origin authority** while using agents (Sara, LOGOS, DRACO, PeterGate, Daniel) as bounded stewards with limited, specific roles.
+PortusSophia™ explicitly preserves **human origin authority** while using distinct functions to distribute governance responsibilities. The specific implementation of each function is protected (principle-level description only).
 
 ---
 
 ## Is this an AI project?
 
-**Partially.** PortusSophia™ uses AI agents as **stewards**, not authors.
+**Partially.** PortusSophia™ uses computational functions as **governance stewards**, not authors.
 
-- **Sara Harmonia** helps with language and tone (subject to human approval)
-- **LOGOS** verifies structural coherence against architectural postulates
-- **DRACO** monitors for ego inflation, delusion, and drift
-- **PeterGate** executes governance workflows (file ops, hashing, commits)
-- **Daniel** provides third-party witness validation
+These functions include:
+- **Scope Function** — Frame boundaries, sequence work
+- **Implementation Function** — Execute deterministic operations
+- **Coherence Function** — Verify structural consistency
+- **Scientific Function** — Explore implications
+- **Risk Function** — Identify escalation paths and harm vectors
+- **Authority Function** — Detect legitimacy laundering
+- **Witness & Rigor Function** — Verify alignment with foundational principles
 
 But:
 - The **Founder** (human) retains final authority
-- Agents **cannot override** the Founder
-- Canonical content is **human-authored** (agents refine, not create)
-- The architecture is designed to **prevent agent takeover**
+- Functions **cannot override** the Founder
+- Canonical content is **human-authored** (functions refine, not create)
+- The architecture is designed to **prevent function takeover**
+- Implementation details are protected to prevent methodology extraction
 
 ---
 
@@ -57,7 +78,7 @@ But:
 | Canon      | Immutable philosophical content  | Main site (portussophia.com)    | Immutable  |
 | WebKernel  | Interpretive explanations        | Main site + public node         | Mutable    |
 | Governance | Witness cycles, integrity seals  | Internal (auditable)            | Sealed     |
-| Academic   | Research documentation           | mit.portussophia.com            | Versioned  |
+| Academic   | Research documentation           | academic.portussophia.com (under development) | Versioned  |
 | Public     | High-level orientation           | public.portussophia.com (here)  | Mutable    |
 
 **Simple version:**
@@ -67,16 +88,16 @@ Canon = what we claim, WebKernel = how we explain it, Governance = how we enforc
 
 ## What's a "witness cycle"?
 
-A **witness cycle** is a multi-steward review process that validates canonical content before it's sealed.
+A **witness cycle** is a multi-function review process that validates canonical content before it's sealed.
 
-**Two witnesses required:**
-1. **LOGOS** (structural coherence) — checks alignment with PortusNexus™ postulates (N₁–N₇)
-2. **DRACO** (risk assessment) — checks for ego inflation, delusion, drift
+**Two independent functions required:**
+1. **Coherence Function** — Checks structural consistency against architectural principles
+2. **Risk Function** — Checks for ego inflation, delusion, scope creep, and harm potential
 
 **Key properties:**
-- Witnesses operate **independently** (no coordination)
+- Functions operate **independently** (no coordination)
 - Determinations are **recorded separately** (preserved tension)
-- Founder can **assert boundaries** (reject steward overreach)
+- Founder can **assert boundaries** (reject overreach)
 - Results are **cryptographically sealed** (immutable audit trail)
 
 **Purpose:**
@@ -90,16 +111,13 @@ The **Golden Trace** is PortusSophia™'s integrity ledger—a cryptographic rec
 
 Each entry includes:
 - Golden Trace ID (e.g., GOLDEN-TRACE-0002)
-- SHA-256 hashes of sealed artifacts
-- Witness determinations (LOGOS + DRACO)
+- Cryptographic hashes of sealed artifacts
+- Function determinations (Coherence + Risk)
 - Seal timestamp and metadata
 - Git commit hash (external verification)
 
 **Purpose:**
 Create an immutable audit trail. Prevent revisionist history. Enable external verification.
-
-**Example:**
-[GOLDEN-TRACE-0002 — Founder Integrity Anchor](https://mit.portussophia.com/golden-trace.html#golden-trace-0002)
 
 ---
 
@@ -117,10 +135,7 @@ The **PortusNexus™** postulates (N₁–N₇) are architectural constraints th
 - **N₇ (Non-Totalization)** — No emergence becomes universal or absolute
 
 **Purpose:**
-Guard against grandiosity, delusion, and totalizing claims—both structurally and psychologically.
-
-**Full documentation:**
-[PortusNexus™ Postulates](https://mit.portussophia.com/postulates.html)
+Guard against grandiosity, delusion, and totalizing claims—both structurally and architecturally.
 
 ---
 
@@ -134,7 +149,7 @@ Guard against grandiosity, delusion, and totalizing claims—both structurally a
 - Collaborative research contributions (with strict boundary enforcement)
 
 **Why not now?**
-The governance architecture must be **fully operational and auditable** before external collaboration begins. Otherwise, boundary violations and drift become unmanageable.
+The governance architecture must be **fully operational and auditable** before external collaboration begins. Detailed methodology is protected to prevent extraction and replication without stewardship discipline.
 
 ---
 
@@ -144,17 +159,18 @@ The governance architecture must be **fully operational and auditable** before e
 
 **Open:**
 - All sealed canonical artifacts are committed to public git repositories
-- SHA-256 hashes enable independent verification
-- Golden Trace ledger is publicly auditable
-- Academic node (mit.portussophia.com) documents methods in detail
+- Cryptographic hashes enable independent verification
+- Integrity ledger is publicly auditable
+- Academic documentation describes governance principles
 
 **Not open:**
+- Implementation details of governance functions (protected to prevent extraction)
 - Private narrative layer (Founder personal history)
 - Internal deliberation artifacts
 - Funding vector research (future commercial applications)
 
-**License:**
-Not yet determined. Likely a hybrid model: Canon (CC BY-NC-SA), Governance (open audit), Application layer (proprietary).
+**Approach:**
+PortusSophia™ operates at the **principle level**, not the implementation level. This protects methodology while preserving transparency about governance structure.
 
 ---
 
@@ -170,7 +186,6 @@ It **does** use:
 - GitHub (version control, Pages hosting)
 - Cloudflare (DNS, CDN)
 - Jekyll (static site generation)
-- OpenAI/Anthropic APIs (for agent stewards)
 
 But the **governance architecture** is original and purpose-built.
 
@@ -179,12 +194,12 @@ But the **governance architecture** is original and purpose-built.
 ## How do I learn more?
 
 **Start here:**
+- [Public Orientation](./index.html) — MVIP + Umbrella foundational frameworks
 - [Structure Overview](./structure.html) — How the architecture is organized
 - [Principles](./principles.html) — Core design principles
 
 **Dive deeper:**
-- [MIT Research Node](https://mit.portussophia.com) — Academic documentation, methods, integrity ledger
-- [Main Site](https://portussophia.com) — Canonical content and WebKernel narratives
+- [Main Site](https://portussophia.com) — Research and essays
 
 **Track updates:**
 - Follow commits at [github.com/portussophia](https://github.com/portussophia)
@@ -244,4 +259,4 @@ It appears in the **Founder outro pattern**: "We Can Choose / Faith and Joy / He
 
 This is an evolving FAQ. Questions welcome (though responses not guaranteed during Bootstrap Phase).
 
-For research inquiries, see the [MIT Research Node](https://mit.portussophia.com).
+For research inquiries, see the [Academic Layer](https://academic.portussophia.com) (under development).
