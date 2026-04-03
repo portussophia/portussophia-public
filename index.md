@@ -1,41 +1,112 @@
----
-layout: page
-title: "PortusSophia™ Public Orientation"
-nav_title: "Home"
-site_title: "PortusSophia™"
-show_header: true
-permalink: /
+**Welcome.** PortusSophia™ is an experimental research framework exploring governance-first design for complex reasoning systems. Its central question is simple: *How can authority, interpretation, and verification be structurally constrained without eliminating human authorship?*
+
 ---
 
-**Welcome.** PortusSophia™ is a methodical inquiry examining how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds with dignified restraint, attending to consequence and propagation without prescribing belief, authority, hierarchy, or outcome.
+## Academic Research
 
-PortusSophia™ is an independent research initiative based in Maryland, focused on research, systems architecture, and ethical/technical consulting. A Maryland LLC registration for PortusSophia is currently pending review.
+* ORCID Public Record: [(0009-0000-6689-8763)]()
+* SSRN Author Page: [(9648792)]()
+* DOI (Schema Epistemics): [http://dx.doi.org/10.2139/ssrn.5945995]()
 
-This framework provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive—they articulate what has been observed, not what must be. PortusSophia™ makes no universal claims.
+PortusSophia™ research outputs are published independently. The governance framework described here provides structural discipline, not doctrinal authority. All claims remain open to critique and revision.
 
-**Public Records**
+---
+
+## What Is PortusSophia™?
+
+PortusSophia™ is a research initiative investigating **architectural governance** — the design of systems in which:
+
+* Human-origin meaning remains central
+* Responsibilities are distributed across bounded roles
+* No single voice (human or computational) becomes absolute
+* Critical decisions are recorded in a cryptographically verifiable audit ledger
+
+The framework operates across three conceptual layers:
+
+* **Interpretive Layer** — Explanatory and narrative surface
+* **Governance Layer** — Internal review processes and hash-based version control
+* **Public Layer** — Orientation and high-level overview
+
+---
+
+## Core Principles
+
+### 1. Governance-First Design
+
+Most systems treat governance as secondary to content. PortusSophia™ treats governance as the primary design problem.
+
+Before conclusions, before philosophical claims, the guiding question is:
+
+**Who can say what? Under what constraints? With what verification?**
+
+### 2. Bounded Stewardship
+
+The framework distributes reasoning across distinct steward roles with strictly limited scope. These roles include:
+
+* Orchestration (process coordination)
+* Coherence verification (constraint preservation)
+* Risk auditing (misuse analysis)
+* Rigor verification (mathematical and logical review)
+* Authority monitoring (legitimacy boundary checks)
+* Implementation specification (execution design and verification)
+* Deterministic record management (artifact handling and audit logging)
+* External advisory input (non-binding scientific review)
+
+All steward roles are bounded. Final authorship and accountability remain human.
+
+### 3. Non-Totalization
+
+The framework avoids universal or totalizing claims. All outputs are treated as:
+
+* Contextual
+* Revisable
+* Constraint-bound
+
+This posture is formalized through the PortusNexus™ postulates (N₁–N₇), which define modeling constraints within the architecture.
 
 - [Founder](https://founder.portussophia.com)
 - [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
 - [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
 
-**What Is PortusSophia™?**
+Key decisions are recorded in a cryptographically verifiable audit ledger. Each entry includes:
 
-PortusSophia™ is a bounded research initiative concerned with coherence, constraint, interpretation, and judgment under conditions where responsibility and consequence cannot be cleanly separated. Its work explores how structure can support disciplined inquiry without displacing human authorship or substituting for individual judgment.
+* SHA-256 hash references
+* Independent review notes
+* Timestamps and version metadata
+* Public git commits for external audit
 
-The public site provides orientation to that inquiry. It does not ask for belief, subscription, or deference.
+The goal is transparency through mechanism rather than assertion.
 
-**Working Posture**
+### 5. Non-Coercion and Non-Resolution (Operational Constraints)
 
-PortusSophia™ proceeds with several standing commitments:
+PortusSophia™ uses two operational constraints to reduce authority inflation and premature closure:
 
-- human-origin meaning remains central
-- judgment is supported, not replaced
-- claims remain contextual and revisable
-- structure is used to improve legibility, not to launder authority
-- engagement is voluntary and non-delegative; autonomy and responsibility remain with the individual at all times
+- **Non-coercion:** the framework avoids mechanisms that manipulate, compel, or launder authority into conclusions.
+- **Non-resolution:** the framework avoids forcing certainty beyond what evidence, method, or interface can warrant; outputs remain revisable.
 
-**Why This Matters**
+These are design constraints for governed reasoning, not moral claims or universal truths.
+
+---
+
+## Why This Matters
+
+### Human Perspective
+
+PortusSophia™ explores ways to:
+
+* Externalize reasoning through structured constraint
+* Reduce self-deception via role differentiation
+* Preserve human authorship while using computational assistance
+* Maintain intellectual humility under formal discipline
+
+### Technical Perspective
+
+PortusSophia™ demonstrates:
+
+* Governance enforced through structural design rather than policy alone
+* Multi-role verification without centralized epistemic authority
+* Cryptographic traceability for critical decisions
+* Clean separation between interpretive, governance, and public layers
 
 PortusSophia™ investigates how disciplined structure may help:
 
@@ -45,14 +116,19 @@ PortusSophia™ investigates how disciplined structure may help:
 - support critique without requiring doctrinal agreement
 - maintain coherence while remaining open to revision
 
-**Navigation**
+* [**Founder**]() — Institutional identity and mission
+* [Structure Overview]()
+* [Principles]()
+* [FAQ]()
 
-- [Framework](./framework.html)
-- [Research](./research.html)
-- [Founder](https://founder.portussophia.com)
+---
 
-**Boundary**
+## Status
 
-This site is an orientation surface. It introduces the project, its posture, and its published work. It is not a substitute for judgment, and any use of PortusSophia™ as authority, prescription, or replacement for individual responsibility is inconsistent with its stated standard.
+**Node Status:** Active
+**Last Updated:** 2026-02
+**Classification:** Public (Interpretive Layer)
 
-**PortusSophia™** — methodical inquiry under constraint.
+---
+
+**PortusSophia™** — Governance-first research framework.
