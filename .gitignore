@@ -1,8 +1,18 @@
+# Archive directory (v2.0 backup, local only)
+archive/
+
+# Temporary directories
+.temp/
+temp_git_status_report.txt
+
 # Governance directory (local only, not published to GitHub)
 governance/
 
 # Research directory (local only, not published to GitHub)
 research/
 
-# Temporary status reports
-temp_git_status_report.txt
+# Development/staging directories (not published to GitHub)
+discoveries/
+docs/
+going-live/
+portfolio/

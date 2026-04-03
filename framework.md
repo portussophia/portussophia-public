@@ -62,7 +62,7 @@ PortusSophia™ proceeds with several standing commitments:
 
 The framework exists to support inquiry, not to dominate it. Published papers remain independently readable and open to critique. The framework provides a bounded structural environment for authorship, review, and refinement; it does not ask the reader for deference.
 
-The current public site and SSRN author page are live, and SSRN currently shows public abstract pages for the Integrator paper, Schema Epistemics, and Velocity Degradation.
+The current public site and SSRN author page are live, and SSRN shows public pages for the Integrator paper, Schema Epistemics, and Velocity Degradation.
 
 **Boundary**
 
