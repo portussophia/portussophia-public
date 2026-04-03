@@ -1,38 +1,63 @@
-# PortusSophia™ — Public Orientation
+# PortusSophia™ — Public Orientation Repository
 
-**Welcome.** PortusSophia™ is a governance-driven philosophical framework exploring constraint, presence, and structural integrity.
+PortusSophia™ is a methodical inquiry examining how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds with dignified restraint, attending to consequence and propagation without prescribing belief, authority, hierarchy, or outcome.
 
----
+This framework provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive—they articulate what has been observed, not what must be. PortusSophia™ makes no universal claims.
 
-## Start Here
-
-**Papers (SSRN):** Immutable working paper series
-→ WPS 6099106, 6099526, 6134346, 6145366 — [SSRN Author Page](https://ssrn.com/author=6099106)
-
-**Discussions (GitHub):** Living library for clarifications, examples, reader Q&A
-→ [Library Index](https://github.com/orgs/portussophia/discussions) (Reading Pathways category)
-
-**Full Site:** Canon, governance, and principles
-→ [portussophia.com](https://portussophia.com)
+PortusSophia™ is an independent research initiative based in Maryland, focused on research, systems architecture, and ethical/technical consulting. A Maryland LLC registration for PortusSophia is currently pending review.
 
 ---
 
-## What You'll Find in This Repository
+## Repository Purpose
 
-- `index.md` — Landing page overview
-- `structure.md` — Layer and node organization
-- `principles.md` — Core design principles
-- `faq.md` — Frequently asked questions
-- `docs/` — Deployment, governance, and status documentation (internal)
+This repository hosts the public orientation site at [public.portussophia.com](https://public.portussophia.com). It serves as an entry point and index into related public materials, including research outputs, foundational frameworks, and professional context.
 
 ---
 
-## Governance
+## Public Records
 
-This public node is maintained with lightweight, bounded content. For governance inquiries, see [Governance & Meta](https://github.com/orgs/portussophia/discussions/categories/governance-meta) in Discussions.
+**Founder:** [James Roy Dennis](https://founder.portussophia.com) — published researcher, independent scholar, and systems architect
 
-**Deployment & Maintenance:** See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md), [docs/GOVERNANCE.md](docs/GOVERNANCE.md), [docs/STATUS.md](docs/STATUS.md).
+**Research Indexes:**
+- ORCID: [0009-0000-6689-8763](https://orcid.org/0009-0000-6689-8763)
+- SSRN Author Page: [papers.ssrn.com](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
+
+**Selected Works:**
+- *PortusSophia™: Series Integrator, Dependency Map, and Reader's Guide* (2026) — [DOI: 10.2139/ssrn.6161806](https://doi.org/10.2139/ssrn.6161806)
+- *Schema Epistemics: Knowledge as Constraint-Bearing Structure* (2026) — [DOI: 10.2139/ssrn.5945995](https://doi.org/10.2139/ssrn.5945995)
+  Secondary record: LensID `098-223-989-985-589`
+- *Velocity Degradation in Hierarchical Multi-Agent Systems Under Discard* (2026) — [DOI: 10.2139/ssrn.6238041](https://doi.org/10.2139/ssrn.6238041)
 
 ---
 
-**PortusSophia™** — *"Here and Now!"*
+## Repository Map
+
+**Public Orientation:**
+- [index.md](index.md) — public orientation and working posture
+- [framework.md](framework.md) — foundational frameworks (MVIP, Umbrella, axioms) and scope
+- [research.md](research.md) — selected public research outputs
+
+**Infrastructure:**
+- Jekyll configuration and templates (`_config.yml`, `_layouts/`, `_includes/`)
+- Navigation assets and seals (`assets/`)
+
+**Local Materials (not published to GitHub):**
+- internal governance documents
+- research artifacts
+- development and staging content
+
+---
+
+## Scope and Boundary
+
+This is a repository orientation document, not a doctrine, universal theory, or substitute for judgment. The work is descriptive, not prescriptive. Engagement is voluntary and non-delegative; autonomy and responsibility remain with the individual at all times.
+
+---
+
+## Internal Discipline
+
+The work uses bounded review, versioning, and traceable stewardship internally. Public-facing materials are produced under stated constraints; internal methodology is maintained separately to preserve structural discipline and avoid drift.
+
+---
+
+**PortusSophia™** — methodical inquiry under constraint.

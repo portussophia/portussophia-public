@@ -64,7 +64,9 @@ The framework avoids universal or totalizing claims. All outputs are treated as:
 
 This posture is formalized through the PortusNexus™ postulates (N₁–N₇), which define modeling constraints within the architecture.
 
-### 4. Integrity by Default
+- [Founder](https://founder.portussophia.com)
+- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
+- [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
 
 Key decisions are recorded in a cryptographically verifiable audit ledger. Each entry includes:
 
@@ -106,9 +108,13 @@ PortusSophia™ demonstrates:
 * Cryptographic traceability for critical decisions
 * Clean separation between interpretive, governance, and public layers
 
----
+PortusSophia™ investigates how disciplined structure may help:
 
-## Navigation
+- preserve authorship under complexity
+- reduce interpretive drift
+- clarify responsibility without overclaiming certainty
+- support critique without requiring doctrinal agreement
+- maintain coherence while remaining open to revision
 
 * [**Founder**]() — Institutional identity and mission
 * [Structure Overview]()
