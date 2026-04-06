@@ -45,6 +45,8 @@ PortusSophia™ investigates how disciplined structure may help:
 - support critique without requiring doctrinal agreement
 - maintain coherence while remaining open to revision
 
+The framework has application wherever costs are displaced across system boundaries and accountability becomes difficult to trace.
+
 **Navigation**
 
 - [Framework](./framework.html)
@@ -54,5 +56,13 @@ PortusSophia™ investigates how disciplined structure may help:
 **Boundary**
 
 This site is an orientation surface. It introduces the project, its posture, and its published work. It is not a substitute for judgment, and any use of PortusSophia™ as authority, prescription, or replacement for individual responsibility is inconsistent with its stated standard.
+
+## Engage
+
+Repository is not yet forkable. Under development.
+
+For collaboration, institutional inquiry, or general engagement: contact@portussophia.com
+
+For research and academic inquiries: research@portussophia.com
 
 **PortusSophia™** — methodical inquiry under constraint.
