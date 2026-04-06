@@ -45,7 +45,7 @@ PortusSophia™ investigates how disciplined structure may help:
 - support critique without requiring doctrinal agreement
 - maintain coherence while remaining open to revision
 
-The framework has application wherever costs are displaced across system boundaries and accountability becomes difficult to trace.
+When decisions and their consequences offer distinction across time and/or structure, what makes that separation legible? Is it the distinction or the quality? And what allows those separated by capacity to recognize the connection before it hardens into truth?
 
 **Navigation**
 
@@ -59,10 +59,10 @@ This site is an orientation surface. It introduces the project, its posture, and
 
 ## Engage
 
-Repository is not yet forkable. Under development.
+**Research Collaboration:** For academic collaboration, joint research initiatives, or institutional inquiry: research@portussophia.com
 
-For collaboration, institutional inquiry, or general engagement: contact@portussophia.com
+**Aligned Consulting:** Selective consulting available in healthcare interoperability, governance-aware system design, and constraint modeling under conditions of high complexity. Inquiries: contact@portussophia.com
 
-For research and academic inquiries: research@portussophia.com
+PortusSophia™ operates with bounded capacity and selective engagement. All work maintains the non-authoritative, responsibility-preserving posture documented throughout this site.
 
 **PortusSophia™** — methodical inquiry under constraint.
