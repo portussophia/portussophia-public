@@ -51,6 +51,7 @@ When decisions and their consequences offer distinction across time and/or struc
 
 - [Framework](./framework.html)
 - [Research](./research.html)
+- [Design Review Executive Sheet](./design-review-executive-sheet.html)
 - [Founder](https://founder.portussophia.com)
 
 **Boundary**
