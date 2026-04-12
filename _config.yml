@@ -8,8 +8,11 @@ github:
 
 header_pages:
   - index.md
-  - ../founder/index.md
-  - ../webkernel/mit/index.md
+  - framework.md
+  - research.md
+  - https://founder.portussophia.com
+  - https://mit.portussophia.com
+  - https://security.portussophia.com
 
 exclude:
   - README.md
