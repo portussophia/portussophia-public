@@ -6,14 +6,6 @@ markdown: kramdown
 github:
   is_project_page: false
 
-header_pages:
-  - index.md
-  - framework.md
-  - research.md
-  - https://founder.portussophia.com
-  - https://mit.portussophia.com
-  - https://security.portussophia.com
-
 exclude:
   - README.md
   - Gemfile

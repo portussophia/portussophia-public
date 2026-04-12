@@ -1,0 +1,20 @@
+- title: Home
+  url: /
+
+- title: Framework
+  url: /framework.html
+
+- title: Research
+  url: /research.html
+
+- title: Founder
+  url: https://founder.portussophia.com
+  external: true
+
+- title: MIT
+  url: https://mit.portussophia.com
+  external: true
+
+- title: Security
+  url: https://security.portussophia.com
+  external: true
