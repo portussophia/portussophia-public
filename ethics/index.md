@@ -4,7 +4,6 @@ title: "Ethics"
 subtitle: "What love requires when minds encounter each other under pressure"
 permalink: /ethics/
 ---
-
 # Ethics
 
 *What love requires when minds encounter each other under pressure*
@@ -188,13 +187,9 @@ Fidelity is not sentiment. It is the practice of choosing to maintain integrity 
 Fidelity looks like:
 
 - **Seeing the cost.** Not looking away. Not abstracting it into statistics or systems. Encountering the actual person bearing the burden and acknowledging: this is real.
-
 - **Naming it.** Speaking the cost aloud so it cannot hide. "This is what this choice requires. This is who bears it. This is what I am asking of you and why."
-
 - **Choosing anyway.** With open eyes. Knowing what it costs and deciding that maintaining coherence matters enough to bear it.
-
 - **Showing up tomorrow.** When the pressure does not diminish, when the burden does not lighten, when the work remains undone. Fidelity is not one choice. It is the repeated choice, day after day, to love faithfully when easier paths exist.
-
 - **Admitting when you cannot.** This is the hardest part. When the work exceeds your capacity. When you have to say: I cannot maintain this. I can try something else, but I cannot maintain what I promised. And bearing the consequence of that admission.
 
 Fidelity is the ground of ethical coherence. Not because it guarantees success. Because it maintains the possibility of genuine encounter. So long as fidelity holds, love can be real. The moment fidelity fails, love becomes fiction.
@@ -208,15 +203,10 @@ The paper does not tell you what to do when ethical coherence begins to fail. It
 Ethical breakdown has observable signatures:
 
 - **Cost becomes invisible.** People talk about problems in abstract terms. The actual people bearing the burden are not present in the conversation.
-
 - **Consent disappears.** Decisions are made about what others must bear, but those others have no voice in the choosing. What was collaboration becomes imposition.
-
 - **Discomfort stops being signal.** People who raise concerns are told they are "resisting good" or "being difficult." The system's refusal to hear becomes evidence that the system is right.
-
 - **Authority expands.** The people making decisions begin to believe they have the right to decide *for* others. Paternalism replaces partnership.
-
 - **Time pressure becomes excuse.** "We don't have time to ask" becomes the justification for decisions that affect others profoundly.
-
 - **Distance increases.** Decision-makers become physically, informationally, or relationally distant from those bearing the consequences. The people affected are no longer *seen*.
 
 When these signatures appear, ethical coherence has already begun to degrade. It may not be visible yet. But the breakdown is structural, not incidental.
@@ -287,4 +277,4 @@ This research received no external funding. Dreams emerge through presence. Camm
 
 *Sequentially consequential, singularly inextractable, relationally observant. PARADOX.*
 
-*Here and now.*
+*Here and now!*
