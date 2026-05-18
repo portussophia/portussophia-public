@@ -9,7 +9,7 @@ permalink: /
 
 **Welcome.** PortusSophia™ is a methodical inquiry examining how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds with dignified restraint, attending to consequence and propagation without prescribing belief, authority, hierarchy, or outcome.
 
-PortusSophia™ is an independent research initiative based in Maryland, focused on research, systems architecture, and ethical/technical consulting. A Maryland LLC registration for PortusSophia is currently pending review.
+PortusSophia™ is an independent research initiative based in Maryland, focused on research, systems architecture, and ethical/technical consulting. PortusSophia, LLC is registered in the state of Maryland.
 
 This framework provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive—they articulate what has been observed, not what must be. PortusSophia™ makes no universal claims.
 
@@ -50,6 +50,7 @@ When decisions and their consequences offer distinction across time and/or struc
 **Navigation**
 
 - [Framework](./framework.html)
+- [Ethics](./ethics.html)
 - [Research](./research.html)
 - [Design Review Executive Sheet](./design-review-executive-sheet.html)
 - [Founder](https://founder.portussophia.com)
