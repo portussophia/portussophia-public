@@ -50,7 +50,7 @@ When decisions and their consequences offer distinction across time and/or struc
 **Navigation**
 
 - [Framework](./framework.html)
-- [Ethics](./ethics.html)
+- [Ethics](./ethics/)
 - [Research](./research.html)
 - [Design Review Executive Sheet](./design-review-executive-sheet.html)
 - [Founder](https://founder.portussophia.com)
