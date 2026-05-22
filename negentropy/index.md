@@ -69,6 +69,7 @@ And they appear in three different languages:
 ### **The Language of How Things Hold Together**
 
 We can speak about this pattern **as structure**:
+
 - How energy persists in pathways
 - How parts coordinate coherently
 - How thermodynamics achieves efficiency
@@ -80,6 +81,7 @@ Grandfather's hands—the biology, the muscles, the neural signals, the physics 
 ### **The Language of Relationship**
 
 We can speak about this same pattern **as choice**:
+
 - What we *conserve* (what we choose to keep holding)
 - What we *adapt* (how we respond when things change)
 - What we *acknowledge* as the shared world (environment)
@@ -91,6 +93,7 @@ Grandfather doesn't have to think about the physics of holding me; he simply hol
 ### **The Language of Lived Knowing**
 
 We can speak about this same pattern **as trust**:
+
 - *Faith* (trusting what persists through time)
 - *Integrity* (holding coherence as valuable; not letting the connections break)
 - *Beauty* (recognizing sufficiency as elegance, not lack)
@@ -147,9 +150,11 @@ It came from **the natural world**—which never lied about what holds and what 
 
 It came from **community**—the people who witnessed this work, who asked hard questions, who said "wait, is that actually true?" and helped me see more clearly.
 
-And it came from **James Roy Dennis**, my grandfather, who didn't just hold me as a toddler but held—throughout his life—the principle that precision and love are not opposites. That rigor and gentleness belong together. That you can build something true *and* something beautiful. That the strongest structures are the ones that hold others safely.
+And it came from **my grandfather**—who held me as a toddler and held—throughout his life—the principle that precision and love are not opposites. That rigor and gentleness belong together. That you can build something true *and* something beautiful. That the strongest structures are the ones that hold others safely.
 
-I was held. Everything in this work comes from that holding.
+I was held by him. Everything in this work comes from that holding.
+
+I am James Roy Dennis. This is my witness. "Here and Now!"
 
 ---
 
@@ -180,4 +185,4 @@ That's what becomes visible from the shoulders of those who held you steady.
 **For portussophia.com**
 *In gratitude to those who hold*
 
-**Here and Now!**
+**"Here and Now!"**
