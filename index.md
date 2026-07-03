@@ -3,7 +3,7 @@ layout: page
 title: "PortusSophia™ Public Orientation"
 nav_title: "Home"
 site_title: "PortusSophia™"
-show_header: true
+show_header: false
 permalink: /
 ---
 

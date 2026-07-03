@@ -317,3 +317,45 @@ footer {
     color: var(--muted);
 
 }
+
+/* ==========================================================
+   Header & Footer Overrides (Minima Theme)
+   ========================================================== */
+
+.site-header {
+    background-color: var(--surface);
+    border-bottom: 1px solid var(--border);
+}
+
+.site-title,
+.site-title:visited {
+    color: var(--ps-gold) !important;
+}
+
+.site-title:hover {
+    color: var(--heading) !important;
+    text-decoration: none;
+}
+
+.site-nav .page-link {
+    color: var(--text) !important;
+}
+
+.site-nav .page-link:hover {
+    color: var(--ps-gold) !important;
+}
+
+.site-footer {
+    background-color: var(--surface);
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+}
+
+.site-footer a,
+.site-footer .footer-col-wrapper {
+    color: var(--muted);
+}
+
+.site-footer a:hover {
+    color: var(--ps-gold);
+}
