@@ -1,0 +1,319 @@
+/* ==========================================================
+   PortusSophia™ Official Website Stylesheet
+   Canonical Palette v1.2
+   ========================================================== */
+
+:root {
+
+    /* Canonical Brand Colors */
+    --ps-navy:      #0D1B2A;
+    --ps-gold:      #F0B53F;
+    --ps-dark:      #1A1A2E;
+    --ps-soft:      #555555;
+    --ps-grey:      #CCCCCC;
+    --ps-mgrey:     #888888;
+    --ps-link:      #1A61AD;
+
+    /* Dark Theme */
+    --background:   #0D1B2A;
+    --surface:      #132538;
+    --border:       #28405B;
+
+    /* Typography */
+    --heading:      #F0B53F;
+    --text:         #E7EEF5;
+    --muted:        #B8C3D1;
+
+    /* Layout */
+    --max-width:    1100px;
+    --content-width: 760px;
+}
+
+/* ==========================================================
+   Base
+   ========================================================== */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+
+    background: var(--background);
+    color: var(--text);
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    line-height: 1.8;
+
+}
+
+/* ==========================================================
+   Layout
+   ========================================================== */
+
+.container {
+
+    width: min(92%, var(--max-width));
+    margin: auto;
+
+}
+
+.content {
+
+    max-width: var(--content-width);
+
+}
+
+/* ==========================================================
+   Typography
+   ========================================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+    color: var(--heading);
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 700;
+
+    line-height: 1.3;
+
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+
+}
+
+h1 {
+    font-size: 2.6rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.55rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+
+p {
+
+    margin-bottom: 1.35rem;
+    color: var(--text);
+
+}
+
+small,
+.caption,
+.muted {
+
+    color: var(--muted);
+
+}
+
+/* ==========================================================
+   Lists
+   ========================================================== */
+
+ul,
+ol {
+
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+
+}
+
+li {
+
+    margin-bottom: .6rem;
+
+}
+
+/* ==========================================================
+   Links
+   ========================================================== */
+
+a {
+
+    color: #5FA8FF;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color: #8FC4FF;
+    text-decoration: underline;
+
+}
+
+/* ==========================================================
+   Horizontal Rule
+   ========================================================== */
+
+hr {
+
+    border: none;
+    border-top: 1px solid var(--border);
+
+    margin: 3rem 0;
+
+}
+
+/* ==========================================================
+   Cards
+   ========================================================== */
+
+.card {
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: 10px;
+
+    padding: 2rem;
+
+    margin-bottom: 2rem;
+
+}
+
+/* ==========================================================
+   Blockquotes
+   ========================================================== */
+
+blockquote {
+
+    margin: 2rem 0;
+    padding-left: 1.5rem;
+
+    border-left: 4px solid var(--ps-gold);
+
+    color: var(--muted);
+
+    font-style: italic;
+
+}
+
+/* ==========================================================
+   Tables
+   ========================================================== */
+
+table {
+
+    width: 100%;
+    border-collapse: collapse;
+
+    margin: 2rem 0;
+
+}
+
+th {
+
+    color: var(--heading);
+
+    border-bottom: 2px solid var(--ps-gold);
+
+    padding: .75rem;
+
+    text-align: left;
+
+}
+
+td {
+
+    border-bottom: 1px solid var(--border);
+
+    padding: .75rem;
+
+}
+
+/* ==========================================================
+   Code
+   ========================================================== */
+
+code,
+pre {
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+
+    border-radius: 6px;
+
+}
+
+code {
+
+    padding: .15rem .35rem;
+
+}
+
+pre {
+
+    padding: 1rem;
+    overflow-x: auto;
+
+}
+
+/* ==========================================================
+   Footer
+   ========================================================== */
+
+footer {
+
+    margin-top: 6rem;
+    padding: 2rem 0;
+
+    border-top: 1px solid var(--border);
+
+    color: var(--muted);
+
+    font-size: .9rem;
+
+}
+
+/* ==========================================================
+   Utility Classes
+   ========================================================== */
+
+.gold {
+    color: var(--ps-gold);
+}
+
+.center {
+    text-align: center;
+}
+
+.max-content {
+    max-width: var(--content-width);
+}
+
+.section {
+    padding: 5rem 0;
+}
+
+.lead {
+
+    font-size: 1.2rem;
+
+    color: var(--muted);
+
+}
