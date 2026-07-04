@@ -1,71 +1,67 @@
 ---
-layout: page
-title: "PortusSophia™ Public Orientation"
-nav_title: "Home"
-site_title: "PortusSophia™"
-show_header: false
+
+layout: default
+title: Home
 permalink: /
+
+PortusSophia™
+
+A field architecture for disciplined inquiry.
+
+PortusSophia™ is an independent research program developing a field architecture for disciplined inquiry.
+
+Its central concern is not what people conclude, but how inquiry is conducted. PortusSophia investigates how distinctions, declared boundaries, and regime discipline influence the reliability of observation and the coherence of reasoning across fields of knowledge.
+
+Rather than proposing another comprehensive theory, PortusSophia provides an architectural approach for conducting inquiry while preserving the conditions under which observations, methods, and conclusions remain meaningful.
+
 ---
 
-**Welcome.** PortusSophia™ is a methodical inquiry examining how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds with dignified restraint, attending to consequence and propagation without prescribing belief, authority, hierarchy, or outcome.
+Begin Here
 
-PortusSophia™ is an independent research initiative based in Maryland, focused on research, systems architecture, and ethical/technical consulting. PortusSophia, LLC is registered in the state of Maryland.
+What is PortusSophia?
 
-This framework provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive—they articulate what has been observed, not what must be. PortusSophia™ makes no universal claims.
+Learn what a field architecture is, the problem it addresses, and why regime discipline is foundational to coherent inquiry.
 
-**Public Records**
+→ "What is PortusSophia?" (what-is)
 
-- [Founder](https://founder.portussophia.com)
-- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
-- [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
+---
 
-**What Is PortusSophia™?**
+Provenance
 
-PortusSophia™ is a bounded research initiative concerned with coherence, constraint, interpretation, and judgment under conditions where responsibility and consequence cannot be cleanly separated. Its work explores how structure can support disciplined inquiry without displacing human authorship or substituting for individual judgment.
+Explore the documented evolution of the work—from a practical question concerning employment systems, through independent research and publication, to the development of the PortusSophia™ field architecture.
 
-The public site provides orientation to that inquiry. It does not ask for belief, subscription, or deference.
+→ "Provenance" (provenance)
 
-**Working Posture**
+---
 
-PortusSophia™ proceeds with several standing commitments:
+Research
 
-- human-origin meaning remains central
-- judgment is supported, not replaced
-- claims remain contextual and revisable
-- structure is used to improve legibility, not to launder authority
-- engagement is voluntary and non-delegative; autonomy and responsibility remain with the individual at all times
+Explore current investigations, publications, and ongoing development.
 
-**Why This Matters**
+→ "Research" (research)
 
-PortusSophia™ investigates how disciplined structure may help:
+---
 
-- preserve authorship under complexity
-- reduce interpretive drift
-- clarify responsibility without overclaiming certainty
-- support critique without requiring doctrinal agreement
-- maintain coherence while remaining open to revision
+Reading Order
 
-When decisions and their consequences offer distinction across time and/or structure, what makes that separation legible? Is it the distinction or the quality? And what allows those separated by capacity to recognize the connection before it hardens into truth?
+Recommended reading paths for researchers, philosophers of science, fellowship reviewers, and general readers.
 
-**Navigation**
+→ "Reading Order" (reading-order)
 
-- [Framework](./framework.html)
-- [Negentropy](./negentropy/)
-- [Ethics](./ethics/)
-- [Research](./research.html)
-- [Design Review Executive Sheet](./design-review-executive-sheet.html)
-- [Founder](https://founder.portussophia.com)
+---
 
-**Boundary**
+Formal Declaration
 
-This site is an orientation surface. It introduces the project, its posture, and its published work. It is not a substitute for judgment, and any use of PortusSophia™ as authority, prescription, or replacement for individual responsibility is inconsistent with its stated standard.
+The formal declaration of the PortusSophia™ field architecture is maintained as a versioned archival publication.
 
-## Engage
+The Declared Interface (PS-BIOS-001)
 
-**Research Collaboration:** For academic collaboration, joint research initiatives, or institutional inquiry: [research@portussophia.com](mailto:research@portussophia.com)
+https://zenodo.org/records/21192767
 
-**Aligned Consulting:** Selective consulting available in healthcare interoperability, governance-aware system design, and constraint modeling under conditions of high complexity. Inquiries: [contact@portussophia.com](mailto:contact@portussophia.com)
+---
 
-PortusSophia™ operates with bounded capacity and selective engagement. All work maintains the non-authoritative, responsibility-preserving posture documented throughout this site.
+Founder
 
-**PortusSophia™** — methodical inquiry under constraint.
+Background, personal history, and the broader story behind the work are maintained separately.
+
+→ https://founder.portussophia.com

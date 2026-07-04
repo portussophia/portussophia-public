@@ -1,19 +1,21 @@
 - title: Home
   url: /
 
-- title: Framework
-  url: /framework.html
+- title: What is PortusSophia?
+  url: /what-is/
 
-- title: Ethics
-  url: /ethics/
+- title: Provenance
+  url: /provenance/
+
+- title: Reading Order
+  url: /reading-order/
 
 - title: Research
-  url: /research.html
+  url: /research/
+
+- title: Publications
+  url: /publications/
 
 - title: Founder
   url: https://founder.portussophia.com
-  external: true
-
-- title: Security
-  url: https://security.portussophia.com
   external: true

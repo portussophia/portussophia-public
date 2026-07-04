@@ -1,49 +1,143 @@
 ---
-layout: page
-title: "Research"
-nav_title: "Research"
-site_title: "PortusSophia™"
-show_header: true
-permalink: /research.html
+
+layout: default
+title: Research
+permalink: /research/
+
+Research
+
+PortusSophia™ is an independent research program investigating the architecture of disciplined inquiry.
+
+Its purpose is not to replace existing disciplines, but to develop architectural methods that improve how inquiry is conducted across regimes, domains, and fields while preserving distinctions, declared boundaries, and intellectual restraint.
+
+This page describes the active research portfolio.
+
+For publications, books, and archival records, see Publications.
+
 ---
 
-PortusSophia™ maintains selected public research records here. For the most complete and current publication list, see the [ORCID Public Record](https://orcid.org/0009-0000-6689-8763) and the [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792).
+Research Portfolio
 
-**Selected Works**
+The PortusSophia™ research portfolio consists of complementary investigations at different stages of development.
 
-**PortusSophia™: Series Integrator, Dependency Map, and Reader's Guide**
+Each program has its own scope, maturity, and research objectives.
 
-2026 | Preprint
-DOI: [10.2139/ssrn.6161806](https://doi.org/10.2139/ssrn.6161806)
-Contributors: James Roy Dennis
+---
 
-A reader-facing integrator paper mapping the series, its dependency structure, reading paths, and guardrails against misclassification. It presents the series as a constraint-first descriptive program and explicitly states non-goals, dependency relations, and evaluative guardrails.
+Field Architecture
 
-**Schema Epistemics: Knowledge as Constraint-Bearing Structure**
+Status: Declared / Active
 
-2026 | Preprint
-DOI: [10.2139/ssrn.5945995](https://doi.org/10.2139/ssrn.5945995)
-LensID: [098-223-989-985-589](https://www.lens.org/lens/scholar/article/098-223-989-985-589)
-Contributors: James Roy Dennis
+Field Architecture investigates the conditions required for disciplined inquiry independent of any particular scientific, philosophical, technical, or institutional discipline.
 
-A foundational paper introducing Schema Epistemics as a framing in which knowledge is treated as constraint-bearing structure rather than mere assertion, correctness, or compliance. This work is publicly indexed through SSRN and also has a Lens scholarly work record.
+Its concern is the architecture of inquiry itself rather than the conclusions produced within individual domains.
 
-**Velocity Degradation in Hierarchical Multi-Agent Systems Under Discard**
+---
 
-2026 | Preprint
-DOI: [10.2139/ssrn.6238041](https://doi.org/10.2139/ssrn.6238041)
-Contributors: James Roy Dennis
+Schema Epistemics
 
-An applied paper analyzing structural limits on effective velocity in hierarchical multi-agent coordination under discard and uncertainty. It demonstrates PortusSophia™ in action on a technical problem rather than only as an internal governance language.
+Status: Active
 
-**Research Posture**
+Schema Epistemics investigates how schemas influence observation, interpretation, translation, and knowledge formation.
 
-PortusSophia™ research outputs are published independently. The framework provides structural discipline for inquiry and review; it does not function as doctrinal authority. All claims remain open to critique and revision.
+The work explores how representational structures shape what becomes distinguishable, comparable, and actionable across regimes and domains.
 
-**Public Records**
+---
 
-- [Founder](https://founder.portussophia.com)
-- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
-- [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
+Pre-Relational Research
 
-**PortusSophia™** — selected public research records.
+Status: Active
+
+Pre-relational research investigates the minimal conditions required before relations, models, explanations, and comparisons become meaningful.
+
+Current investigations include interface conditions, candidate primitives, regime discipline, and architectural approaches to inquiry preceding domain-specific interpretation.
+
+---
+
+Regime Discipline
+
+Status: Active
+
+Regime Discipline investigates the conditions under which observations, methods, and conclusions remain meaningful when translated across regimes.
+
+Rather than encouraging unrestricted integration, regime discipline emphasizes disciplined translation while preserving declared boundaries.
+
+---
+
+Nexology™
+
+Status: Seed Preservation Draft / Exploratory
+
+Nexology™ is a proposed field investigating how different capacities disclose different environments.
+
+It examines how distinguishability changes across observers, instruments, organizations, computational systems, and other interfaces possessing different capacities.
+
+Its central concern is not information transfer but the preservation of meaningful distinction across differently disclosed environments.
+
+---
+
+Cosymmetria™
+
+Status: Seed Preservation Draft / Exploratory
+
+Cosymmetria™ investigates the conditions under which distinctions remain legible within relational systems.
+
+Current work explores how relational continuity may be preserved without collapse into uniformity or fragmentation into independence.
+
+---
+
+Draconomy™
+
+Status: Seed Preservation Draft / Exploratory
+
+Draconomy™ investigates the distribution of cost, structural load, and consequence across systems undergoing irreversible change.
+
+The work remains descriptive rather than prescriptive and seeks architectural patterns rather than economic doctrine.
+
+---
+
+Portfolio Status
+
+Different investigations occupy different stages of maturity.
+
+Status| Meaning
+Declared| Stable architectural commitments maintained through formal declaration.
+Active| Ongoing research under active development.
+Seed Preservation Draft| Early-stage investigations preserved prior to formal development.
+Exploratory| Candidate ideas undergoing examination, refinement, or rejection.
+
+Recognizing different stages of maturity allows research to remain both transparent and intellectually disciplined.
+
+---
+
+Research Philosophy
+
+PortusSophia treats research as an evolving architectural program rather than a collection of isolated publications.
+
+New investigations emerge from previously identified limitations, unresolved questions, or opportunities for greater conceptual clarity.
+
+Accordingly, the research portfolio continues to evolve while preserving the historical development of the work through its documented provenance.
+
+---
+
+Current Direction
+
+Current efforts focus on:
+
+- advancing the PortusSophia™ field architecture;
+- expanding Schema Epistemics;
+- refining Regime Discipline;
+- continuing the Pre-Relational Research Program;
+- developing Nexology™, Cosymmetria™, and Draconomy™ as candidate disciplines.
+
+The objective is not comprehensive explanation, but disciplined inquiry supported by clearly declared boundaries.
+
+---
+
+Related Resources
+
+- Publications — Books, papers, and archival publications.
+- What Is PortusSophia? — Architectural overview.
+- Provenance — Intellectual development of the research program.
+- Reading Order — Recommended pathways for different audiences.
+- Founder — Background and personal history.
