@@ -376,6 +376,39 @@ footer {
     color: var(--ps-gold) !important;
 }
 
+/* Mobile Menu Styles */
+.site-nav .menu-icon > svg {
+    fill: var(--text);
+}
+
+.site-nav .menu-icon:hover > svg {
+    fill: var(--ps-gold);
+}
+
+.site-nav .trigger {
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav .trigger {
+        background-color: var(--surface) !important;
+        border: 1px solid var(--border);
+    }
+
+    .site-nav .page-link {
+        display: block;
+        padding: 10px;
+        color: var(--text) !important;
+    }
+
+    .site-nav .page-link:hover {
+        background-color: rgba(240, 181, 63, 0.1);
+        color: var(--ps-gold) !important;
+    }
+}
+
 .site-footer {
     background-color: var(--surface);
     border-top: 1px solid var(--border);
