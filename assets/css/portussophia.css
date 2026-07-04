@@ -328,21 +328,34 @@ footer {
 }
 
 .site-header .wrapper {
-    display: flex;
+    display: flex !important;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .site-branding {
-    display: flex;
+    display: flex !important;
     align-items: center;
     gap: 1rem;
+    flex: 0 0 auto;
 }
 
 .site-logo {
     height: 50px;
     width: auto;
     display: block;
+}
+
+.site-header .site-title {
+    display: inline-block;
+    margin: 0;
+    line-height: 50px;
+}
+
+.site-header .site-nav {
+    flex: 0 0 auto;
+    line-height: 50px;
 }
 
 .site-title,
