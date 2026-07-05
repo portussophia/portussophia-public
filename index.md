@@ -1,8 +1,8 @@
 ---
-
 layout: default
 title: Home
 permalink: /
+---
 
 PortusSophia™
 
