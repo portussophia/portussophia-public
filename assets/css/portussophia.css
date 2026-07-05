@@ -245,6 +245,18 @@ td {
 
 }
 
+tbody tr {
+    background-color: transparent;
+}
+
+tbody tr:nth-child(even) {
+    background-color: var(--surface);
+}
+
+tbody tr:hover {
+    background-color: rgba(240, 181, 63, 0.1);
+}
+
 /* ==========================================================
    Code
    ========================================================== */
