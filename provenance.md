@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Provenance
-permalink: /provenance
+permalink: /provenance/
 ---
 Provenance
 
