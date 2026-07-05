@@ -99,6 +99,16 @@ It provides an architectural framework intended to support disciplined inquiry w
 
 Current Status
 
+---
+
+Continue Exploring
+
+- [Provenance](/provenance/) — The documented intellectual development of the research program.
+- [Research](/research/) — Current investigations and active research portfolio.
+- [Philosophy of Science](/philosophy-of-science/) — The scholarly motivation and architectural commitments.
+- [Publications](/publications/) — Books, papers, archival publications, and scholarly research profiles.
+- [Reading Order](/reading-order/) — Recommended pathways based on your interests.
+
 PortusSophia remains an active independent research program.
 
 The field architecture continues to evolve through publication, critical review, and ongoing investigation.

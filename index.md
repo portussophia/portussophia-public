@@ -58,6 +58,14 @@ The formal declaration of the PortusSophia™ field architecture is maintained a
 
 ---
 
+Continue Exploring
+
+- [What Is PortusSophia?](/what-is/) — Definition and architectural overview.
+- [Provenance](/provenance/) — The documented intellectual development of the research program.
+- [Research](/research/) — Current investigations and active research portfolio.
+- [Publications](/publications/) — Books, papers, archival publications, and scholarly research profiles.
+- [Reading Order](/reading-order/) — Recommended pathways through the website.
+
 Founder
 
 Background, personal history, and the broader story behind the work are maintained separately.

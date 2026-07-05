@@ -388,37 +388,74 @@ footer {
     color: var(--ps-gold) !important;
 }
 
-/* Mobile Menu Styles */
+/* Hamburger Menu (All Screen Sizes) */
+
+/* Show hamburger trigger on all screen sizes */
+.nav-trigger {
+    display: none;
+}
+
+.site-nav label[for="nav-trigger"] {
+    display: block;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+}
+
+.site-nav .menu-icon {
+    display: inline-block;
+}
+
 .site-nav .menu-icon > svg {
-    fill: var(--text);
+    fill: var(--ps-gold);
+    transition: fill 0.2s ease;
 }
 
 .site-nav .menu-icon:hover > svg {
-    fill: var(--ps-gold);
+    fill: var(--text);
 }
 
+/* Hide nav items by default (only show in dropdown) */
 .site-nav .trigger {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
     background-color: var(--surface);
     border: 1px solid var(--border);
-    border-radius: 5px;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 10;
 }
 
-@media screen and (max-width: 600px) {
-    .site-nav .trigger {
-        background-color: var(--surface) !important;
-        border: 1px solid var(--border);
-    }
+/* Show dropdown when checkbox is checked */
+.nav-trigger:checked ~ .trigger {
+    display: block;
+}
 
-    .site-nav .page-link {
-        display: block;
-        padding: 10px;
-        color: var(--text) !important;
-    }
+/* Style dropdown menu items */
+.site-nav .page-link {
+    display: block;
+    padding: 12px 16px;
+    color: var(--text) !important;
+    border-bottom: 1px solid var(--border);
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
 
-    .site-nav .page-link:hover {
-        background-color: rgba(240, 181, 63, 0.1);
-        color: var(--ps-gold) !important;
-    }
+.site-nav .page-link:last-child {
+    border-bottom: none;
+}
+
+.site-nav .page-link:hover {
+    background-color: rgba(240, 181, 63, 0.1);
+    color: var(--ps-gold) !important;
+}
+
+/* Ensure nav wrapper is relative for dropdown positioning */
+.site-nav {
+    position: relative;
 }
 
 .site-footer {

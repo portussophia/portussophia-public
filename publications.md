@@ -144,8 +144,8 @@ Maintaining these distinctions allows the historical development of the work to 
 
 Continue Exploring
 
-- What Is PortusSophia?
-- Provenance
-- Research
-- Reading Order
-- Founder
+- [What Is PortusSophia?](/what-is/) — Definition and architectural overview.
+- [Provenance](/provenance/) — The documented intellectual development of the research program.
+- [Research](/research/) — Current investigations and active research portfolio.
+- [Philosophy of Science](/philosophy-of-science/) — The scholarly foundation for field architecture.
+- [Fellowships](/fellowships/) — Long-term research vision and support opportunities.

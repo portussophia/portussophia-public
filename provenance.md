@@ -26,3 +26,13 @@ Years later, after repeated difficulty obtaining employment despite that backgro
 What was actually being evaluated, and why did existing explanations seem insufficient?
 
 That practical question became the catalyst for a broader investigation into alignment, representation, classification, and ultimately the architecture of inquiry itself.
+
+---
+
+Continue Exploring
+
+- [What Is PortusSophia?](/what-is/) — Definition and architectural overview.
+- [Research](/research/) — Current investigations and active research portfolio.
+- [Philosophy of Science](/philosophy-of-science/) — The scholarly foundation of the work.
+- [Publications](/publications/) — Books, papers, and archival publications.
+- [Fellowships](/fellowships/) — Long-term research vision and support.

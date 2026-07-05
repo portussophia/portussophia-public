@@ -78,6 +78,12 @@ The Field Guide serves as an introduction to recurring failures in inquiry. Thes
 
 Continue Exploring
 
+- [What Is PortusSophia?](/what-is/) — Definition and architectural overview.
+- [Provenance](/provenance/) — The documented intellectual development of the research program.
+- [Research](/research/) — Current investigations and active research portfolio.
+- [Philosophy of Science](/philosophy-of-science/) — The scholarly foundation for field architecture.
+- [Publications](/publications/) — Books, papers, archival publications, and scholarly research profiles.
+
 After following one of the recommended reading paths, readers may wish to continue with:
 
 - [Publications](/publications/) — Books, papers, archival publications, and scholarly research profiles.

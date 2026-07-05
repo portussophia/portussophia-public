@@ -27,4 +27,25 @@
       </nav>
     {%- endif -%}
   </div>
+
+  <script>
+    // Auto-close hamburger menu when a link is clicked
+    document.querySelectorAll('.page-link').forEach(link => {
+      link.addEventListener('click', () => {
+        const navTrigger = document.getElementById('nav-trigger');
+        if (navTrigger) {
+          navTrigger.checked = false;
+        }
+      });
+    });
+
+    // Close hamburger when clicking outside the nav
+    document.addEventListener('click', (event) => {
+      const nav = document.querySelector('.site-nav');
+      const navTrigger = document.getElementById('nav-trigger');
+      if (nav && !nav.contains(event.target) && navTrigger) {
+        navTrigger.checked = false;
+      }
+    });
+  </script>
 </header>

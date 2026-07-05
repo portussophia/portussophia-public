@@ -120,6 +120,16 @@ Accordingly, the research portfolio continues to evolve while preserving the his
 
 ---
 
+Continue Exploring
+
+- [What Is PortusSophia?](/what-is/) — Definition and architectural overview.
+- [Provenance](/provenance/) — The documented intellectual development of the research program.
+- [Philosophy of Science](/philosophy-of-science/) — The scholarly foundation for field architecture.
+- [Publications](/publications/) — Books, papers, archival publications, and scholarly research profiles.
+- [Fellowships](/fellowships/) — Long-term research vision and support opportunities.
+
+---
+
 Current Direction
 
 Current efforts focus on:
