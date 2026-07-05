@@ -22,7 +22,7 @@ What is PortusSophia?
 
 Learn what a field architecture is, the problem it addresses, and why regime discipline is foundational to coherent inquiry.
 
-→ "What is PortusSophia?" (what-is)
+→ [What is PortusSophia?](/what-is/)
 
 ---
 
@@ -30,7 +30,7 @@ Provenance
 
 Explore the documented evolution of the work—from a practical question concerning employment systems, through independent research and publication, to the development of the PortusSophia™ field architecture.
 
-→ "Provenance" (provenance)
+→ [Provenance](/provenance/)
 
 ---
 
@@ -38,7 +38,7 @@ Research
 
 Explore current investigations, publications, and ongoing development.
 
-→ "Research" (research)
+→ [Research](/research/)
 
 ---
 
@@ -46,7 +46,7 @@ Reading Order
 
 Recommended reading paths for researchers, philosophers of science, fellowship reviewers, and general readers.
 
-→ "Reading Order" (reading-order)
+→ [Reading Order](/reading-order/)
 
 ---
 
@@ -54,9 +54,7 @@ Formal Declaration
 
 The formal declaration of the PortusSophia™ field architecture is maintained as a versioned archival publication.
 
-The Declared Interface (PS-BIOS-001)
-
-https://zenodo.org/records/21192767
+[The Declared Interface (PS-BIOS-001)](https://zenodo.org/records/21192767)
 
 ---
 
@@ -64,4 +62,4 @@ Founder
 
 Background, personal history, and the broader story behind the work are maintained separately.
 
-→ https://founder.portussophia.com
+→ [Founder](https://founder.portussophia.com)

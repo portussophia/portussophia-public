@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Publications
 permalink: /publications/
@@ -38,9 +37,7 @@ The Declared Interface formally defines the scope, posture, boundaries, and meth
 
 Unlike exploratory research, this publication serves as the stable public declaration upon which subsequent work is built.
 
-Archive
-
-https://zenodo.org/records/21192767
+[View on Zenodo](https://zenodo.org/records/21192767)
 
 ---
 
@@ -54,9 +51,7 @@ The Field Guide examines recurring patterns of epistemic failure observed across
 
 Rather than offering another philosophical system, it identifies structural failures in inquiry that ultimately motivated the development of the PortusSophia™ field architecture.
 
-Available through Leanpub
-
-https://leanpub.com/afieldguidetoepistemicfailure
+[Available on Leanpub](https://leanpub.com/afieldguidetoepistemicfailure)
 
 ---
 
@@ -98,49 +93,37 @@ External Resources
 
 Zenodo
 
-Versioned archival publications.
-
-https://zenodo.org/records/21192767
+[Zenodo Profile](https://zenodo.org/records/21192767)
 
 ---
 
 ORCID
 
-Research identity and publication record.
-
-https://orcid.org/0009-0000-6689-8763
+[ORCID Profile](https://orcid.org/0009-0000-6689-8763)
 
 ---
 
 ResearchGate
 
-Research dissemination and academic engagement.
-
-https://www.researchgate.net/profile/James-Dennis-17
+[ResearchGate Profile](https://www.researchgate.net/profile/James-Dennis-17)
 
 ---
 
 Lens
 
-Scholarly discovery and indexing.
-
-https://www.lens.org/lens/profile/697110263/scholar
+[Lens Profile](https://www.lens.org/lens/profile/697110263/scholar)
 
 ---
 
 SSRN
 
-Historical working papers documenting the emergence of the research program.
-
-https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792
+[SSRN Author Profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
 
 ---
 
 Leanpub
 
-Books and longer-form publications.
-
-https://leanpub.com/afieldguidetoepistemicfailure
+[Leanpub Publications](https://leanpub.com/afieldguidetoepistemicfailure)
 
 ---
 

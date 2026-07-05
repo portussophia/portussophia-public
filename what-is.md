@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: What Is PortusSophia?
 permalink: /what-is/
@@ -109,8 +108,8 @@ Its formal public declaration is maintained separately as The Declared Interface
 
 Continue Exploring
 
-- Provenance — How the field architecture emerged.
-- Research — Current investigations and publications.
-- Reading Order — Recommended pathways for different audiences.
+- [Provenance](/provenance) — How the field architecture emerged.
+- [Research](/research) — Current investigations and publications.
+- [Reading Order](/reading-order) — Recommended pathways for different audiences.
 
 The work remains open to examination, criticism, refinement, and continued development.
