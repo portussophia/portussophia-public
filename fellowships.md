@@ -14,7 +14,7 @@ Its objective is not rapid publication or disciplinary expansion, but the carefu
 
 ---
 
-Why Independent Scholarship?
+## Why Independent Scholarship?
 
 PortusSophia emerged through sustained investigation rather than institutional mandate.
 
@@ -24,7 +24,7 @@ This independence has allowed the research to develop across disciplinary bounda
 
 ---
 
-The Research Program
+## The Research Program
 
 Current investigations include:
 
@@ -40,7 +40,7 @@ Each investigation contributes to the continuing development of the broader arch
 
 ---
 
-Long-Term Vision
+## Long-Term Vision
 
 The long-term objective is to establish a durable body of work supporting disciplined inquiry across independently developed research communities.
 
@@ -50,7 +50,7 @@ Success will ultimately be measured not by the acceptance of PortusSophia itself
 
 ---
 
-Why Support This Work?
+## Why Support This Work?
 
 Independent scholarship occupies an important place within the research ecosystem.
 
@@ -68,7 +68,7 @@ The purpose of support is not to preserve an individual project, but to preserve
 
 ---
 
-Invitation
+## Invitation
 
 PortusSophia welcomes conversation with:
 

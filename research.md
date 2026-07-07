@@ -3,151 +3,130 @@ layout: default
 title: Research
 permalink: /research/
 ---
+# Research
 
-Research
+## An Active Research Program
 
-PortusSophia™ is an independent research program investigating the architecture of disciplined inquiry.
+PortusSophia™ is an independent research program developing a *candidate field architecture for Abstract Epistemic Discipline.*
 
-Its purpose is not to replace existing disciplines, but to develop architectural methods that improve how inquiry is conducted across regimes, domains, and fields while preserving distinctions, declared boundaries, and intellectual restraint.
+Rather than advancing a single theory or publication, the research is organized as a portfolio of complementary investigations. Each program examines a distinct architectural question while remaining bounded by its own declared scope, explanatory posture, and stage of development.
 
-This page describes the active research portfolio.
-
-For publications, books, and archival records, see Publications.
-
----
-
-Research Portfolio
-
-The PortusSophia™ research portfolio consists of complementary investigations at different stages of development.
-
-Each program has its own scope, maturity, and research objectives.
+> **Each investigation is intended to stand independently while contributing to a broader architectural understanding of disciplined inquiry.**
 
 ---
 
-Field Architecture
+# Current Research Portfolio
 
-Status: Declared / Active
+## Field Architecture
 
-Field Architecture investigates the conditions required for disciplined inquiry independent of any particular scientific, philosophical, technical, or institutional discipline.
+**Status:** Active
 
-Its concern is the architecture of inquiry itself rather than the conclusions produced within individual domains.
+The central investigation of PortusSophia™.
 
----
-
-Schema Epistemics
-
-Status: Active
-
-Schema Epistemics investigates how schemas influence observation, interpretation, translation, and knowledge formation.
-
-The work explores how representational structures shape what becomes distinguishable, comparable, and actionable across regimes and domains.
+This research asks whether disciplined inquiry itself possesses architectural conditions that remain observable across independently developed disciplines without reducing those disciplines to a common ontology, methodology, or explanatory framework.
 
 ---
 
-Pre-Relational Research
+## Schema Epistemics
 
-Status: Active
+**Status:** Active
 
-Pre-relational research investigates the minimal conditions required before relations, models, explanations, and comparisons become meaningful.
+An investigation into knowledge as **constraint-bearing structure** rather than possession, belief, or authority.
 
-Current investigations include interface conditions, candidate primitives, regime discipline, and architectural approaches to inquiry preceding domain-specific interpretation.
-
----
-
-Regime Discipline
-
-Status: Active
-
-Regime Discipline investigates the conditions under which observations, methods, and conclusions remain meaningful when translated across regimes.
-
-Rather than encouraging unrestricted integration, regime discipline emphasizes disciplined translation while preserving declared boundaries.
+Schema Epistemics explores how knowledge may remain structurally legible while preserving declared boundaries, explanatory scope, provenance, and observational discipline.
 
 ---
 
-Nexology™
+## Regime Discipline
 
-Status: Seed Preservation Draft / Exploratory
+**Status:** Active
 
-Nexology™ is a proposed field investigating how different capacities disclose different environments.
+An investigation into disciplined translation across scientific, philosophical, mathematical, technical, and institutional regimes.
 
-It examines how distinguishability changes across observers, instruments, organizations, computational systems, and other interfaces possessing different capacities.
+Regime Discipline recognizes that concepts acquire meaning within particular conditions of inquiry. Before concepts are compared or transferred across regimes, those conditions must first be examined.
 
-Its central concern is not information transfer but the preservation of meaningful distinction across differently disclosed environments.
-
----
-
-Cosymmetria™
-
-Status: Seed Preservation Draft / Exploratory
-
-Cosymmetria™ investigates the conditions under which distinctions remain legible within relational systems.
-
-Current work explores how relational continuity may be preserved without collapse into uniformity or fragmentation into independence.
+Rather than assuming equivalence through shared vocabulary, correspondence must be demonstrated while preserving explanatory fidelity.
 
 ---
 
-Draconomy™
+## Pattern Legibility Analysis (PLA)
 
-Status: Seed Preservation Draft / Exploratory
+**Status:** Active
 
-Draconomy™ investigates the distribution of cost, structural load, and consequence across systems undergoing irreversible change.
+A methodological discipline for evaluating whether observed patterns remain sufficiently legible before comparison, translation, or explanation.
 
-The work remains descriptive rather than prescriptive and seeks architectural patterns rather than economic doctrine.
+Pattern Legibility Analysis investigates the conditions under which independently developed observations may be responsibly compared without introducing hidden assumptions, regime collapse, explanatory overreach, or premature interpretation.
 
----
-
-Portfolio Status
-
-Different investigations occupy different stages of maturity.
-
-Status| Meaning
-Declared| Stable architectural commitments maintained through formal declaration.
-Active| Ongoing research under active development.
-Seed Preservation Draft| Early-stage investigations preserved prior to formal development.
-Exploratory| Candidate ideas undergoing examination, refinement, or rejection.
-
-Recognizing different stages of maturity allows research to remain both transparent and intellectually disciplined.
+Its purpose is not to determine whether two descriptions are identical, but whether they remain architecturally comparable while preserving their own distinctions.
 
 ---
 
-Research Philosophy
+## Pre-Relational Research
 
-PortusSophia treats research as an evolving architectural program rather than a collection of isolated publications.
+**Status:** Active
 
-New investigations emerge from previously identified limitations, unresolved questions, or opportunities for greater conceptual clarity.
+An ongoing investigation into architectural conditions that appear prior to stable relational description.
 
-Accordingly, the research portfolio continues to evolve while preserving the historical development of the work through its documented provenance.
-
----
-
-Continue Exploring
-
-- [What Is PortusSophia?](/what-is/) — Definition and architectural overview.
-- [Provenance](/provenance/) — The documented intellectual development of the research program.
-- [Philosophy of Science](/philosophy-of-science/) — The scholarly foundation for field architecture.
-- [Publications](/publications/) — Books, papers, archival publications, and scholarly research profiles.
-- [Fellowships](/fellowships/) — Long-term research vision and support opportunities.
+Current investigations include **Negentropy**, **TRI**, and **EPS**, each examining whether pre-relational conditions may be described without introducing ontological commitments, prescriptive claims, or explanatory inflation.
 
 ---
 
-Current Direction
+## Cosymmetria™
 
-Current efforts focus on:
+**Status:** Exploratory
 
-- advancing the PortusSophia™ field architecture;
-- expanding Schema Epistemics;
-- refining Regime Discipline;
-- continuing the Pre-Relational Research Program;
-- developing Nexology™, Cosymmetria™, and Draconomy™ as candidate disciplines.
+An investigation into reciprocal structural relations, architectural symmetry, and minimally sufficient operator sets capable of preserving coherence across differing regimes.
 
-The objective is not comprehensive explanation, but disciplined inquiry supported by clearly declared boundaries.
+The work remains exploratory while its architectural commitments continue to mature.
 
 ---
 
-Related Resources
+## Draconomy™
 
-- Publications — Books, papers, and archival publications.
-- What Is PortusSophia? — Architectural overview.
-- Provenance — Intellectual development of the research program.
-- Reading Order — Recommended pathways for different audiences.
-- Founder — Background and personal history.
+**Status:** Exploratory
+
+An investigation into the architecture of uncertainty, scarcity, constraint, and decision-making under conditions of incomplete knowledge and irreversible consequence.
+
+The work explores how disciplined inquiry may remain coherent where certainty is unavailable and explanatory authority remains bounded.
+
+---
+
+# Research Status
+
+
+| Status                      | Meaning                                                                                |
+| :---------------------------- | :--------------------------------------------------------------------------------------- |
+| **Declared**                | Stable architectural commitments maintained through formal declaration.                |
+| **Active**                  | Ongoing investigations under active development.                                       |
+| **Seed Preservation Draft** | Early investigations intentionally preserved pending future development.               |
+| **Exploratory**             | Candidate investigations undergoing disciplined examination, refinement, or rejection. |
+
+---
+
+# Research Philosophy
+
+PortusSophia™ treats research as an evolving architectural program rather than a collection of isolated publications.
+
+Individual investigations are expected to remain independently coherent while contributing to a broader understanding of disciplined inquiry.
+
+Some investigations mature into formal publications.
+
+Others remain exploratory.
+
+Some may ultimately be retired.
+
+Retirement is considered part of disciplined inquiry rather than evidence of failure.
+
+Architectural clarity is valued more highly than preserving every idea.
+
+---
+
+# Continuing the Investigation
+
+The current portfolio represents the present state of the research program rather than a completed body of work.
+
+As investigations mature, they may be refined, expanded, formally declared, or concluded according to the same architectural commitments that govern the research itself.
+
+Books, archival papers, and formal public declarations are maintained separately within **[Publications](/publications/)**.
+
+*"Here and Now!"*

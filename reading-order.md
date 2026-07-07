@@ -12,7 +12,7 @@ Rather than reading everything sequentially, readers are encouraged to begin wit
 
 ---
 
-New to PortusSophia?
+## New to PortusSophia?
 
 If this is your first visit:
 
@@ -25,7 +25,7 @@ This path introduces the field architecture, explains how it emerged, and provid
 
 ---
 
-Researchers
+## Researchers
 
 If your interest is the research program:
 
@@ -38,7 +38,7 @@ This path emphasizes current investigations before exploring their historical de
 
 ---
 
-Philosophy of Science
+## Philosophy of Science
 
 Readers interested in philosophy of science, scientific methodology, or the architecture of inquiry may wish to follow this path:
 
@@ -51,7 +51,7 @@ This sequence introduces the architectural commitments before examining their de
 
 ---
 
-Fellowships and Research Support
+## Fellowships and Research Support
 
 Readers evaluating the long-term research program may prefer:
 
@@ -64,7 +64,7 @@ This path emphasizes the intellectual development of the work before examining i
 
 ---
 
-Readers of the Field Guide
+## Readers of the Field Guide
 
 If you have already read A Field Guide to Epistemic Failure:
 

@@ -14,7 +14,7 @@ Its purpose is not to determine what people should conclude, but to improve how 
 
 ---
 
-The Problem
+## The Problem
 
 Inquiry increasingly crosses disciplinary, methodological, and conceptual boundaries. While this has produced remarkable advances, it has also introduced recurring failures of interpretation.
 
@@ -26,7 +26,7 @@ PortusSophia proposes that many of these failures can be better understood by ex
 
 ---
 
-The Approach
+## The Approach
 
 PortusSophia is organized around several architectural commitments.
 
@@ -58,7 +58,7 @@ Rather than encouraging unrestricted integration, regime discipline encourages d
 
 ---
 
-Restraint
+## Restraint
 
 Not every unanswered question requires immediate resolution.
 
@@ -68,7 +68,7 @@ PortusSophia therefore treats restraint as an architectural discipline, preservi
 
 ---
 
-Why a Field Architecture?
+## Why a Field Architecture?
 
 PortusSophia does not seek to replace existing disciplines.
 
@@ -80,7 +80,7 @@ Its concern is not the content of individual disciplines but the conditions unde
 
 ---
 
-What PortusSophia Is Not
+## What PortusSophia Is Not
 
 PortusSophia is not:
 
@@ -97,7 +97,7 @@ It provides an architectural framework intended to support disciplined inquiry w
 
 ---
 
-Current Status
+## Current Status
 
 ---
 

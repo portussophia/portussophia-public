@@ -1,73 +1,114 @@
 ---
 layout: default
-title: Home
+title: PortusSophia
 permalink: /
 ---
+# PortusSophia™
 
-PortusSophia™
+## *A Candidate Field Architecture for Abstract Epistemic Discipline*
 
-A field architecture for disciplined inquiry.
-
-PortusSophia™ is an independent research program developing a field architecture for disciplined inquiry.
-
-Its central concern is not what people conclude, but how inquiry is conducted. PortusSophia investigates how distinctions, declared boundaries, and regime discipline influence the reliability of observation and the coherence of reasoning across fields of knowledge.
-
-Rather than proposing another comprehensive theory, PortusSophia provides an architectural approach for conducting inquiry while preserving the conditions under which observations, methods, and conclusions remain meaningful.
+**Advancing disciplined inquiry through _Legibility Grammar_, _Regime Translation_, and _Observational Restraint Infrastructure_.**
 
 ---
 
-Begin Here
+## Why PortusSophia?
 
-What is PortusSophia?
-
-Learn what a field architecture is, the problem it addresses, and why regime discipline is foundational to coherent inquiry.
-
-→ [What is PortusSophia?](/what-is/)
-
----
-
-Provenance
-
-Explore the documented evolution of the work—from a practical question concerning employment systems, through independent research and publication, to the development of the PortusSophia™ field architecture.
-
-→ [Provenance](/provenance/)
+> **Every discipline develops its own distinctions.**
+>
+> **Those distinctions make inquiry possible within that discipline.**
+>
+> **Difficulties arise when they are translated beyond the conditions that originally gave them meaning.**
 
 ---
 
-Research
+Rather than asking only **what** inquiry discovers, **PortusSophia™** asks whether the architectural conditions that make disciplined inquiry possible deserve investigation in their own right.
 
-Explore current investigations, publications, and ongoing development.
-
-→ [Research](/research/)
+> **Can the architecture of disciplined inquiry itself become an object of investigation?**
 
 ---
 
-Reading Order
+## The Proposal
 
-Recommended reading paths for researchers, philosophers of science, fellowship reviewers, and general readers.
+**PortusSophia™** is an independent research program developing a *candidate field architecture for Abstract Epistemic Discipline.*
 
-→ [Reading Order](/reading-order/)
+Rather than introducing another scientific theory, philosophical doctrine, or comprehensive worldview, it investigates whether independently developed inquiries may be **described, translated, compared, and evaluated** while remaining faithful to their own **distinctions**, **provenance**, **explanatory scope**, and **declared boundaries**.
 
----
+> Its purpose is not to determine **what** should be concluded.
 
-Formal Declaration
-
-The formal declaration of the PortusSophia™ field architecture is maintained as a versioned archival publication.
-
-[The Declared Interface (PS-BIOS-001)](https://zenodo.org/records/21192767)
+Its purpose is to strengthen **how** inquiry proceeds across regimes while preserving explanatory fidelity and intellectual restraint.
 
 ---
 
-Continue Exploring
+## Foundational Architectural Disciplines
 
-- [What Is PortusSophia?](/what-is/) — Definition and architectural overview.
-- [Provenance](/provenance/) — The documented intellectual development of the research program.
-- [Research](/research/) — Current investigations and active research portfolio.
-- [Publications](/publications/) — Books, papers, archival publications, and scholarly research profiles.
-- [Reading Order](/reading-order/) — Recommended pathways through the website.
+The current research program is organized around three complementary architectural disciplines.
 
-Founder
+### **Legibility Grammar**
 
-Background, personal history, and the broader story behind the work are maintained separately.
+A framework for preserving distinctions until they become sufficiently **legible** for responsible comparison, translation, and continued inquiry.
 
-→ [Founder](https://founder.portussophia.com)
+Developed through the **TRI** research program, Legibility Grammar investigates the conditions under which distinctions remain available before they are collapsed through premature integration or interpretation.
+
+---
+
+### **Regime Translation**
+
+Translation across disciplines requires more than shared vocabulary.
+
+Concepts developed within one regime should not be presumed equivalent within another.
+
+**Correspondence must be demonstrated, not imported.**
+
+Developed through **PLA (PhilSci Edition)**, Regime Translation provides an architectural discipline for preserving explanatory fidelity while inquiry traverses differing regimes, methodologies, and representational frameworks.
+
+---
+
+### **Observational Restraint Infrastructure**
+
+> Disciplined inquiry begins by declaring its own boundaries.
+
+**Before explanation comes posture.**
+
+**Before posture comes restraint.**
+
+Developed through **PS-BIOS-001 — The Declared Interface**, Observational Restraint Infrastructure establishes the architectural conditions under which PortusSophia™ chooses to proceed. It preserves the distinction between **observation**, **interpretation**, **inference**, and **speculation**, while refusing authority beyond its own declared scope.
+
+---
+
+## Explore
+
+### **Philosophy of Science**
+
+Why a candidate field architecture for Abstract Epistemic Discipline may contribute to philosophy of science.
+
+→ [/philosophy-of-science](/philosophy-of-science)
+
+---
+
+### **Research**
+
+Current investigations and the active research portfolio.
+
+→ [/research](/research)
+
+---
+
+### **Publications**
+
+Books, archival publications, scholarly profiles, and research resources.
+
+→ [/publications](/publications)
+
+---
+
+### **Provenance**
+
+The documented intellectual development of the PortusSophia™ research program.
+
+→ [/provenance](/provenance)
+
+---
+
+*PortusSophia™ declares an interface rather than a destination.*
+
+*It exists to improve orientation, not to determine arrival.*

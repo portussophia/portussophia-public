@@ -473,3 +473,62 @@ footer {
 .site-footer a:hover {
     color: var(--ps-gold);
 }
+
+/* ==========================================================
+   New Table
+   ========================================================== */
+
+   /* ---------- Publication Table ---------- */
+
+table {
+    width: 100%;
+    margin: 2rem 0;
+    border-collapse: collapse;
+}
+
+table td,
+table th {
+    text-align: center;
+    vertical-align: top;
+    padding: 1rem;
+    border: none;
+}
+
+table img {
+    width: 190px;
+    max-width: 100%;
+    height: auto;
+
+    border-radius: 8px;
+    border: 1px solid rgba(255,255,255,0.15);
+
+    box-shadow:
+        0 8px 18px rgba(0,0,0,.35);
+
+    transition:
+        transform .2s ease,
+        box-shadow .2s ease;
+}
+
+table img:hover {
+    transform: translateY(-4px);
+
+    box-shadow:
+        0 12px 28px rgba(0,0,0,.45);
+}
+
+table strong {
+    color: #ffffff;
+}
+
+table em {
+    color: #b7c9dd;
+}
+
+table a {
+    text-decoration: none;
+}
+
+table a:hover {
+    text-decoration: underline;
+}
