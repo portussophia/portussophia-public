@@ -1,3 +1,10 @@
+
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
 ## Foundational Publications
 
 
