@@ -1,14 +1,8 @@
 - title: Home
   url: /
 
-- title: What is PortusSophia?
-  url: /what-is/
-
-- title: Provenance
-  url: /provenance/
-
-- title: Reading Order
-  url: /reading-order/
+- title: Philosophy of Science
+  url: /philosophy-of-science/
 
 - title: Research
   url: /research/
@@ -16,12 +10,5 @@
 - title: Publications
   url: /publications/
 
-- title: Philosophy of Science
-  url: /philosophy-of-science/
-
-- title: Fellowships
-  url: /fellowships/
-
-- title: Founder
-  url: https://founder.portussophia.com
-  external: true
+- title: Provenance
+  url: /provenance/
