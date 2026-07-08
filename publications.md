@@ -27,7 +27,7 @@ permalink: /publications/
 
 ### Contemplation
 
-[![Contemplation](/assets/images/contemplation-cover.jpg)](https://leanpub.com/contemplation)
+[![Contemplation](/assets/images/contemplation-cover.png)](https://leanpub.com/contemplation)
 
 *Reflective Companion • Free*
 
