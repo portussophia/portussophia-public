@@ -1,16 +1,44 @@
-
 ---
 layout: default
 title: Publications
 permalink: /publications/
 ---
-
 ## Foundational Publications
 
+### PS-BIOS-001 — The Declared Interface
 
-|                                              Declaration                                              |                                                            Diagnosis                                                            |                                          Reflection                                          |                                                             Series Guide                                                             |
-| :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| [![The Declared Interface](/assets/images/ps-bios-001-cover.jpg)](https://zenodo.org/records/21192767) | [![A Field Guide to Epistemic Failure](/assets/images/field-guide-cover.jpg)](https://leanpub.com/afieldguidetoepistemicfailure) | [![Contemplation](/assets/images/contemplation-cover.png)](https://leanpub.com/contemplation) | [![Series Integrator](/assets/images/series-integrator-cover.jpg)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792) |
-|                                       **The Declared Interface**                                       |                                              **A Field Guide to Epistemic Failure**                                              |                                       **Contemplation**                                       |                                                        **Series Integrator**                                                        |
-|                                       *Foundational Declaration*                                       |                                                        *Diagnostic Guide*                                                        |                                *Reflective Companion • Free*                                |                                                           *Reader's Guide*                                                           |
-|                        [View on Zenodo →](https://zenodo.org/records/21192767)                        |                             [Read on Leanpub →](https://leanpub.com/afieldguidetoepistemicfailure)                             |                       [Read Free →](https://leanpub.com/contemplation)                       |                       [View SSRN Series →](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)                       |
+[![The Declared Interface](/assets/images/ps-bios-001-cover.jpg)](https://zenodo.org/records/21192767)
+
+*Foundational Declaration*
+
+**Read:** https://zenodo.org/records/21192767
+
+---
+
+### A Field Guide to Epistemic Failure
+
+[![A Field Guide to Epistemic Failure](/assets/images/field-guide-cover.jpg)](https://leanpub.com/afieldguidetoepistemicfailure)
+
+*Diagnostic Guide*
+
+**Read:** https://leanpub.com/afieldguidetoepistemicfailure
+
+---
+
+### Contemplation
+
+[![Contemplation](/assets/images/contemplation-cover.jpg)](https://leanpub.com/contemplation)
+
+*Reflective Companion • Free*
+
+**Read:** https://leanpub.com/contemplation
+
+---
+
+### Series Integrator
+
+[![Series Integrator](/assets/images/series-integrator-cover.jpg)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
+
+*Reader's Guide*
+
+**Read:** https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792
