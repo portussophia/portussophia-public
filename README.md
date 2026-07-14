@@ -25,7 +25,7 @@ The website presents the research program through several complementary perspect
 
 - **PS-BIOS-001 — The Declared Interface**
 
-  - https://zenodo.org/records/21192767
+  - https://zenodo.org/records/21229870
 - **A Field Guide to Epistemic Failure**
 
   - https://leanpub.com/afieldguidetoepistemicfailure
