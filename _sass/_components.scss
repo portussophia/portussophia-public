@@ -112,10 +112,6 @@
   border-bottom-color: var(--gold);
 }
 
-.mobile-home {
-  display: none;
-}
-
 .desktop-nav {
   display: block;
 }
@@ -126,12 +122,14 @@
 
 .anchor-menu {
   position: relative;
+  margin-left: auto;
 }
 
 .anchor-menu-panel {
   position: absolute;
   top: 100%;
-  left: 0;
+  right: 0;
+  left: auto;
   z-index: 6;
   min-width: 18rem;
   padding: 0.65rem;
@@ -171,6 +169,13 @@
 .is-overlay .anchor-menu-panel .nav-list a[aria-current="page"] {
   border-left-color: var(--link);
   color: var(--navy);
+}
+
+.anchor-menu-panel .nav-list .nav-home,
+.mobile-nav .nav-list .nav-home {
+  margin: 0 0 0.45rem;
+  padding: 0 0 0.45rem;
+  border-bottom: 1px solid var(--rule);
 }
 
 .anchor-menu-panel .nav-list .related-surface {
@@ -817,10 +822,6 @@
     padding: 0.45rem 0 0;
     border-top: 1px solid var(--rule);
     border-left: 0;
-  }
-
-  .mobile-home {
-    display: block;
   }
 
   .domain-grid,
