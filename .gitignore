@@ -16,3 +16,9 @@ discoveries/
 docs/
 going-live/
 portfolio/
+
+# Local governance sources and generated build output
+_work/
+.sass-cache/
+_site/
+_site-final/

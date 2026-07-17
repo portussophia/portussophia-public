@@ -1,12 +1,29 @@
-title: "PortusSophia™ Public Orientation"
-description: "High-level architecture overview and public announcements for PortusSophia™"
+title: "PortusSophia™"
+description: "The public research interface for PortusSophia™, an independent programme and candidate field architecture for disciplined cross-field inquiry."
+url: "https://public.portussophia.com"
+baseurl: ""
 theme: minima
 
 markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      header_surface: light
+  - scope:
+      path: "index.md"
+    values:
+      header_surface: dark
+sass:
+  style: compressed
+
 github:
   is_project_page: false
 
 exclude:
+  - _work
   - archive
   - README.md
   - LICENSE.md

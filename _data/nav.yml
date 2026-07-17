@@ -1,0 +1,19 @@
+primary:
+  - label: Interface
+    url: /interface/
+
+  - label: Field Architecture
+    url: /field-architecture/
+
+  - label: Philosophy of Science
+    url: /philosophy-of-science/
+
+  - label: Research
+    url: /research/
+
+  - label: Engage
+    url: /engage/
+
+  - label: Founder ↗
+    url: https://founder.portussophia.com/
+    external: true

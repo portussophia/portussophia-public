@@ -1,0 +1,83 @@
+body {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.72;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.eyebrow,
+.section-label,
+.standing,
+.site-nav,
+.button-link,
+.record-meta,
+.site-footer {
+  font-family: var(--font-sans);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--navy);
+  font-weight: 650;
+  letter-spacing: -0.025em;
+  line-height: 1.16;
+}
+
+h1 {
+  max-width: 18ch;
+  margin: 0;
+  font-size: clamp(2.35rem, 6vw, 4.75rem);
+}
+
+h2 {
+  margin-top: 3.75rem;
+  margin-bottom: 1rem;
+  font-size: clamp(1.55rem, 3vw, 2.15rem);
+}
+
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  max-width: var(--measure);
+}
+
+p {
+  margin-block: 0 1.2rem;
+}
+
+.eyebrow,
+.section-label,
+.standing {
+  color: var(--link);
+  font-size: 0.75rem;
+  font-weight: 740;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.lede,
+.page-intro {
+  max-width: 48rem;
+  margin-top: 1.35rem;
+  color: var(--warm-slate);
+  font-size: clamp(1.18rem, 2.2vw, 1.48rem);
+  line-height: 1.55;
+}
