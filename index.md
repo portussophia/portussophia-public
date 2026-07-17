@@ -3,21 +3,21 @@ layout: home
 title: PortusSophia
 permalink: /
 header_surface: dark
-footer_quiet: true
 ---
+<section class="apex-section programme-identity" aria-labelledby="programme-title">
+  <div class="shell apex-narrow">
+    <img class="programme-logo" src="{{ '/assets/images/logo.png' | relative_url }}" alt="PortusSophia programme mark" width="391" height="360">
+    <p class="eyebrow">Formal programme identity</p>
+    <h1 id="programme-title">PortusSophia™</h1>
+    <p class="identity-statement">A Candidate Field Architecture for Abstract Epistemic Discipline through Legibility Grammar, Regime Translation, and Observational Restraint Infrastructure</p>
+  </div>
+</section>
+
 <section class="apex-section mission-section" aria-labelledby="mission-label">
   <div class="shell apex-narrow">
     <p class="eyebrow" id="mission-label">Mission</p>
     <p class="mission-statement">To see clearly where a difference can be made.</p>
     <a class="text-action" href="{{ '/interface/' | relative_url }}">Read the Interface</a>
-  </div>
-</section>
-
-<section class="apex-section programme-identity" aria-labelledby="programme-title">
-  <div class="shell apex-narrow">
-    <p class="eyebrow">Formal programme identity</p>
-    <h1 id="programme-title">PortusSophia™</h1>
-    <p class="identity-statement">A Candidate Field Architecture for Abstract Epistemic Discipline through Legibility Grammar, Regime Translation, and Observational Restraint Infrastructure</p>
   </div>
 </section>
 
@@ -144,7 +144,7 @@ footer_quiet: true
     <h2 id="founder-title">James Roy Dennis</h2>
     <p class="founder-role">Founder and Originating Field Architect, PortusSophia™</p>
     <p>James originated and built the PortusSophia inquiry and its architecture and remains responsible for its research direction, stewardship, admission, and public encounter decisions. AI systems have contributed substantively but boundedly across drafting, research assistance, criticism, comparison, organization, and review.</p>
-    <a class="button-link secondary" href="https://founder.portussophia.com">Visit the Founder portfolio ↗</a>
+    <a class="button-link secondary" href="https://founder.portussophia.com" target="_blank" rel="noopener noreferrer">Visit the Founder portfolio ↗</a>
   </div>
 </section>
 
