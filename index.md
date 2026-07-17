@@ -15,9 +15,9 @@ header_surface: dark
   </div>
 </section>
 
-<section class="apex-section mission-section" aria-labelledby="mission-label">
+<section class="apex-section mission-section" aria-labelledby="mission-title">
   <div class="shell apex-narrow">
-    <p class="eyebrow" id="mission-label">Mission</p>
+    <h2 id="mission-title">Mission</h2>
     <p class="mission-statement">To see clearly where a difference can be made.</p>
     <a class="text-action" href="{{ '/interface/' | relative_url }}">Read the Interface</a>
   </div>
@@ -42,7 +42,6 @@ header_surface: dark
     </div>
     <div class="domain-grid">
       <article class="domain-card">
-        <p class="domain-number" aria-hidden="true">01</p>
         <h3>PortusStructura™</h3>
         <p class="domain-subtitle">Legibility Grammar</p>
         <p>PortusStructura investigates how distinctions are formed, preserved, and related so that inquiry may proceed without mistaking resemblance for identity.</p>
@@ -56,7 +55,6 @@ header_surface: dark
       </article>
 
       <article class="domain-card">
-        <p class="domain-number" aria-hidden="true">02</p>
         <h3>PortusEthica™</h3>
         <p class="domain-subtitle">Regime Translation</p>
         <p>PortusEthica investigates how observations, meanings, responsibilities, and explanatory structures may cross regimes without coercive translation, silent authority expansion, or loss of provenance.</p>
@@ -71,7 +69,6 @@ header_surface: dark
       </article>
 
       <article class="domain-card">
-        <p class="domain-number" aria-hidden="true">03</p>
         <h3>PortusLumen™</h3>
         <p class="domain-subtitle">Observational Restraint Infrastructure</p>
         <p>PortusLumen investigates the conditions under which observation, interpretation, and explanatory scope remain aligned—so that seeing more does not become permission to claim more.</p>
