@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: Philosophy of Science
+eyebrow: Evaluation route
+intro: "A philosophy-of-science route into PortusSophia’s candidate architectural questions: representation, translation, explanatory scope, declared boundaries, and observational restraint."
 permalink: /philosophy-of-science/
+header_surface: dark
 ---
-# Philosophy of Science
 
 ## Why Philosophy of Science?
 

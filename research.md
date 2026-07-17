@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: Research
+eyebrow: Research record
+intro: "The current portfolio of PortusSophia investigations, their declared standing, scope, and relationship to the candidate field architecture."
 permalink: /research/
+header_surface: dark
 ---
-# Research
 
 ## An Active Research Program
 
@@ -15,9 +17,9 @@ Rather than advancing a single theory or publication, the research is organized 
 
 ---
 
-# Current Research Portfolio
+## Current Research Portfolio
 
-## Field Architecture
+### Field Architecture
 
 **Status:** Active
 
@@ -27,7 +29,7 @@ This research asks whether disciplined inquiry itself possesses architectural co
 
 ---
 
-## Schema Epistemics
+### Schema Epistemics
 
 **Status:** Active
 
@@ -37,7 +39,7 @@ Schema Epistemics explores how knowledge may remain structurally legible while p
 
 ---
 
-## Regime Discipline
+### Regime Discipline
 
 **Status:** Active
 
@@ -61,7 +63,7 @@ Its purpose is not to determine whether two descriptions are identical, but whet
 
 ---
 
-## Pre-Relational Research
+### Pre-Relational Research
 
 **Status:** Active
 
@@ -71,7 +73,7 @@ Current investigations include **Negentropy**, **TRI**, and **EPS**, each examin
 
 ---
 
-## Cosymmetria™
+### Cosymmetria™
 
 **Status:** Exploratory
 
@@ -81,7 +83,7 @@ The work remains exploratory while its architectural commitments continue to mat
 
 ---
 
-## Draconomy™
+### Draconomy™
 
 **Status:** Exploratory
 
@@ -91,7 +93,7 @@ The work explores how disciplined inquiry may remain coherent where certainty is
 
 ---
 
-# Research Status
+## Research Status
 
 
 | Status                      | Meaning                                                                                |
@@ -103,7 +105,7 @@ The work explores how disciplined inquiry may remain coherent where certainty is
 
 ---
 
-# Research Philosophy
+## Research Philosophy
 
 PortusSophia™ treats research as an evolving architectural program rather than a collection of isolated publications.
 
@@ -121,7 +123,7 @@ Architectural clarity is valued more highly than preserving every idea.
 
 ---
 
-# Continuing the Investigation
+## Continuing the Investigation
 
 The current portfolio represents the present state of the research program rather than a completed body of work.
 
