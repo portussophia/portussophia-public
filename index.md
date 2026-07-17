@@ -4,8 +4,6 @@ title: PortusSophia
 permalink: /
 header_surface: dark
 footer_quiet: true
-banner: /assets/images/banner.png
-banner_alt: "The PortusSophia programme mark over an open shoreline at dusk with a restrained conceptual architecture overlay."
 ---
 <section class="apex-section mission-section" aria-labelledby="mission-label">
   <div class="shell apex-narrow">
@@ -155,6 +153,9 @@ banner_alt: "The PortusSophia programme mark over an open shoreline at dusk with
     <h2 class="visually-hidden" id="closing-title">Closing return</h2>
     <p>The objective is not agreement.</p>
     <p>The objective is to make the encounter legible.</p>
-    <p class="closing-refrain">Here and Now!</p>
+    <div class="closing-declaration">
+      <p class="closing-latin" lang="la">Hic et nunc! Ethica ab orientatione et temperantia incipit, non a vetito.</p>
+      <p class="closing-translation">Here and Now! Ethics begins with orientation and restraint, not with prohibition.</p>
+    </div>
   </div>
 </section>

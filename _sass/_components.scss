@@ -256,13 +256,31 @@
 }
 
 .mission-section {
-  background: rgba(250, 248, 245, 0.92);
+  border-bottom-color: rgba(204, 204, 204, 0.35);
+  background: var(--navy);
+  color: var(--parchment);
+}
+
+.is-overlay + .site-main .mission-section {
+  padding-top: clamp(8.25rem, 13vw, 11rem);
+}
+
+.mission-section .eyebrow {
+  color: var(--gold);
+}
+
+.mission-section .text-action {
+  color: var(--parchment);
+}
+
+.mission-section .text-action:hover {
+  color: var(--white);
 }
 
 .mission-statement {
   max-width: 32ch;
   margin: 0.65rem 0 1.15rem;
-  color: var(--navy);
+  color: var(--white);
   font-size: clamp(1.7rem, 4vw, 2.8rem);
   line-height: 1.25;
 }
@@ -465,11 +483,28 @@
   font-size: clamp(1.2rem, 3vw, 1.65rem);
 }
 
-.closing-refrain {
-  margin-top: 1.5rem;
-  color: var(--gold);
+.closing-declaration {
+  max-width: 50rem;
+  margin: 2rem auto 0;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(204, 204, 204, 0.35);
+}
+
+.closing-return .closing-latin {
+  margin: 0 auto;
+  color: var(--white);
   font-family: var(--font-serif);
+  font-size: clamp(1.1rem, 2.4vw, 1.45rem);
   font-style: italic;
+  line-height: 1.45;
+}
+
+.closing-return .closing-translation {
+  margin: 0.55rem auto 0;
+  color: var(--rule);
+  font-family: var(--font-sans);
+  font-size: clamp(0.9rem, 1.6vw, 1rem);
+  line-height: 1.5;
 }
 
 .page-intro-band {
