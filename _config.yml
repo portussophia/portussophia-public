@@ -2,9 +2,10 @@ title: "PortusSophia™"
 description: "The public research interface for PortusSophia™, an independent programme and candidate field architecture for disciplined cross-field inquiry."
 url: "https://public.portussophia.com"
 baseurl: ""
-asset_version: "20260717-2"
-theme: minima
+asset_version: "20260717-3"
 
+# The site owns its layouts, includes, and styles. No remote or packaged theme
+# supplies hidden header, footer, navigation, or page-shell behavior.
 markdown: kramdown
 permalink: pretty
 
@@ -19,6 +20,10 @@ defaults:
       header_surface: dark
 sass:
   style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
 
 github:
   is_project_page: false
