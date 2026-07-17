@@ -2,6 +2,7 @@ title: "PortusSophia™"
 description: "The public research interface for PortusSophia™, an independent programme and candidate field architecture for disciplined cross-field inquiry."
 url: "https://public.portussophia.com"
 baseurl: ""
+asset_version: "20260717-2"
 theme: minima
 
 markdown: kramdown
