@@ -3,7 +3,7 @@
   {%- assign dark_header = true -%}
 {%- endif -%}
 {%- capture primary_items -%}
-  <li class="mobile-home"><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a></li>
+  <li class="nav-home"><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a></li>
   {%- for item in site.data.nav.primary -%}
     {%- assign is_current = false -%}
     {%- if item.external != true and page.url == item.url -%}
@@ -22,18 +22,18 @@
 {%- endcapture -%}
 <header class="site-header{% if dark_header %} is-overlay{% else %} is-solid{% endif %}" role="banner">
   <div class="shell header-inner">
-    <div class="anchor-menu">
-      {%- include home-anchor.html -%}
-      <nav class="anchor-menu-panel" aria-label="Primary navigation">
-        <ul class="nav-list">{{ primary_items }}</ul>
-      </nav>
-    </div>
-
     <details class="site-nav mobile-nav">
       <summary>Menu</summary>
       <nav aria-label="Primary navigation">
         <ul class="nav-list">{{ primary_items }}</ul>
       </nav>
     </details>
+
+    <div class="anchor-menu">
+      {%- include home-anchor.html -%}
+      <nav class="anchor-menu-panel" aria-label="Primary navigation">
+        <ul class="nav-list">{{ primary_items }}</ul>
+      </nav>
+    </div>
   </div>
 </header>
