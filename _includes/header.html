@@ -13,7 +13,7 @@
     {%- endif -%}
     <li{% if item.external %} class="related-surface"{% endif %}>
       {%- if item.external -%}
-        <a href="{{ item.url }}" class="is-external">{{ item.label | escape }}</a>
+        <a href="{{ item.url }}" class="is-external" target="_blank" rel="noopener noreferrer">{{ item.label | escape }}</a>
       {%- else -%}
         <a href="{{ item.url | relative_url }}"{% if is_current %} aria-current="page"{% endif %}>{{ item.label | escape }}</a>
       {%- endif -%}
@@ -22,11 +22,12 @@
 {%- endcapture -%}
 <header class="site-header{% if dark_header %} is-overlay{% else %} is-solid{% endif %}" role="banner">
   <div class="shell header-inner">
-    {%- include home-anchor.html -%}
-
-    <nav class="site-nav desktop-nav" aria-label="Primary navigation">
-      <ul class="nav-list">{{ primary_items }}</ul>
-    </nav>
+    <div class="anchor-menu">
+      {%- include home-anchor.html -%}
+      <nav class="anchor-menu-panel" aria-label="Primary navigation">
+        <ul class="nav-list">{{ primary_items }}</ul>
+      </nav>
+    </div>
 
     <details class="site-nav mobile-nav">
       <summary>Menu</summary>
