@@ -123,6 +123,62 @@
   display: none;
 }
 
+.anchor-menu {
+  position: relative;
+}
+
+.anchor-menu-panel {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 6;
+  min-width: 18rem;
+  padding: 0.65rem;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  box-shadow: 0 1rem 2rem rgba(13, 27, 42, 0.16);
+  opacity: 0;
+  transform: translateY(-0.35rem);
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 120ms ease, transform 120ms ease, visibility 120ms ease;
+}
+
+.anchor-menu:hover .anchor-menu-panel,
+.anchor-menu:focus-within .anchor-menu-panel {
+  opacity: 1;
+  transform: translateY(0);
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.anchor-menu-panel .nav-list {
+  display: block;
+}
+
+.anchor-menu-panel .nav-list a,
+.is-overlay .anchor-menu-panel .nav-list a {
+  padding: 0.7rem 0.75rem;
+  border-bottom: 0;
+  border-left: 2px solid transparent;
+  color: var(--navy);
+}
+
+.anchor-menu-panel .nav-list a:hover,
+.is-overlay .anchor-menu-panel .nav-list a:hover,
+.anchor-menu-panel .nav-list a[aria-current="page"],
+.is-overlay .anchor-menu-panel .nav-list a[aria-current="page"] {
+  border-left-color: var(--link);
+  color: var(--navy);
+}
+
+.anchor-menu-panel .nav-list .related-surface {
+  margin: 0.45rem 0 0;
+  padding: 0.45rem 0 0;
+  border-top: 1px solid var(--rule);
+  border-left: 0;
+}
+
 .hero {
   position: relative;
   display: grid;
@@ -256,31 +312,13 @@
 }
 
 .mission-section {
-  border-bottom-color: rgba(204, 204, 204, 0.35);
-  background: var(--navy);
-  color: var(--parchment);
-}
-
-.is-overlay + .site-main .mission-section {
-  padding-top: clamp(8.25rem, 13vw, 11rem);
-}
-
-.mission-section .eyebrow {
-  color: var(--gold);
-}
-
-.mission-section .text-action {
-  color: var(--parchment);
-}
-
-.mission-section .text-action:hover {
-  color: var(--white);
+  background: rgba(250, 248, 245, 0.92);
 }
 
 .mission-statement {
   max-width: 32ch;
   margin: 0.65rem 0 1.15rem;
-  color: var(--white);
+  color: var(--navy);
   font-size: clamp(1.7rem, 4vw, 2.8rem);
   line-height: 1.25;
 }
@@ -313,6 +351,17 @@
 .programme-identity .eyebrow,
 .engage-section .section-label {
   color: var(--gold);
+}
+
+.is-overlay + .site-main .programme-identity {
+  padding-top: clamp(8.25rem, 13vw, 11rem);
+}
+
+.programme-logo {
+  display: block;
+  width: clamp(7.5rem, 14vw, 10rem);
+  height: auto;
+  margin: 0 0 2rem;
 }
 
 .programme-identity h1 {
@@ -669,6 +718,10 @@
     display: block;
     position: relative;
     z-index: 5;
+  }
+
+  .anchor-menu-panel {
+    display: none;
   }
 
   .site-nav summary {
