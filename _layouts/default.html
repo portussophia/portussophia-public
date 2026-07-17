@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  {%- include head.html -%}
+  <body class="layout-{{ page.layout | default: 'default' }}{% if page.url == '/' %} is-home{% endif %}">
+    <div class="site-frame">
+      <a class="skip-link" href="#main-content">Skip to main content</a>
+      {%- include header.html -%}
+      <main id="main-content" class="site-main{% if page.layout == 'default' %} legacy-page shell{% endif %}" tabindex="-1">
+        {{ content }}
+      </main>
+      {%- include footer-return.html -%}
+    </div>
+  </body>
+</html>

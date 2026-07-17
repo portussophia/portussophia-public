@@ -1,0 +1,15 @@
+<footer class="site-footer">
+  <div class="shell footer-inner{% if page.footer_quiet %} is-quiet{% endif %}">
+    <div>
+      <p class="footer-name">PortusSophia™</p>
+      <p>Independent research programme · Candidate field architecture</p>
+    </div>
+    {% unless page.footer_quiet %}
+      <p class="footer-refrain"><em>Here and Now!</em></p>
+      <nav class="footer-links" aria-label="Footer navigation">
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        <a href="https://founder.portussophia.com/">Founder ↗</a>
+      </nav>
+    {% endunless %}
+  </div>
+</footer>

@@ -1,0 +1,5 @@
+<aside class="bridge" aria-label="Related Founder context">
+  <p class="section-label">Related Founder context</p>
+  {% if include.reason %}<p>{{ include.reason }}</p>{% endif %}
+  <a href="{{ include.url }}">{{ include.label | default: 'Visit the Founder portfolio ↗' }}</a>
+</aside>

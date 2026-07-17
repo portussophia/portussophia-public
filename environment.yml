@@ -1,0 +1,6 @@
+name: public-portussophia
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ruby=3.3
