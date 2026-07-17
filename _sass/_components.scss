@@ -17,9 +17,10 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: min(calc(100% - 2.5rem), 86rem);
+  width: 100%;
   min-height: 6rem;
   gap: 2rem;
+  padding-inline: clamp(0.75rem, 2vw, 1.5rem);
 }
 
 .is-overlay .header-inner {
@@ -354,11 +355,15 @@
 }
 
 .programme-identity {
-  padding-bottom: clamp(3.5rem, 6vw, 5rem);
+  padding-bottom: clamp(2.5rem, 4vw, 3.5rem);
 }
 
 .is-overlay + .site-main .programme-identity {
-  padding-top: clamp(6.25rem, 8vw, 7.5rem);
+  padding-top: clamp(4.75rem, 6vw, 5.75rem);
+}
+
+.mission-section {
+  padding-block: clamp(2.5rem, 4vw, 3.5rem);
 }
 
 .programme-identity-grid {
