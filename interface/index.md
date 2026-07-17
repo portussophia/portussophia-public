@@ -11,6 +11,8 @@ header_surface: dark
 
 PortusSophia binds its own authority before it asks another body of work to enter relation.
 
+<p class="source-link"><strong>Source constitution of inquiry:</strong> <a href="https://zenodo.org/records/21229870" target="_blank" rel="noopener noreferrer">Zenodo record 21229870 ↗</a></p>
+
 ## Claims and non-claims
 
 This route will orient readers to distinction before relation, interface locality, non-resolution, non-closure, and the boundary between governance and doctrine.
