@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="home-page">
+  <section class="hero" aria-label="PortusSophia shoreline orientation">
+    <div class="hero__media">
+      <img class="hero__banner" src="{{ page.banner | relative_url }}" alt="{{ page.banner_alt | escape }}">
+      <span class="hero__wash" aria-hidden="true"></span>
+    </div>
+    <div class="hero__declaration shell">
+      <p class="hero__latin" lang="la">Hic et nunc! Ethica ab orientatione et temperantia incipit, non a vetito.</p>
+      <p class="hero__translation">Here and Now! Ethics begins with orientation and restraint, not with prohibition.</p>
+    </div>
+  </section>
+
+  <div class="home-apex">
+    {{ content }}
+  </div>
+</div>
