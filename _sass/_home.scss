@@ -1,0 +1,21 @@
+// Homepage-specific refinements.
+
+.mission-section {
+  background: rgba(241, 236, 227, 0.82);
+}
+
+.mission-section h2 {
+  margin: 0 0 0.4rem;
+  color: var(--navy);
+  font-size: clamp(1.35rem, 2.4vw, 1.8rem);
+  line-height: 1.2;
+}
+
+.mission-statement {
+  max-width: 40ch;
+  margin: 0.35rem 0 1.15rem;
+  color: var(--copper);
+  font-size: clamp(1.25rem, 2.3vw, 1.55rem);
+  font-weight: 700;
+  line-height: 1.4;
+}
