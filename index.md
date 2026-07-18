@@ -81,6 +81,51 @@ header_surface: dark
         </ul>
       </article>
     </div>
+
+    <div class="axiom-triad" aria-labelledby="axioms-title">
+      <div class="section-heading">
+        <p class="section-label">Constitutional discipline</p>
+        <h2 id="axioms-title">The Disciplinary Triad</h2>
+        <p>The three axioms form a single relational structure. Each conditions what the others are permitted to mean; none stands coherently alone.</p>
+      </div>
+      <div class="domain-grid axiom-grid">
+        <article class="domain-card axiom-card">
+          <h3>A₁ — Non-Coercive Emergence</h3>
+          <p class="domain-subtitle">Protects emergence</p>
+          <p class="axiom-declaration">“What emerges from a structure must be allowed to speak for itself, without the architect forcing interpretation upon it.”</p>
+          <ul>
+            <li>non-totalization</li>
+            <li>boundary discipline</li>
+            <li>emergent interpretation</li>
+            <li>the observer’s right to form understanding</li>
+          </ul>
+        </article>
+
+        <article class="domain-card axiom-card">
+          <h3>A₂ — Non-Resolution</h3>
+          <p class="domain-subtitle">Protects honest formalization</p>
+          <p class="axiom-declaration">“Everything manifests only in relation to substrate. Formalization compresses. Distinction is fundamental. ‘Here and Now!’ is the only moment where manifestation and awareness co-occur without mediation.”</p>
+          <ul>
+            <li>humility before compression</li>
+            <li>context-dependent meaning</li>
+            <li>managed loss in formalization</li>
+            <li>tension held without false resolution</li>
+          </ul>
+        </article>
+
+        <article class="domain-card axiom-card">
+          <h3>A₃ — Non-Closure</h3>
+          <p class="domain-subtitle">Protects future possibility</p>
+          <p class="axiom-declaration">“Optionality is temporal, not momentary. Structural decisions condition future possibility space. What is foreclosed cannot emerge.”</p>
+          <ul>
+            <li>future optionality</li>
+            <li>emergence capacity</li>
+            <li>awareness before irreversible foreclosure</li>
+            <li>durability of the first two axioms across time</li>
+          </ul>
+        </article>
+      </div>
+    </div>
   </div>
 </section>
 
