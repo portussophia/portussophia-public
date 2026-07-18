@@ -5,6 +5,8 @@
   {%- assign header_variant = 'identity' -%}
 {%- elsif page.layout == 'shoreline-masthead' and page.header_variant == nil -%}
   {%- assign header_variant = 'shoreline' -%}
+{%- elsif page.layout == 'page' and page.header_variant == nil -%}
+  {%- assign header_variant = 'shoreline' -%}
 {%- endif -%}
 
 {%- if header_variant == 'identity' -%}
