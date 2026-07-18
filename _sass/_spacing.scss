@@ -1,0 +1,10 @@
+// Shared header-to-content reduction: 1.5rem.
+// Homepage spacing is governed separately in _home.scss.
+
+body:not(.is-home) .page-header {
+  padding-top: clamp(2.5rem, 6vw, 5rem);
+}
+
+body:not(.is-home) .is-overlay + .site-main .page-header {
+  padding-top: clamp(4.75rem, 8vw, 6.5rem);
+}
