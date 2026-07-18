@@ -1,13 +1,8 @@
+# PortusSophia™ Public Website — Limited Permissions
 
-# LICENSE.md
+Copyright © 2026 PortusSophia, LLC. All rights reserved.
 
-# PortusSophia™ Public Website License
-
-Copyright © 2026 James Roy Dennis · PortusSophia™, LLC
-
-All rights reserved.
-
----
+This file states limited permissions specific to the public website repository. The default repository rights and restrictions are stated in [`RIGHTS.md`](RIGHTS.md).
 
 ## Purpose
 
@@ -15,68 +10,51 @@ This repository contains the source for the public PortusSophia™ website.
 
 It exists to provide public access to published research, archival declarations, and related informational material.
 
-This repository is **not** the canonical PortusSophia™ research repository and does not contain the complete research framework.
+This repository is not the canonical PortusSophia™ research repository and does not contain the complete research framework.
 
----
-
-## Rights Granted
+## Limited permissions
 
 You may:
 
-- Read and browse the website source.
-- Reference and cite publicly available content.
-- Link to pages within the website.
-- Quote brief excerpts for scholarly, educational, or review purposes with appropriate attribution.
+- read and browse the website source;
+- reference and cite publicly available content;
+- link to pages within the website; and
+- quote brief excerpts for scholarly, educational, review, or journalistic purposes with appropriate attribution, subject to applicable law and the terms governing the cited work.
 
----
+These limited permissions do not authorize copying or republishing the website as a whole, creating derivative branded surfaces, or using PortusSophia marks.
 
 ## Restrictions
 
 You may not:
 
-- Reproduce substantial portions of the website as your own.
-- Use the PortusSophia™ name or trademarks to imply endorsement.
-- Misrepresent website content or remove attribution.
-- Republish substantial portions of the website without written permission.
+- reproduce substantial portions of the website as your own;
+- use the PortusSophia™ name or marks to imply endorsement;
+- misrepresent website content or remove attribution;
+- republish substantial portions of the website without written permission;
+- sublicense or commercially exploit repository content; or
+- create derivative works except where permitted by applicable law or prior written authorization from PortusSophia, LLC.
 
-Publication-specific licenses continue to govern individual books, papers, and archival works.
+## Separately published works
 
----
+Books, papers, Zenodo records, SSRN papers, and other archival publications referenced by this website remain governed by their respective publication terms.
 
-## Publications
-
-Published works referenced by this website—including books, SSRN papers, Zenodo records, and other archival publications—remain governed by their respective publication terms.
-
-Nothing in this repository supersedes those licenses.
-
----
+Nothing in this repository supersedes those terms.
 
 ## Trademarks
 
-PortusSophia™, Cosymmetria™, Nexology™, Draconomy™, and related marks remain the intellectual property of PortusSophia™, LLC.
+PortusSophia™ and related marks are claimed trademarks of PortusSophia, LLC.
 
-Use of these marks in connection with products, services, publications, or derivative works requires written authorization.
+Publication of this repository does not authorize use of those marks in connection with products, services, publications, websites, or derivative works.
 
----
+## No warranty
 
-## No Warranty
-
-This website is provided for informational and scholarly purposes.
-
-No warranty is expressed or implied regarding completeness, suitability, or fitness for any particular purpose.
-
----
+This website is provided for informational and scholarly purposes. No warranty is expressed or implied regarding completeness, suitability, accuracy, or fitness for any particular purpose.
 
 ## Contact
 
-**James Roy Dennis**
-
-PortusSophia™, LLC
-
-founder@portussophia.com
-
+**James Roy Dennis**  
+PortusSophia, LLC  
+founder@portussophia.com  
 https://public.portussophia.com
 
----
-
-*"Here and Now!"*
+*Here and Now!*
