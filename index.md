@@ -8,7 +8,6 @@ header_surface: dark
   <div class="shell apex-narrow programme-identity-grid">
     <img class="programme-logo" src="{{ '/assets/images/logo.png' | relative_url }}" alt="PortusSophia programme mark" width="391" height="360">
     <div class="programme-identity-copy">
-      <p class="eyebrow">Formal programme identity</p>
       <h1 id="programme-title">PortusSophia™</h1>
       <p class="identity-statement">A Candidate Field Architecture for Abstract Epistemic Discipline through Legibility Grammar, Regime Translation, and Observational Restraint Infrastructure</p>
     </div>
