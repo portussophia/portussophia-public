@@ -1,14 +1,32 @@
 <footer class="site-footer">
   <div class="shell footer-inner{% if page.footer_quiet %} is-quiet{% endif %}">
-    <div>
+    <div class="footer-identity">
       <p class="footer-name">PortusSophia™</p>
       <p>Independent research programme · Candidate field architecture</p>
     </div>
     {% unless page.footer_quiet %}
       <p class="footer-refrain"><em>Here and Now!</em></p>
-      <nav class="footer-links" aria-label="Footer navigation">
-        <a href="{{ '/contact/' | relative_url }}">Contact</a>
-        <a href="https://founder.portussophia.com/" target="_blank" rel="noopener noreferrer">Founder ↗</a>
+      <nav class="footer-panels" aria-label="Footer navigation">
+        <div class="footer-panel">
+          <span class="footer-panel-label">Programme</span>
+          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+          <a href="https://bsky.app/profile/portussophia.bsky.social" target="_blank" rel="noopener noreferrer">Bluesky</a>
+          <a href="https://substack.com/@portussophia" target="_blank" rel="noopener noreferrer">Substack</a>
+          <a href="https://github.com/portussophia" target="_blank" rel="noopener noreferrer">Programme GitHub</a>
+        </div>
+        <div class="footer-panel">
+          <span class="footer-panel-label">Research profiles</span>
+          <a href="https://orcid.org/0009-0000-6689-8763" target="_blank" rel="noopener noreferrer">ORCID</a>
+          <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792" target="_blank" rel="noopener noreferrer">SSRN</a>
+          <a href="https://www.researchgate.net/profile/James-Dennis-17?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+          <a href="https://www.lens.org/lens/profile/697110263/scholar#" target="_blank" rel="noopener noreferrer">Lens</a>
+        </div>
+        <div class="footer-panel">
+          <span class="footer-panel-label">Founder</span>
+          <a href="https://founder.portussophia.com/" target="_blank" rel="noopener noreferrer">Founder portfolio</a>
+          <a href="https://www.linkedin.com/in/jamesroydennis" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://github.com/jamesroydennis" target="_blank" rel="noopener noreferrer">James on GitHub</a>
+        </div>
       </nav>
     {% endunless %}
   </div>
