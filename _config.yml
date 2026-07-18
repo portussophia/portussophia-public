@@ -2,22 +2,28 @@ title: "PortusSophia™"
 description: "The public research interface for PortusSophia™, an independent programme and candidate field architecture for disciplined cross-field inquiry."
 url: "https://public.portussophia.com"
 baseurl: ""
-asset_version: "20260717-6"
+asset_version: "20260718-7"
 
-# The site owns its layouts, includes, and styles. No remote or packaged theme
-# supplies hidden header, footer, navigation, or page-shell behavior.
+portussophia:
+  template_version: "1.0.0"
+  asset_origin: "https://assets.portussophia.com"
+  asset_version: "20260718-3"
+
+  header_label: "PortusSophia™"
+  header_role: "Candidate Field Architecture"
+
+  identity_logo_url: "https://assets.portussophia.com/img/site/logo.png"
+  identity_logo_alt: "PortusSophia programme mark"
+  identity_title: "PortusSophia™"
+  identity_declaration: "A Candidate Field Architecture for Abstract Epistemic Discipline through Legibility Grammar, Regime Translation, and Observational Restraint Infrastructure"
+
+  rights_url: "https://assets.portussophia.com/RIGHTS.md"
+
+# The site owns its content layer. Canonical shared layouts and includes are
+# mirrored locally because Jekyll cannot import Liquid templates remotely.
 markdown: kramdown
 permalink: pretty
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      header_surface: light
-  - scope:
-      path: "index.md"
-    values:
-      header_surface: dark
 sass:
   style: compressed
 
