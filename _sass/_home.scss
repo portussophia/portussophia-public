@@ -26,6 +26,27 @@
   text-decoration-color: var(--gold);
 }
 
+.axiom-triad {
+  margin-top: clamp(2.75rem, 6vw, 4.5rem);
+  padding-top: clamp(2.25rem, 4vw, 3rem);
+  border-top: 1px solid var(--rule);
+}
+
+.axiom-card h3 {
+  font-size: clamp(1.08rem, 1.8vw, 1.35rem);
+}
+
+.axiom-declaration {
+  margin: 1.15rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  color: var(--navy);
+  font-family: var(--font-serif);
+  font-size: 1.02rem;
+  font-style: italic;
+  line-height: 1.58;
+}
+
 // Keep the programme identity clear of the overlay navigation without
 // carrying the original oversized section spacing into the homepage.
 .is-overlay + .site-main .programme-identity {
