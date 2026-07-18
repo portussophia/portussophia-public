@@ -6,7 +6,7 @@ header_surface: dark
 ---
 <section class="apex-section programme-identity" aria-labelledby="programme-title">
   <div class="shell apex-narrow programme-identity-grid">
-    <img class="programme-logo" src="{{ '/assets/images/logo.png' | relative_url }}" alt="PortusSophia programme mark" width="391" height="360">
+    <img class="programme-logo" src="https://assets.portussophia.com/img/site/logo.png" alt="PortusSophia programme mark" width="391" height="360">
     <div class="programme-identity-copy">
       <h1 id="programme-title">PortusSophia™</h1>
       <p class="identity-statement">A Candidate Field Architecture for Abstract Epistemic Discipline through Legibility Grammar, Regime Translation, and Observational Restraint Infrastructure</p>
