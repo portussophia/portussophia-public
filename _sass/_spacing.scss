@@ -1,10 +1,26 @@
-// Shared header-to-content reduction: 1.5rem.
-// Homepage spacing is governed separately in _home.scss.
+// Compact vertical rhythm shared by homepage sections and inner pages.
+
+.apex-section {
+  padding-block: clamp(2.5rem, 5vw, 4rem);
+}
+
+.section-heading {
+  margin-bottom: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+.mission-section {
+  padding-block: clamp(2.25rem, 4vw, 3.25rem);
+}
 
 body:not(.is-home) .page-header {
-  padding-top: clamp(2.5rem, 6vw, 5rem);
+  padding-block: clamp(2rem, 4vw, 3rem);
 }
 
 body:not(.is-home) .is-overlay + .site-main .page-header {
-  padding-top: clamp(4.75rem, 8vw, 6.5rem);
+  padding-top: clamp(5rem, 6vw, 5.75rem);
+  padding-bottom: clamp(2rem, 4vw, 3rem);
+}
+
+body:not(.is-home) .page-content {
+  padding-block: clamp(2rem, 4vw, 3.5rem);
 }

@@ -1,7 +1,7 @@
 // Homepage-specific refinements.
 
 .mission-section {
-  background: rgba(241, 236, 227, 0.82);
+  background: #888888;
 }
 
 .mission-section h2 {
@@ -20,8 +20,8 @@
   line-height: 1.4;
 }
 
-// Shared header-to-content reduction: 1.5rem.
-// The Founder homepage is intentionally excluded in its own codebase.
+// Keep the programme identity clear of the overlay navigation without
+// carrying the original oversized section spacing into the homepage.
 .is-overlay + .site-main .programme-identity {
   padding-top: clamp(3.25rem, 4vw, 4.25rem);
 }
