@@ -24,13 +24,10 @@ The website presents the research program through several complementary perspect
 ## Primary Publications
 
 - **PS-BIOS-001 — The Declared Interface**
-
   - https://zenodo.org/records/21229870
 - **A Field Guide to Epistemic Failure**
-
   - https://leanpub.com/afieldguidetoepistemicfailure
 - **Contemplation** *(Free)*
-
   - https://leanpub.com/contemplation
 
 ---
@@ -38,16 +35,12 @@ The website presents the research program through several complementary perspect
 ## Scholarly Profiles
 
 - ORCID
-
   - https://orcid.org/0009-0000-6689-8763
 - ResearchGate
-
   - https://www.researchgate.net/profile/James-Dennis-17
 - Lens
-
   - https://www.lens.org/lens/profile/697110263/scholar
 - SSRN Author Page
-
   - https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792
 
 ---
@@ -64,14 +57,16 @@ The goal is to keep the website lightweight, versioned, and easy to maintain whi
 
 ---
 
-## License
+## Rights and use
 
-Website content is subject to the licensing terms accompanying the individual publications and the PortusSophia™ Canonical License where applicable.
+Copyright © 2026 PortusSophia, LLC. All rights reserved.
 
-See `LICENSE.md` for details.
+See [`RIGHTS.md`](RIGHTS.md) for the repository’s default rights and use statement.
+
+See [`LICENSE.md`](LICENSE.md) for the limited permissions specific to reading, citing, linking to, and briefly quoting material from the public website.
+
+Separately published books, papers, deposits, and archival works remain governed by their own publication terms.
 
 ---
 
-© 2026 James Roy Dennis · PortusSophia™, LLC
-
-*"Here and Now!"*
+*Here and Now!*
