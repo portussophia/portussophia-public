@@ -41,6 +41,15 @@
 .site-header--shoreline-identity .anchor-menu > summary.menu-trigger svg {
   width: 2.85rem;
   height: 2.85rem;
+  transform-origin: 50% 50%;
+  transition: transform 150ms ease;
+}
+
+.site-header--shoreline .anchor-menu > summary.menu-trigger:hover svg,
+.site-header--shoreline .anchor-menu > summary.menu-trigger:focus-visible svg,
+.site-header--shoreline-identity .anchor-menu > summary.menu-trigger:hover svg,
+.site-header--shoreline-identity .anchor-menu > summary.menu-trigger:focus-visible svg {
+  transform: rotate(22deg);
 }
 
 /* Remove the pointer gap so the panel remains open while moving into it. */
