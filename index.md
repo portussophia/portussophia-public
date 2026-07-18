@@ -174,9 +174,7 @@ shoreline_horizon: 36%
 <section class="apex-section closing-return" aria-labelledby="closing-title">
   <div class="shell apex-narrow">
     <h2 class="visually-hidden" id="closing-title">Closing return</h2>
-    <p>The objective is not agreement.</p>
-    <p>The objective is to make the encounter legible.</p>
-    <div class="closing-declaration">
+    <div>
       <p class="closing-latin" lang="la">Hic et nunc! Ethica ab orientatione et temperantia incipit, non a vetito.</p>
       <p class="closing-translation">Here and Now! Ethics begins with orientation and restraint, not with prohibition.</p>
     </div>
