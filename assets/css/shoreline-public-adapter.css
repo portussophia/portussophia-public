@@ -1,0 +1,269 @@
+/* PortusSophia™ Public shoreline content adapter.
+ *
+ * Loaded after the canonical Jekyll shell. This file owns only the Public
+ * content surfaces needed to keep background and foreground roles explicit.
+ */
+
+/* ---------- Homepage surface sequence ---------- */
+
+.home-page .apex-section {
+  color: var(--ps-dark, var(--slate, #1a1a2e));
+}
+
+.home-page .mission-section,
+.home-page .engage-section,
+.home-page .closing-return {
+  border-bottom-color: rgba(250, 248, 245, 0.22);
+  background-color: var(--ps-navy, var(--navy, #0d1b2a));
+  background-image: var(--ps-sailcloth-navy);
+  background-repeat: repeat;
+  background-size: 6px 6px;
+  color: var(--parchment, #faf8f5);
+}
+
+.home-page .mission-section h2,
+.home-page .mission-section p,
+.home-page .mission-section .mission-statement,
+.home-page .engage-section h2,
+.home-page .engage-section h3,
+.home-page .engage-section p,
+.home-page .closing-return h2,
+.home-page .closing-return p {
+  color: var(--parchment, #faf8f5);
+}
+
+.home-page .mission-section .text-action,
+.home-page .engage-section .section-label,
+.home-page .closing-return .section-label {
+  color: var(--ps-gold, var(--gold, #f0b53f));
+}
+
+.home-page .mission-section .text-action:hover,
+.home-page .mission-section .text-action:focus-visible {
+  color: var(--parchment, #faf8f5);
+}
+
+.home-page .what-is-section,
+.home-page .routes-section,
+.home-page .founder-accountability {
+  background: var(--parchment, #faf8f5);
+  color: var(--ps-dark, var(--slate, #1a1a2e));
+}
+
+.home-page .domains-section,
+.home-page .research-preview {
+  background: var(--paper, #f1ece3);
+  color: var(--ps-dark, var(--slate, #1a1a2e));
+}
+
+.home-page .what-is-section h2,
+.home-page .what-is-section h3,
+.home-page .domains-section h2,
+.home-page .domains-section h3,
+.home-page .routes-section h2,
+.home-page .routes-section h3,
+.home-page .research-preview h2,
+.home-page .research-preview h3,
+.home-page .founder-accountability h2,
+.home-page .founder-accountability h3 {
+  color: var(--ps-navy, var(--navy, #0d1b2a));
+}
+
+.home-page .what-is-section p,
+.home-page .what-is-section li,
+.home-page .domains-section p,
+.home-page .domains-section li,
+.home-page .routes-section p,
+.home-page .routes-section li,
+.home-page .research-preview p,
+.home-page .research-preview li,
+.home-page .founder-accountability p,
+.home-page .founder-accountability li {
+  color: inherit;
+}
+
+.home-page .what-is-section .section-label,
+.home-page .domains-section .section-label,
+.home-page .routes-section .section-label,
+.home-page .research-preview .section-label,
+.home-page .founder-accountability .section-label {
+  color: var(--copper, #8f6b4d);
+}
+
+.home-page .domain-card,
+.home-page .evaluation-card {
+  background: var(--parchment, #faf8f5);
+  color: var(--ps-dark, var(--slate, #1a1a2e));
+}
+
+.home-page .domain-card h3,
+.home-page .evaluation-card h3,
+.home-page .axiom-declaration,
+.home-page .domain-governing-line {
+  color: var(--ps-navy, var(--navy, #0d1b2a));
+}
+
+.home-page .domain-subtitle,
+.home-page .founder-role {
+  color: var(--warm-slate, #555555);
+}
+
+.home-page .what-is-section .button-link,
+.home-page .routes-section .button-link,
+.home-page .research-preview .button-link,
+.home-page .founder-accountability .button-link {
+  color: var(--ps-navy, var(--navy, #0d1b2a));
+}
+
+.home-page .what-is-section .button-link:hover,
+.home-page .what-is-section .button-link:focus-visible,
+.home-page .routes-section .button-link:hover,
+.home-page .routes-section .button-link:focus-visible,
+.home-page .research-preview .button-link:hover,
+.home-page .research-preview .button-link:focus-visible,
+.home-page .founder-accountability .button-link:hover,
+.home-page .founder-accountability .button-link:focus-visible {
+  background: var(--ps-navy, var(--navy, #0d1b2a));
+  color: var(--parchment, #faf8f5);
+}
+
+/* ---------- Internal shoreline pages ---------- */
+
+.shoreline-masthead-content,
+.shoreline-page-content {
+  color: var(--parchment, #faf8f5);
+}
+
+.shoreline-page-content h2,
+.shoreline-page-content h3,
+.shoreline-page-content h4,
+.shoreline-page-content h5,
+.shoreline-page-content h6 {
+  color: var(--parchment, #faf8f5);
+}
+
+.shoreline-page-content .eyebrow,
+.shoreline-page-content .section-label,
+.shoreline-page-content .standing {
+  color: var(--ps-gold, var(--gold, #f0b53f));
+}
+
+.shoreline-page-content a {
+  color: var(--ps-gold, var(--gold, #f0b53f));
+}
+
+.shoreline-page-content a:hover,
+.shoreline-page-content a:focus-visible {
+  color: var(--parchment, #faf8f5);
+}
+
+.shoreline-page-content blockquote {
+  border-left-color: var(--ps-gold, var(--gold, #f0b53f));
+  color: var(--parchment, #faf8f5);
+}
+
+.shoreline-page-content hr,
+.shoreline-page-content th,
+.shoreline-page-content td,
+.shoreline-page-content .record-meta,
+.shoreline-page-content .record-meta div {
+  border-color: rgba(250, 248, 245, 0.28);
+}
+
+.shoreline-page-content .button-link,
+.shoreline-page-content .button-link.secondary {
+  border-color: var(--ps-gold, var(--gold, #f0b53f));
+  color: var(--parchment, #faf8f5);
+}
+
+.shoreline-page-content .button-link:hover,
+.shoreline-page-content .button-link:focus-visible,
+.shoreline-page-content .button-link.secondary:hover,
+.shoreline-page-content .button-link.secondary:focus-visible {
+  background: var(--ps-gold, var(--gold, #f0b53f));
+  color: var(--ps-navy, var(--navy, #0d1b2a));
+}
+
+/* Public reading cards constitute light islands within the navy page field. */
+.shoreline-page-content .path-card,
+.shoreline-page-content .route-card,
+.shoreline-page-content .artifact-card,
+.shoreline-page-content .bridge,
+.shoreline-page-content .boundary-note,
+.shoreline-page-content .domain-card,
+.shoreline-page-content .evaluation-card {
+  border-color: var(--rule, #cccccc);
+  background: var(--parchment, #faf8f5);
+  color: var(--ps-dark, var(--slate, #1a1a2e));
+}
+
+.shoreline-page-content .path-card h2,
+.shoreline-page-content .path-card h3,
+.shoreline-page-content .route-card h2,
+.shoreline-page-content .route-card h3,
+.shoreline-page-content .artifact-card h2,
+.shoreline-page-content .artifact-card h3,
+.shoreline-page-content .bridge h2,
+.shoreline-page-content .bridge h3,
+.shoreline-page-content .boundary-note h2,
+.shoreline-page-content .boundary-note h3,
+.shoreline-page-content .domain-card h2,
+.shoreline-page-content .domain-card h3,
+.shoreline-page-content .evaluation-card h2,
+.shoreline-page-content .evaluation-card h3 {
+  color: var(--ps-navy, var(--navy, #0d1b2a));
+}
+
+.shoreline-page-content .path-card p,
+.shoreline-page-content .path-card li,
+.shoreline-page-content .route-card p,
+.shoreline-page-content .route-card li,
+.shoreline-page-content .artifact-card p,
+.shoreline-page-content .artifact-card li,
+.shoreline-page-content .bridge p,
+.shoreline-page-content .bridge li,
+.shoreline-page-content .boundary-note p,
+.shoreline-page-content .boundary-note li,
+.shoreline-page-content .domain-card p,
+.shoreline-page-content .domain-card li,
+.shoreline-page-content .evaluation-card p,
+.shoreline-page-content .evaluation-card li {
+  color: inherit;
+}
+
+.shoreline-page-content .path-card .section-label,
+.shoreline-page-content .route-card .section-label,
+.shoreline-page-content .artifact-card .section-label,
+.shoreline-page-content .bridge .section-label,
+.shoreline-page-content .boundary-note .section-label,
+.shoreline-page-content .domain-card .section-label,
+.shoreline-page-content .evaluation-card .section-label {
+  color: var(--copper, #8f6b4d);
+}
+
+.shoreline-page-content .path-card a,
+.shoreline-page-content .route-card a,
+.shoreline-page-content .artifact-card a,
+.shoreline-page-content .bridge a,
+.shoreline-page-content .boundary-note a,
+.shoreline-page-content .domain-card a,
+.shoreline-page-content .evaluation-card a {
+  color: var(--link, #1a61ad);
+}
+
+.shoreline-page-content .path-card a:hover,
+.shoreline-page-content .path-card a:focus-visible,
+.shoreline-page-content .route-card a:hover,
+.shoreline-page-content .route-card a:focus-visible,
+.shoreline-page-content .artifact-card a:hover,
+.shoreline-page-content .artifact-card a:focus-visible,
+.shoreline-page-content .bridge a:hover,
+.shoreline-page-content .bridge a:focus-visible,
+.shoreline-page-content .boundary-note a:hover,
+.shoreline-page-content .boundary-note a:focus-visible,
+.shoreline-page-content .domain-card a:hover,
+.shoreline-page-content .domain-card a:focus-visible,
+.shoreline-page-content .evaluation-card a:hover,
+.shoreline-page-content .evaluation-card a:focus-visible {
+  color: var(--ps-navy, var(--navy, #0d1b2a));
+}
