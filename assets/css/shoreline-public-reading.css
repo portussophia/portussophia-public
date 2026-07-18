@@ -1,27 +1,65 @@
 /* PortusSophia™ Public internal-page reading surface.
  *
  * Loaded after the canonical shoreline shell and the Public homepage adapter.
- * The shoreline photograph remains the masthead; the page body becomes a
- * light reading field with explicit foreground roles.
+ * The shoreline photograph remains the masthead. The title and declared
+ * orientation continue on navy sailcloth; the substantive body begins on a
+ * light reading field.
  */
 
-.shoreline-masthead-layout,
-.shoreline-masthead-content.ps-sailcloth {
-  background-color: var(--paper, #f1ece3);
-  background-image: none;
+.shoreline-masthead-layout {
+  background: var(--paper, #f1ece3);
   color: var(--ps-dark, var(--slate, #1a1a2e));
 }
 
-.shoreline-masthead-content {
-  border-top: 0;
+/* ---------- Opening orientation ---------- */
+
+.shoreline-page-opening {
+  background-color: var(--ps-navy, var(--navy, #0d1b2a));
+  background-image: var(--ps-sailcloth-navy);
+  background-repeat: repeat;
+  background-size: 6px 6px;
+  color: var(--parchment, #faf8f5);
 }
 
-.shoreline-page-header h1 {
-  color: var(--ps-navy, var(--navy, #0d1b2a));
+.shoreline-opening-inner {
+  padding-block: clamp(3.25rem, 6vw, 5.5rem);
+}
+
+.shoreline-page-opening .shoreline-page-header h1 {
+  color: var(--parchment, #faf8f5);
+}
+
+.shoreline-opening-eyebrow {
+  margin: clamp(1.6rem, 3vw, 2.25rem) 0 0.75rem;
+  color: var(--ps-gold, var(--gold, #f0b53f));
+}
+
+.shoreline-opening-intro {
+  max-width: 48rem;
+  margin: 0;
+  color: var(--parchment, #faf8f5);
+  font-size: clamp(1.18rem, 2.2vw, 1.48rem);
+  line-height: 1.55;
+}
+
+/* ---------- Substantive reading field ---------- */
+
+.shoreline-page-reading {
+  background: var(--paper, #f1ece3);
+  color: var(--ps-dark, var(--slate, #1a1a2e));
+}
+
+.shoreline-reading-inner {
+  padding-block: clamp(3.5rem, 7vw, 6rem);
 }
 
 .shoreline-page-content {
+  margin-top: 0;
   color: var(--ps-dark, var(--slate, #1a1a2e));
+}
+
+.shoreline-page-content > :first-child {
+  margin-top: 0;
 }
 
 .shoreline-page-content p,
