@@ -112,16 +112,6 @@ header_surface: dark
       <h2 id="research-title">A governed map of the work</h2>
       <p>The research surface distinguishes programme existence, governance operation, usefulness, candidate field status, external recognition, and philosophical correctness.</p>
     </div>
-    <ul class="research-family-list">
-      <li><h3>The Declared Interface</h3></li>
-      <li>
-        <h3>Philosophy of Science Companion Series</h3>
-        <p class="standing">Manuscript-complete authorial corpus · External standing shown per artifact</p>
-      </li>
-      <li><h3>Earlier Distributed Research</h3></li>
-      <li><h3>Books and Diagnostic Works</h3></li>
-      <li><h3>Applied and Emerging Instruments</h3></li>
-    </ul>
     <a class="button-link secondary" href="{{ '/research/' | relative_url }}">Explore the Research</a>
   </div>
 </section>

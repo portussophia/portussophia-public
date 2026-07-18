@@ -1,0 +1,69 @@
+// Public footer: programme channels, research profiles, and Founder links.
+
+.site-footer .footer-inner {
+  grid-template-columns: minmax(15rem, 0.9fr) auto minmax(30rem, 1.6fr);
+  align-items: start;
+}
+
+.footer-identity {
+  max-width: 24rem;
+}
+
+.footer-panels {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(1rem, 2.5vw, 2rem);
+}
+
+.footer-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.42rem;
+}
+
+.footer-panel-label {
+  margin-bottom: 0.2rem;
+  color: var(--white);
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 760;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.footer-panel a {
+  color: var(--rule);
+  text-decoration: none;
+}
+
+.footer-panel a:hover {
+  color: var(--white);
+  text-decoration: underline;
+}
+
+@media (max-width: 70rem) {
+  .site-footer .footer-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-refrain {
+    justify-self: start;
+  }
+
+  .footer-panels {
+    width: 100%;
+  }
+}
+
+@media (max-width: 42rem) {
+  .footer-panels {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .footer-panel {
+    padding-top: 1rem;
+    border-top: 1px solid rgba(204, 204, 204, 0.25);
+  }
+}

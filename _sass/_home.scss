@@ -1,7 +1,8 @@
 // Homepage-specific refinements.
 
 .mission-section {
-  background: #888888;
+  background: var(--rule);
+  box-shadow: inset 0 0.3rem 0 var(--gold);
 }
 
 .mission-section h2 {
@@ -14,10 +15,15 @@
 .mission-statement {
   max-width: 40ch;
   margin: 0.35rem 0 1.15rem;
-  color: var(--gold);
+  color: var(--navy);
   font-size: clamp(1.25rem, 2.3vw, 1.55rem);
-  font-weight: 700;
+  font-weight: 760;
   line-height: 1.4;
+}
+
+.mission-section .text-action {
+  color: var(--navy);
+  text-decoration-color: var(--gold);
 }
 
 // Keep the programme identity clear of the overlay navigation without
