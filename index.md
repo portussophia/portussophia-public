@@ -1,19 +1,9 @@
 ---
-layout: home
+layout: shoreline-home
 title: PortusSophia
 permalink: /
-header_surface: dark
+shoreline_horizon: 36%
 ---
-<section class="apex-section programme-identity" aria-labelledby="programme-title">
-  <div class="shell apex-narrow programme-identity-grid">
-    <img class="programme-logo" src="https://assets.portussophia.com/img/site/logo.png" alt="PortusSophia programme mark" width="391" height="360">
-    <div class="programme-identity-copy">
-      <h1 id="programme-title">PortusSophia™</h1>
-      <p class="identity-statement">A Candidate Field Architecture for Abstract Epistemic Discipline through Legibility Grammar, Regime Translation, and Observational Restraint Infrastructure</p>
-    </div>
-  </div>
-</section>
-
 <section class="apex-section mission-section" aria-labelledby="mission-title">
   <div class="shell apex-narrow">
     <h2 id="mission-title">Mission</h2>
