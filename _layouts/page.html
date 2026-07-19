@@ -1,17 +1,4 @@
 ---
-layout: default
+layout: shoreline-masthead
 ---
-<article class="page">
-  {% if page.show_header != false %}
-    <div class="page-intro-band">
-      <header class="page-header shell">
-        {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow | escape }}</p>{% endif %}
-        <h1>{{ page.title | escape }}</h1>
-        {% if page.intro %}<p class="page-intro">{{ page.intro | escape }}</p>{% endif %}
-      </header>
-    </div>
-  {% endif %}
-  <div class="page-content shell">
-    {{ content }}
-  </div>
-</article>
+{{ content }}

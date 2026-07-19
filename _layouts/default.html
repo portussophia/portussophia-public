@@ -5,10 +5,10 @@
     <div class="site-frame">
       <a class="skip-link" href="#main-content">Skip to main content</a>
       {%- include header.html -%}
-      <main id="main-content" class="site-main{% if page.layout == 'default' %} legacy-page shell{% endif %}" tabindex="-1">
+      <main id="main-content" class="site-main" tabindex="-1">
         {{ content }}
       </main>
-      {%- include footer-return.html -%}
+      {%- include footer.html -%}
     </div>
   </body>
 </html>
