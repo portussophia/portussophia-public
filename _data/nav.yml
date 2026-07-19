@@ -14,6 +14,10 @@ primary:
   - label: Engage
     url: /engage/
 
+  - label: PortusHumanitas™ ↗
+    url: https://humanitas.portussophia.com/
+    external: true
+
   - label: Founder ↗
     url: https://founder.portussophia.com/
     external: true
