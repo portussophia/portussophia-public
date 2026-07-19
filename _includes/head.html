@@ -26,6 +26,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="{{ asset_origin }}/favicons/apple-touch-icon.png">
 
   <script defer src="{{ asset_origin }}/scripts/v1/navigation.js?v={{ shared_asset_version }}"></script>
+  <script defer src="{{ '/assets/js/public-navigation.js' | relative_url }}?v={{ site.asset_version }}"></script>
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
