@@ -24,6 +24,9 @@
     <img class="shoreline-identity-logo" src="{{ logo_url }}" alt="{{ logo_alt | escape }}">
     <div class="shoreline-identity-copy">
       <h1 class="shoreline-identity-title">{{ identity_title | escape }}</h1>
+      {%- if ps.header_role -%}
+        <p class="shoreline-identity-mobile-role">{{ ps.header_role | escape }}</p>
+      {%- endif -%}
       {%- if identity_declaration -%}
         <p class="shoreline-identity-declaration">{{ identity_declaration | escape }}</p>
       {%- endif -%}
