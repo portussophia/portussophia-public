@@ -67,6 +67,29 @@
     margin: -0.18rem 0 0;
   }
 
+  /* A tapped anchor must create an explicit, viewport-level menu on mobile. */
+  details.anchor-menu {
+    z-index: 1001;
+  }
+
+  details.anchor-menu[open] .anchor-menu-panel {
+    position: fixed;
+    top: 5rem;
+    right: 0.75rem;
+    left: 0.75rem;
+    z-index: 1000;
+    display: block;
+    min-width: 0;
+    max-height: calc(100dvh - 6rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: none;
+    -webkit-overflow-scrolling: touch;
+  }
+
   /* Internal pages: keep the programme role visible below the surface name. */
   .site-header--shoreline .header-inner {
     align-items: start;
