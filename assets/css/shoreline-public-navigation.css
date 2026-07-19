@@ -76,13 +76,6 @@
   }
 }
 
-/* Keep one separator above the related external surfaces. */
-.anchor-menu-panel .related-surface + .related-surface {
-  margin-top: 0;
-  padding-top: 0;
-  border-top: 0;
-}
-
 @media (max-width: 40rem) {
   .site-header--shoreline .header-inner {
     grid-template-columns: minmax(0, 1fr) 3.1rem;
