@@ -176,7 +176,7 @@ shoreline_horizon: 36%
     <h2 class="visually-hidden" id="closing-title">Closing return</h2>
     <div>
       <p class="closing-latin" lang="la">Hic et nunc! Ethica ab orientatione et temperantia incipit, non a vetito.</p>
-      <p class="closing-translation">Here and Now! Ethics begins with orientation and restraint, not with prohibition.</p>
+      <p class="closing-translation"><em>Here and Now!</em> Ethics begins with orientation and restraint, not with prohibition.</p>
     </div>
   </div>
 </section>
