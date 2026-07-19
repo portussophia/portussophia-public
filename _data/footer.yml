@@ -1,0 +1,52 @@
+identity:
+  name: "PortusSophia™"
+  role: "Independent research programme · Candidate field architecture"
+
+panels:
+  - label: Programme
+    links:
+      - label: Contact
+        url: /contact/
+      - label: Bluesky
+        url: https://bsky.app/profile/portussophia.bsky.social
+        external: true
+      - label: Substack
+        url: https://substack.com/@portussophia
+        external: true
+      - label: Programme GitHub
+        url: https://github.com/portussophia
+        external: true
+
+  - label: Research profiles
+    links:
+      - label: ORCID
+        url: https://orcid.org/0009-0000-6689-8763
+        external: true
+      - label: SSRN
+        url: https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792
+        external: true
+      - label: ResearchGate
+        url: https://www.researchgate.net/profile/James-Dennis-17?ev=hdr_xprf
+        external: true
+      - label: Lens
+        url: https://www.lens.org/lens/profile/697110263/scholar#
+        external: true
+
+  - label: Founder
+    links:
+      - label: Founder portfolio
+        url: https://founder.portussophia.com/
+        external: true
+      - label: LinkedIn
+        url: https://www.linkedin.com/in/jamesroydennis
+        external: true
+      - label: James on GitHub
+        url: https://github.com/jamesroydennis
+        external: true
+
+refrain: "Here and Now!"
+
+rights:
+  owner: "PortusSophia, LLC"
+  label: "Rights and Use"
+  url: https://assets.portussophia.com/RIGHTS.md
