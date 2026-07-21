@@ -40,11 +40,11 @@ Books, papers, Zenodo records, SSRN papers, and other archival publications refe
 
 Nothing in this repository supersedes those terms.
 
-## Trademarks
+## Identity and trademarks
 
-PortusSophia™ and related marks are claimed trademarks of PortusSophia, LLC.
+PortusSophia™ names the field architecture. PortusSophia, LLC is the business entity that owns the claimed PortusSophia trademark.
 
-Publication of this repository does not authorize use of those marks in connection with products, services, publications, websites, or derivative works.
+Publication of this repository does not authorize use of the PortusSophia name or related marks in connection with products, services, publications, websites, or derivative works.
 
 ## No warranty
 
