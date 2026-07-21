@@ -10,4 +10,6 @@ Making this repository publicly accessible permits viewing and use of GitHub’s
 
 Third-party materials and separately published works, where present, remain subject to the rights and terms identified by their respective owners or publication records.
 
-PortusSophia™ is a claimed trademark of PortusSophia, LLC. Publication of this repository does not authorize use of the PortusSophia name, programme mark, supporting marks, or confusingly similar identifiers.
+PortusSophia™ names the field architecture. PortusSophia, LLC is the business entity that owns the claimed PortusSophia trademark and the repository materials identified above.
+
+Publication of this repository does not authorize use of the PortusSophia name, programme mark, supporting marks, or confusingly similar identifiers.
