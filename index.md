@@ -8,18 +8,18 @@ shoreline_horizon: 36%
   <div class="shell apex-narrow">
     <h2 id="mission-title">Mission</h2>
     <p class="mission-statement">To see clearly where a difference can be made.</p>
-    <a class="text-action" href="{{ '/interface/' | relative_url }}">Read the Interface</a>
+    <a class="text-action" href="https://orientatio.portussophia.com/structura/PS-BIOS-001/" target="_blank" rel="noopener noreferrer">Begin with the Declared Interface ↗</a>
   </div>
 </section>
 
 <section class="apex-section what-is-section" aria-labelledby="what-is-title">
   <div class="shell apex-narrow">
-    <p class="section-label">Public orientation</p>
-    <h2 id="what-is-title">What Is PortusSophia™?</h2>
-    <p>PortusSophia™ is a candidate field architecture for abstract epistemic discipline. It is not presented as a scientific theory, philosophical doctrine, institutional framework, universal explanatory system, or replacement for existing disciplines. It proposes an architectural environment in which independently developed bodies of work may be developed, translated, compared, and evaluated while preserving their own observations, distinctions, provenance, capacities, and explanatory limits.</p>
-    <p>It begins from a recurring condition: mature domains encounter questions that extend beyond the explanatory boundaries of any one discipline. PortusSophia does not treat those gaps as moral failures or disciplinary deficiencies. It asks whether they can become sufficiently legible for inquiry to traverse them without erasing the differences that made the inquiry possible.</p>
-    <p>Its purpose is not to force synthesis, eliminate remainder, or manufacture closure. It provides conditions for disciplined correspondence while preserving fidelity, domain identity, explanatory limits, and the right to remain unresolved.</p>
-    <a class="button-link secondary" href="{{ '/interface/' | relative_url }}">Read the full orientation</a>
+    <p class="section-label">Research programme</p>
+    <h2 id="what-is-title">What PortusSophia™ Is Attempting to Build</h2>
+    <p>PortusSophia™ is offered as a candidate field architecture for Abstract Epistemic Discipline—disciplined inquiry under ambiguity, constraint, and incomplete knowledge. Beginning from the orientation declared in PS-BIOS-001, the research programme is an attempt to build <strong>orientation, restraint, structured emergence, and adjudication</strong> into an architecture of inquiry.</p>
+    <p>These are not rhetorical virtues. <strong>Orientation</strong> makes the operative interface, source boundary, regime, purpose, inherited dependencies, and claim standing visible before evaluation proceeds. <strong>Restraint</strong> prevents an instrument from claiming more than the admitted evidence, declared interface, or available expertise can carry. <strong>Structured emergence</strong> permits new relations and coherence to become available without treating fluency, recurrence, or elegance as establishment. <strong>Adjudication</strong> assigns bounded standing after a result appears, including candidate, unresolved, rejected, locally admissible, definitions-relative, or not established.</p>
+    <p>The programme begins from a practical difficulty: inquiry is never performed upon an object in isolation. The admitted frame conditions what becomes visible, which absences become defects, what further traversal appears warranted, and where closure becomes attractive. PortusSophia does not claim that framing determines truth. It asks that the frame and its limits remain legible when standing is assigned.</p>
+    <p>It is not presented as a scientific theory, philosophical doctrine, institutional framework, universal explanatory system, or replacement for existing disciplines. It asks how independently developed inquiries may be described, translated, compared, tested, and evaluated without unnecessary loss of distinction, provenance, scope, or boundary—and without forcing synthesis, erasing remainder, or manufacturing closure. Questions extending beyond one discipline are not treated as moral failures or disciplinary deficiencies.</p>
   </div>
 </section>
 
@@ -165,7 +165,7 @@ shoreline_horizon: 36%
   <div class="shell apex-narrow">
     <p class="section-label">Founder accountability</p>
     <h2 id="founder-title">James Roy Dennis</h2>
-    <p class="founder-role">Founder and Originating Field Architect, PortusSophia™</p>
+    <p class="founder-role">Architect, PortusSophia™ · Founder, PortusSophia, LLC</p>
     <p>James originated and built the PortusSophia inquiry and its architecture and remains responsible for its research direction, stewardship, admission, and public encounter decisions. AI systems have contributed substantively but boundedly across drafting, research assistance, criticism, comparison, organization, and review.</p>
     <a class="button-link secondary" href="https://founder.portussophia.com" target="_blank" rel="noopener noreferrer">Visit the Founder portfolio ↗</a>
   </div>
