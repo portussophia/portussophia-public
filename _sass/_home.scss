@@ -49,6 +49,21 @@
   line-height: 1.6;
 }
 
+.programme-callout--founder {
+  margin-top: clamp(1.5rem, 3vw, 2rem);
+}
+
+.programme-callout footer {
+  margin-top: 0.85rem;
+  color: var(--warm-slate);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.programme-callout cite {
+  font-style: normal;
+}
+
 .programme-overview h3 {
   margin-top: clamp(2rem, 4vw, 2.75rem);
   padding-top: 1.25rem;
