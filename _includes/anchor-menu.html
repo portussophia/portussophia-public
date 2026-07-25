@@ -9,7 +9,7 @@
   <nav class="anchor-menu-panel" aria-label="Primary navigation">
     <ul class="nav-list">
       {%- unless primary_items and primary_items.first.url == '/' -%}
-        <li class="nav-home">
+        <li>
           <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
         </li>
       {%- endunless -%}
@@ -21,7 +21,7 @@
         {%- elsif item.external != true and item.url != '/' and page.url contains item.url -%}
           {%- assign is_current = true -%}
         {%- endif -%}
-        <li{% if item.external %} class="related-surface"{% elsif item.url == '/' %} class="nav-home"{% endif %}>
+        <li{% if item.separator_after %} class="nav-home"{% elsif item.external %} class="related-surface"{% endif %}>
           {%- if item.external -%}
             <a href="{{ item.url }}" class="is-external" target="_blank" rel="noopener noreferrer">{{ item_label | escape }}</a>
           {%- else -%}
