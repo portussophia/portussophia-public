@@ -8,7 +8,7 @@ shoreline_horizon: 36%
   <div class="shell apex-narrow">
     <h2 id="mission-title">Mission</h2>
     <p class="mission-statement">To see clearly where a difference can be made.</p>
-    <a class="text-action" href="https://orientatio.portussophia.com/structura/PS-BIOS-001/" target="_blank" rel="noopener noreferrer">Begin with the Declared Interface ↗</a>
+    <a class="text-action" href="https://orientatio.portussophia.com/" target="_blank" rel="noopener noreferrer">Begin with the Declared Interface ↗</a>
   </div>
 </section>
 
@@ -27,6 +27,11 @@ shoreline_horizon: 36%
       <h3>What PortusSophia is</h3>
       <p>The programme asks how independently developed inquiries may be described, translated, compared, tested, and evaluated without unnecessary loss of distinction, provenance, scope, or boundary.</p>
       <p>It begins from a practical difficulty: inquiry is never performed upon an object in isolation. The admitted frame conditions what becomes visible, which absences become defects, what further traversal appears warranted, and where closure becomes attractive.</p>
+
+      <blockquote class="programme-callout programme-callout--founder">
+        <p><strong>The tensor was already here.</strong><br>Least effort collapses downward by importing what is missing as an unstated assumption.</p>
+        <footer><cite>Founder’s Note — The Audit as Case</cite></footer>
+      </blockquote>
 
       <h3>What the programme is attempting to build</h3>
       <ul class="programme-capacities">
