@@ -1,6 +1,8 @@
 primary:
-  - label: Interface
-    url: /interface/
+  - label: Orientation ↗
+    url: https://orientatio.portussophia.com/
+    external: true
+    separator_after: true
 
   - label: Field Architecture
     url: /field-architecture/
