@@ -26,6 +26,51 @@
   text-decoration-color: var(--gold);
 }
 
+.programme-lede {
+  margin-top: 1rem;
+  color: var(--navy);
+  font-size: clamp(1.08rem, 1.7vw, 1.22rem);
+  line-height: 1.65;
+}
+
+.programme-callout {
+  margin: clamp(1.75rem, 4vw, 2.5rem) 0;
+  padding: clamp(1.15rem, 3vw, 1.6rem);
+  border-left: 0.3rem solid var(--gold);
+  background: rgba(127, 127, 127, 0.08);
+}
+
+.programme-callout p {
+  margin: 0;
+  color: var(--navy);
+  font-family: var(--font-serif);
+  font-size: clamp(1.08rem, 2vw, 1.28rem);
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.programme-overview h3 {
+  margin-top: clamp(2rem, 4vw, 2.75rem);
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  color: var(--navy);
+  font-size: clamp(1.18rem, 2vw, 1.45rem);
+}
+
+.programme-overview p {
+  max-width: 68ch;
+}
+
+.programme-capacities {
+  max-width: 68ch;
+  margin: 1rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.programme-capacities li + li {
+  margin-top: 0.8rem;
+}
+
 .axiom-triad {
   margin-top: clamp(2.75rem, 6vw, 4.5rem);
   padding-top: clamp(2.25rem, 4vw, 3rem);
