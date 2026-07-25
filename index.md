@@ -16,10 +16,30 @@ shoreline_horizon: 36%
   <div class="shell apex-narrow">
     <p class="section-label">Research programme</p>
     <h2 id="what-is-title">What PortusSophia™ Is Attempting to Build</h2>
-    <p>PortusSophia™ is offered as a candidate field architecture for Abstract Epistemic Discipline—disciplined inquiry under ambiguity, constraint, and incomplete knowledge. Beginning from the orientation declared in PS-BIOS-001, the research programme is an attempt to build <strong>orientation, restraint, structured emergence, and adjudication</strong> into an architecture of inquiry.</p>
-    <p>These are not rhetorical virtues. <strong>Orientation</strong> makes the operative interface, source boundary, regime, purpose, inherited dependencies, and claim standing visible before evaluation proceeds. <strong>Restraint</strong> prevents an instrument from claiming more than the admitted evidence, declared interface, or available expertise can carry. <strong>Structured emergence</strong> permits new relations and coherence to become available without treating fluency, recurrence, or elegance as establishment. <strong>Adjudication</strong> assigns bounded standing after a result appears, including candidate, unresolved, rejected, locally admissible, definitions-relative, or not established.</p>
-    <p>The programme begins from a practical difficulty: inquiry is never performed upon an object in isolation. The admitted frame conditions what becomes visible, which absences become defects, what further traversal appears warranted, and where closure becomes attractive. PortusSophia does not claim that framing determines truth. It asks that the frame and its limits remain legible when standing is assigned.</p>
-    <p>It is not presented as a scientific theory, philosophical doctrine, institutional framework, universal explanatory system, or replacement for existing disciplines. It asks how independently developed inquiries may be described, translated, compared, tested, and evaluated without unnecessary loss of distinction, provenance, scope, or boundary—and without forcing synthesis, erasing remainder, or manufacturing closure. Questions extending beyond one discipline are not treated as moral failures or disciplinary deficiencies.</p>
+
+    <p class="programme-lede">PortusSophia™ is offered as a candidate field architecture for Abstract Epistemic Discipline—disciplined inquiry under ambiguity, constraint, and incomplete knowledge. It begins from the orientation declared in PS-BIOS-001.</p>
+
+    <blockquote class="programme-callout">
+      <p>Orientation does not determine arrival. It establishes what is being encountered, by way of what, and under which declared limits.</p>
+    </blockquote>
+
+    <div class="programme-overview">
+      <h3>What PortusSophia is</h3>
+      <p>The programme asks how independently developed inquiries may be described, translated, compared, tested, and evaluated without unnecessary loss of distinction, provenance, scope, or boundary.</p>
+      <p>It begins from a practical difficulty: inquiry is never performed upon an object in isolation. The admitted frame conditions what becomes visible, which absences become defects, what further traversal appears warranted, and where closure becomes attractive.</p>
+
+      <h3>What the programme is attempting to build</h3>
+      <ul class="programme-capacities">
+        <li><strong>Orientation</strong> makes the operative interface, source boundary, regime, purpose, inherited dependencies, and claim standing visible before evaluation proceeds.</li>
+        <li><strong>Restraint</strong> prevents an instrument from claiming more than the admitted evidence, declared interface, or available expertise can carry.</li>
+        <li><strong>Structured emergence</strong> permits new relations and coherence to become available without treating fluency, recurrence, or elegance as establishment.</li>
+        <li><strong>Adjudication</strong> assigns bounded standing after a result appears, including candidate, unresolved, rejected, locally admissible, definitions-relative, or not established.</li>
+      </ul>
+
+      <h3>What it is not</h3>
+      <p>PortusSophia is not presented as a scientific theory, philosophical doctrine, institutional framework, universal explanatory system, or replacement for existing disciplines.</p>
+      <p>It does not claim that framing determines truth. It asks that the frame and its limits remain legible when standing is assigned, without forcing synthesis, erasing remainder, or manufacturing closure. Questions extending beyond one discipline are not treated as moral failures or disciplinary deficiencies.</p>
+    </div>
   </div>
 </section>
 
