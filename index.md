@@ -7,8 +7,17 @@ shoreline_horizon: 36%
 <section class="apex-section mission-section" aria-labelledby="mission-title">
   <div class="shell apex-narrow">
     <h2 id="mission-title">Mission</h2>
-    <p class="mission-statement">To see clearly where a difference can be made.</p>
+    <p class="mission-statement">To remain fidelis to ethical Fellowship and dignified inquiry.</p>
     <a class="text-action" href="https://orientatio.portussophia.com/" target="_blank" rel="noopener noreferrer">Begin with the Declared Interface ↗</a>
+  </div>
+</section>
+
+<section class="apex-section orientation-section" aria-labelledby="orientation-title">
+  <div class="shell apex-narrow">
+    <h2 id="orientation-title" class="visually-hidden">PortusSophia orientation</h2>
+    <p class="mission-statement">PortusSophia™ seeks not to become an authority, a source of orientation, or a condition of coherence.</p>
+    <p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p>
+    <p><strong>Dignity ≅ Respect ≅ Kindness</strong></p>
   </div>
 </section>
 
