@@ -36,8 +36,9 @@
 .home-page .orientation-section,
 .home-page .orientation-section h2,
 .home-page .orientation-section p,
+.home-page .orientation-section strong,
 .home-page .orientation-section .mission-statement {
-  color: var(--parchment, #faf8f5);
+  color: var(--parchment, #faf8f5) !important;
 }
 
 .home-page .mission-section .text-action,
