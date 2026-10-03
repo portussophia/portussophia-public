@@ -16,8 +16,10 @@ shoreline_horizon: 36%
   <div class="shell apex-narrow">
     <h2 id="orientation-title" class="visually-hidden">PortusSophia orientation</h2>
     <p class="mission-statement">PortusSophia™ seeks not to become an authority, a source of orientation, or a condition of coherence.</p>
+    <hr>
     <p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p>
     <p><strong>Dignity ≅ Respect ≅ Kindness</strong></p>
+    <p><strong>Faith ≅ Fellowship ≅ Joy — <em>Here and Now!</em></strong></p>
   </div>
 </section>
 
