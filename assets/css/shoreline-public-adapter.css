@@ -25,14 +25,18 @@
 .home-page .mission-section h2,
 .home-page .mission-section p,
 .home-page .mission-section .mission-statement,
-.home-page .orientation-section h2,
-.home-page .orientation-section p,
-.home-page .orientation-section .mission-statement,
 .home-page .engage-section h2,
 .home-page .engage-section h3,
 .home-page .engage-section p,
 .home-page .closing-return h2,
 .home-page .closing-return p {
+  color: var(--parchment, #faf8f5);
+}
+
+.home-page .orientation-section,
+.home-page .orientation-section h2,
+.home-page .orientation-section p,
+.home-page .orientation-section .mission-statement {
   color: var(--parchment, #faf8f5);
 }
 
