@@ -404,3 +404,141 @@
     padding: 1.1rem .25rem;
   }
 }
+
+/* ---------- Current PortusSophia header identity ---------- */
+.site-header--shoreline-identity {
+  position: relative;
+  overflow: hidden;
+  background-color: #031522 !important;
+  background-image:
+    radial-gradient(ellipse at 50% 46%, rgba(240,181,63,.34) 0, rgba(240,181,63,.09) 18%, transparent 42%),
+    linear-gradient(to bottom, transparent 0 47%, rgba(240,181,63,.34) 47.2%, rgba(240,181,63,.08) 47.8%, transparent 48.5%),
+    repeating-linear-gradient(176deg, rgba(240,181,63,.08) 0 1px, transparent 1px 9px),
+    linear-gradient(180deg, #031522 0%, #062033 48%, #031522 100%) !important;
+  background-size: cover !important;
+}
+.site-header--shoreline-identity::after {
+  content: "";
+  position: absolute;
+  inset: 48% 0 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: .72;
+  background:
+    repeating-radial-gradient(ellipse at 50% 0%, rgba(244,191,78,.18) 0 1px, transparent 2px 11px);
+  transform: scaleX(1.2);
+}
+.shoreline-identity-header-inner--current {
+  position: relative;
+  z-index: 1;
+  min-height: clamp(18rem, 36vw, 31rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.shoreline-current-identity {
+  position: relative;
+  width: min(76%, 56rem);
+  margin: 0 auto;
+  padding: clamp(5.5rem, 12vw, 10rem) 1rem 2rem;
+  text-align: center;
+  color: #f1c66e;
+}
+.shoreline-current-portal {
+  position: absolute;
+  top: .8rem;
+  left: 50%;
+  width: clamp(9rem, 25vw, 18rem);
+  height: clamp(5rem, 14vw, 10rem);
+  transform: translateX(-50%);
+  border: 2px solid rgba(240,181,63,.88);
+  border-bottom: 0;
+  border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+  box-shadow: 0 0 18px rgba(240,181,63,.35), inset 0 0 14px rgba(240,181,63,.18);
+}
+.shoreline-current-portal::before,
+.shoreline-current-portal::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 50%;
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(240,181,63,.95));
+  transform-origin: bottom center;
+}
+.shoreline-current-portal::before { left: 0; transform: rotate(35deg); }
+.shoreline-current-portal::after { right: 0; transform: rotate(-35deg); }
+.shoreline-current-wordmark {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.65rem, 8vw, 6.5rem);
+  font-weight: 400;
+  line-height: .95;
+  letter-spacing: -.035em;
+  color: #f4cc78;
+  text-shadow: 0 0 20px rgba(240,181,63,.16);
+}
+.shoreline-current-wordmark sup {
+  position: relative;
+  top: -.45em;
+  margin-left: .12em;
+  font-size: .2em;
+  letter-spacing: 0;
+}
+.shoreline-current-rule {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  width: min(92%, 50rem);
+  margin: 1.15rem auto .75rem;
+}
+.shoreline-current-rule::before,
+.shoreline-current-rule::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #e6b85d;
+}
+.shoreline-current-rule span {
+  width: .9rem;
+  height: .9rem;
+  border: 1px solid #e6b85d;
+  transform: rotate(45deg);
+}
+.shoreline-current-tagline {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(.85rem, 2.5vw, 1.5rem);
+  color: #edc36e;
+}
+.shoreline-current-tagline span {
+  margin-right: .55em;
+  letter-spacing: .22em;
+}
+.shoreline-current-tagline em {
+  font-size: 1.12em;
+  letter-spacing: .035em;
+}
+.site-header--shoreline-identity .anchor-menu {
+  position: absolute;
+  top: clamp(1rem, 3vw, 2rem);
+  right: clamp(1rem, 3vw, 2rem);
+  z-index: 3;
+}
+@media (max-width: 40rem) {
+  .shoreline-identity-header-inner--current {
+    min-height: 18rem;
+  }
+  .shoreline-current-identity {
+    width: 96%;
+    padding-top: 6.25rem;
+  }
+  .shoreline-current-portal {
+    top: 1rem;
+    width: 10rem;
+    height: 5.7rem;
+  }
+  .shoreline-current-tagline span {
+    letter-spacing: .14em;
+  }
+}
