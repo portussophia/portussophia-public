@@ -371,8 +371,11 @@
   font-size: clamp(1.25rem, 3vw, 1.65rem);
 }
 .home-page .invocation-questions h3 {
-  margin: 0 0 2rem;
+  width: fit-content;
+  margin: 0 auto 2rem;
+  padding: 0 1.15rem .6rem;
   color: var(--ps-ivory, #f7f2e8);
+  border-bottom: 1px solid rgba(240,181,63,.5);
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
   font-weight: 500;
@@ -394,6 +397,27 @@
 }
 .home-page .invocation-list p + p {
   border-top: 1px solid rgba(240,181,63,.28);
+}
+.home-page .invocation-return {
+  max-width: 34rem;
+  margin: 1rem auto 0;
+  padding: 1.6rem 1rem 0;
+  text-align: center;
+}
+.home-page .invocation-integrity,
+.home-page .invocation-here-now {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+}
+.home-page .invocation-integrity {
+  color: var(--ps-gold, #f0b53f);
+  font-size: clamp(1.05rem, 2.4vw, 1.3rem);
+  letter-spacing: .045em;
+}
+.home-page .invocation-here-now {
+  margin-top: .4rem;
+  color: var(--ps-ivory, #f7f2e8);
+  font-size: clamp(1.05rem, 2.5vw, 1.3rem);
 }
 @media (max-width: 40rem) {
   .home-page .invocation-questions {
