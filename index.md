@@ -23,15 +23,12 @@ shoreline_horizon: 36%
     Restraint ≅ Orientation ≅ Discipline
     Dignity ≅ Respect ≅ Kindness
     Faith ≅ Fellowship ≅ Joy
-    These cards are visual representations of the declared relations.
+    The image is a visual representation of these declared relations.
     Representation does not uniquely recover the operative relation.
     -->
-    <div class="domain-grid orientation-triad-grid" aria-label="Four orientation relations">
-      <article class="domain-card orientation-triad-card"><p><strong>Non-Coercion ≅ Non-Resolution ≅ Non-Closure</strong></p></article>
-      <article class="domain-card orientation-triad-card"><p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p></article>
-      <article class="domain-card orientation-triad-card"><p><strong>Dignity ≅ Respect ≅ Kindness</strong></p></article>
-      <article class="domain-card orientation-triad-card"><p><strong>Faith ≅ Fellowship ≅ Joy</strong></p></article>
-    </div>
+    <figure class="orientation-relations-figure">
+      <img src="{{ '/assets/img/orientation-relations.svg' | relative_url }}" alt="Four PortusSophia Orientation relations: Non-Coercion ≅ Non-Resolution ≅ Non-Closure; Restraint ≅ Orientation ≅ Discipline; Dignity ≅ Respect ≅ Kindness; Faith ≅ Fellowship ≅ Joy.">
+    </figure>
     <div class="orientation-cardinality">
       <p><strong>PortusSophia™ presents the candidate cardinality independence of:</strong></p>
       <ul>
@@ -45,14 +42,18 @@ shoreline_horizon: 36%
     Terms
     Provenance
     Limitation
-    Warrant — The Joy in Earning
-    Fellowship — PortusNunc™ ≅ PortusHarmonia™ ≅ PortusAtlas™
+    Terms — Faith
+    Provenance
+    Limitation
+    Warrant — Joy
+    Fellowship — Earning
+    Footer — THE INFINITE Here and Now!
     This image presents the current public five-mode representation.
     Visible geometry does not by itself establish additional equivalence,
     hierarchy, sequence, or correspondence.
     -->
     <figure class="orientation-modes-figure">
-      <img src="{{ '/assets/img/five-modes.svg' | relative_url }}" alt="PortusSophia five modes: Terms, Provenance, Limitation, Warrant — The Joy in Earning, and Fellowship — PortusNunc™ ≅ PortusHarmonia™ ≅ PortusAtlas™.">
+      <img src="{{ '/assets/img/five-modes.svg' | relative_url }}" alt="PortusSophia five modes: Terms — Faith; Provenance; Limitation; Warrant — Joy; Fellowship — Earning. Footer: The Infinite Here and Now!.">
     </figure>
     <p><strong>Integrity–Begins–Within</strong><br><em>Here and Now!</em></p>
   </div>
