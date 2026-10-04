@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "id": "PS-REPRESENTATION-CONTROL-001",
+  "title": "PortusSophia™ Notation and Representation Control",
+  "scope": "site",
+  "standing": "representational-control",
+  "principle": "A visible glyph is a representation of a locally stated relation. Its appearance alone does not determine the operative relation represented by that distinction.",
+  "passage": {
+    "model": "operative-relation-to-representation",
+    "direction_selected": "operative_relation -> representation",
+    "reverse_recovery_licensed": false
+  },
+  "mappings": [
+    {
+      "operative_relation": "!==",
+      "representation": "≠",
+      "illustrative_only": true,
+      "statement": "An operative non-equality relation may be rendered to a reader by the glyph ≠ without making the glyph the operator.",
+      "reverse_inference": "The glyph ≠ does not uniquely recover !==."
+    }
+  ],
+  "controls": [
+    "REPRESENTATION != OPERATIVE_RELATION",
+    "RENDERING != UNIQUE_RECOVERY",
+    "REVERSE_INFERENCE_NOT_LICENSED"
+  ]
+}
