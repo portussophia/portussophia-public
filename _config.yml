@@ -5,9 +5,9 @@ baseurl: ""
 asset_version: "20260719-3"
 
 portussophia:
-  template_version: "1.0.0"
+  template_version: "1.1.0"
   asset_origin: "https://assets.portussophia.com"
-  asset_version: "20260719-6"
+  asset_version: "20261004-1"
 
   header_label: "PortusSophia™"
   header_role: "Candidate Field Architecture"
