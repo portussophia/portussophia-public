@@ -1,6 +1,8 @@
 {%- assign header_variant = page.header_variant | default: 'compact' -%}
 {%- if page.layout == 'shoreline-home' and page.header_variant == nil -%}
   {%- assign header_variant = 'shoreline-identity' -%}
+{%- elsif page.layout == 'harmonia-home' and page.header_variant == nil -%}
+  {%- assign header_variant = 'harmonia-identity' -%}
 {%- elsif page.layout == 'home' and page.header_variant == nil -%}
   {%- assign header_variant = 'identity' -%}
 {%- elsif page.layout == 'shoreline-masthead' and page.header_variant == nil -%}
@@ -11,6 +13,8 @@
 
 {%- if header_variant == 'harmonia' -%}
   {%- include header-harmonia.html -%}
+{%- elsif header_variant == 'harmonia-identity' -%}
+  {%- include header-harmonia-identity.html -%}
 {%- elsif header_variant == 'identity' -%}
   {%- include header-identity.html -%}
 {%- elsif header_variant == 'shoreline-identity' -%}
