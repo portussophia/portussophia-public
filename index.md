@@ -1,5 +1,6 @@
 ---
 layout: shoreline-home
+header_variant: harmonia
 title: PortusSophia
 permalink: /
 shoreline_horizon: 36%
