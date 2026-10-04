@@ -21,6 +21,20 @@ The website presents the research program through several complementary perspect
 
 ---
 
+---
+
+## Relational Research Instruments
+
+PortusSophia™ is developing a related set of research instruments for carrying inquiry and making complex relations more legible without requiring them to collapse into a single representation:
+
+**PortusInquisitio™ ≅ PortusNexusAtlas™ ≅ PortusRosettaAtlas™**
+
+- **PortusInquisitio™** carries questions into disciplined examination while preserving what remains unresolved.
+- **PortusNexusAtlas™** maps entities, their present standing, provenance, and earned relations.
+- **PortusRosettaAtlas™** examines passage among relational grammars, asking what corresponds, what changes, what remains distinguishable, and what may not translate.
+
+Together, they support a broader research question: **how can differently structured forms remain intelligibly in relation without one becoming the grammar of all the others?**
+
 ## Primary Publications
 
 - **PS-BIOS-001 — The Declared Interface**
