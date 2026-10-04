@@ -76,7 +76,10 @@ shoreline_horizon: 36%
       </div>
     </section>
 
-    <p><strong>Integrity–Begins–Within</strong><br><em>Here and Now!</em></p>
+    <div class="invocation-return" aria-label="Closing return">
+      <p class="invocation-integrity"><strong>Integrity–Begins–Within</strong></p>
+      <p class="invocation-here-now"><em>Here and Now!</em></p>
+    </div>
   </div>
 </section>
 
