@@ -1,0 +1,26 @@
+{%- assign ps = site.portussophia | default: empty -%}
+{%- assign asset_origin = ps.asset_origin | default: 'https://assets.portussophia.com' -%}
+{%- assign logo_url = ps.identity_logo_url -%}
+{%- unless logo_url -%}
+  {%- assign logo_url = asset_origin | append: '/img/site/logo.png' -%}
+{%- endunless -%}
+{%- assign logo_alt = ps.identity_logo_alt | default: 'PortusSophia programme mark' -%}
+{%- assign harmonia_image = page.harmonia_image | default: page.shoreline_image -%}
+{%- unless harmonia_image -%}
+  {%- assign harmonia_image = asset_origin | append: '/img/site/shoreline.jpg' -%}
+{%- endunless -%}
+{%- assign harmonia_position = page.harmonia_position | default: 'center 48%' -%}
+{%- assign harmonia_height = page.harmonia_height | default: 'clamp(13rem, 27vh, 21rem)' -%}
+<!-- Harmonia header: derived from Shoreline; Shoreline remains unchanged. -->
+<header class="site-header site-header--harmonia" role="banner" data-template-version="0.1.0" style="--harmonia-image: url('{{ harmonia_image }}'); --harmonia-position: {{ harmonia_position }}; --harmonia-height: {{ harmonia_height }};">
+  <div class="shell header-inner">
+    <a class="site-identity harmonia-site-lockup" href="{{ '/' | relative_url }}">
+      <img class="harmonia-programme-mark" src="{{ logo_url }}" alt="{{ logo_alt | escape }}">
+      <span class="harmonia-site-copy">
+        <span class="site-name">{{ ps.header_label | default: site.title | escape }}</span>
+        {%- if ps.header_role -%}<span class="site-role">{{ ps.header_role | escape }}</span>{%- endif -%}
+      </span>
+    </a>
+    {%- include anchor-menu.html -%}
+  </div>
+</header>
