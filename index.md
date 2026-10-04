@@ -17,26 +17,40 @@ shoreline_horizon: 36%
     <h2 id="orientation-title" class="visually-hidden">PortusSophia orientation</h2>
     <p class="mission-statement">PortusSophia™ seeks not to become an authority, a source of orientation, or a condition of coherence. PortusSophia seeks the joy of earning by way of:</p>
     <hr>
+    <!--
+    PortusSophia™ — Orientation Relations
+    Non-Coercion ≅ Non-Resolution ≅ Non-Closure
+    Restraint ≅ Orientation ≅ Discipline
+    Dignity ≅ Respect ≅ Kindness
+    Faith ≅ Fellowship ≅ Joy
+    These cards are visual representations of the declared relations.
+    Representation does not uniquely recover the operative relation.
+    -->
     <div class="domain-grid orientation-triad-grid" aria-label="Four orientation relations">
-      <article class="domain-card orientation-triad-card">
-        <p><strong>Non-Coercion ≅ Non-Resolution ≅ Non-Closure</strong></p>
-      </article>
-      <article class="domain-card orientation-triad-card">
-        <p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p>
-      </article>
-      <article class="domain-card orientation-triad-card">
-        <p><strong>Dignity ≅ Respect ≅ Kindness</strong></p>
-      </article>
-      <article class="domain-card orientation-triad-card">
-        <p><strong>Faith ≅ Fellowship ≅ Joy</strong></p>
-      </article>
+      <article class="domain-card orientation-triad-card"><p><strong>Non-Coercion ≅ Non-Resolution ≅ Non-Closure</strong></p></article>
+      <article class="domain-card orientation-triad-card"><p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p></article>
+      <article class="domain-card orientation-triad-card"><p><strong>Dignity ≅ Respect ≅ Kindness</strong></p></article>
+      <article class="domain-card orientation-triad-card"><p><strong>Faith ≅ Fellowship ≅ Joy</strong></p></article>
     </div>
-    <p><strong>PortusSophia™ presents the candidate cardinality independence of:</strong></p>
-    <ul>
-      <li><strong>Sequential Consequence</strong></li>
-      <li><strong>Singular Inextractability</strong></li>
-      <li><strong>Relational Regimentation</strong></li>
-    </ul>
+    <div class="orientation-cardinality">
+      <p><strong>PortusSophia™ presents the candidate cardinality independence of:</strong></p>
+      <ul>
+        <li><strong>Sequential Consequence</strong></li>
+        <li><strong>Singular Inextractability</strong></li>
+        <li><strong>Relational Regimentation</strong></li>
+      </ul>
+    </div>
+    <!--
+    PortusSophia™ — Five Modes
+    Terms
+    Provenance
+    Limitation
+    Warrant — The Joy in Earning
+    Fellowship — PortusNunc™ ≅ PortusHarmonia™ ≅ PortusAtlas™
+    This image presents the current public five-mode representation.
+    Visible geometry does not by itself establish additional equivalence,
+    hierarchy, sequence, or correspondence.
+    -->
     <figure class="orientation-modes-figure">
       <img src="{{ '/assets/img/five-modes.svg' | relative_url }}" alt="PortusSophia five modes: Terms, Provenance, Limitation, Warrant — The Joy in Earning, and Fellowship — PortusNunc™ ≅ PortusHarmonia™ ≅ PortusAtlas™.">
     </figure>
