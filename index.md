@@ -21,6 +21,12 @@ shoreline_horizon: 36%
     <p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p>
     <p><strong>Dignity ≅ Respect ≅ Kindness</strong></p>
     <p><strong>Faith ≅ Fellowship ≅ Joy</strong></p>
+    <p><strong>PortusSophia™ presents the candidate cardinality independence of:</strong></p>
+    <ul>
+      <li><strong>Sequential Consequence</strong></li>
+      <li><strong>Singular Inextractability</strong></li>
+      <li><strong>Relational Regimentation</strong></li>
+    </ul>
     <p><strong>Integrity–Begins–Within</strong><br><em>Here and Now!</em></p>
   </div>
 </section>
