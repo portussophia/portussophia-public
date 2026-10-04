@@ -355,3 +355,52 @@
     margin-right: -.75rem;
   }
 }
+
+/* ---------- Here and Now invocation ---------- */
+.home-page .invocation-questions {
+  max-width: 46rem;
+  margin: 1rem auto 2.75rem;
+  padding: 2.25rem 1.5rem 1rem;
+  text-align: center;
+  border-top: 1px solid rgba(240,181,63,.55);
+}
+.home-page .invocation-kicker {
+  margin: 0 0 .35rem;
+  color: var(--ps-gold, #f0b53f);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.25rem, 3vw, 1.65rem);
+}
+.home-page .invocation-questions h3 {
+  margin: 0 0 2rem;
+  color: var(--ps-ivory, #f7f2e8);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+  font-weight: 500;
+  letter-spacing: .08em;
+}
+.home-page .invocation-list {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+.home-page .invocation-list p {
+  position: relative;
+  margin: 0;
+  padding: 1.25rem .5rem;
+  color: var(--ps-ivory, #f7f2e8);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1rem, 2.2vw, 1.18rem);
+  font-style: italic;
+  line-height: 1.65;
+}
+.home-page .invocation-list p + p {
+  border-top: 1px solid rgba(240,181,63,.28);
+}
+@media (max-width: 40rem) {
+  .home-page .invocation-questions {
+    margin-top: .5rem;
+    padding: 1.75rem .5rem .5rem;
+  }
+  .home-page .invocation-list p {
+    padding: 1.1rem .25rem;
+  }
+}
