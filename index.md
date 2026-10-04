@@ -27,6 +27,29 @@ shoreline_horizon: 36%
       <li><strong>Singular Inextractability</strong></li>
       <li><strong>Relational Regimentation</strong></li>
     </ul>
+    <div class="section-heading">
+      <p class="section-label">Five modes</p>
+      <h3>PortusSophia™ models five modes.</h3>
+    </div>
+    <div class="domain-grid">
+      <article class="domain-card">
+        <h3>Terms</h3>
+      </article>
+      <article class="domain-card">
+        <h3>Provenance</h3>
+      </article>
+      <article class="domain-card">
+        <h3>Limitation</h3>
+      </article>
+      <article class="domain-card">
+        <h3>Warrant</h3>
+        <p class="domain-subtitle">The Joy in Earning</p>
+      </article>
+      <article class="domain-card">
+        <h3>Fellowship</h3>
+        <p class="domain-subtitle">PortusNunc™ ≅ PortusHarmonia™ ≅ PortusAtlas™</p>
+      </article>
+    </div>
     <p><strong>Integrity–Begins–Within</strong><br><em>Here and Now!</em></p>
   </div>
 </section>
