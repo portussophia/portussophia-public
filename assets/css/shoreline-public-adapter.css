@@ -337,3 +337,21 @@
     margin-right: -.75rem;
   }
 }
+
+.home-page .orientation-relations-figure {
+  width: min(100%, 58rem);
+  margin: 1.5rem auto 2rem;
+}
+.home-page .orientation-relations-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 40rem) {
+  .home-page .orientation-relations-figure {
+    width: calc(100% + 1.5rem);
+    max-width: none;
+    margin-left: -.75rem;
+    margin-right: -.75rem;
+  }
+}
