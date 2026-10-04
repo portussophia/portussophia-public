@@ -1,0 +1,152 @@
+/* Harmonia v0.3 — isolated header presentation.
+   Loaded after Shoreline/shared CSS so Harmonia does not inherit the old lockup. */
+.site-header.site-header--harmonia {
+  position: relative !important;
+  display: block !important;
+  overflow: hidden !important;
+  min-height: 0 !important;
+  height: clamp(17rem, 34vw, 27rem) !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-bottom: 3px solid #e9b84e !important;
+  background:
+    radial-gradient(ellipse at 50% 44%, rgba(244,196,93,.36) 0, rgba(244,196,93,.12) 16%, transparent 38%),
+    linear-gradient(to bottom, transparent 0 47%, rgba(240,181,63,.42) 47.2%, rgba(240,181,63,.08) 48%, transparent 49%),
+    linear-gradient(180deg, #031522 0%, #062238 48%, #031827 100%) !important;
+}
+.site-header.site-header--harmonia::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 48% -10% 0 !important;
+  opacity: .75 !important;
+  pointer-events: none !important;
+  background:
+    repeating-radial-gradient(ellipse at 50% 0%, rgba(244,191,78,.17) 0 1px, transparent 2px 10px),
+    repeating-linear-gradient(176deg, rgba(244,191,78,.07) 0 1px, transparent 1px 9px) !important;
+  transform: perspective(28rem) rotateX(58deg) scale(1.25) !important;
+  transform-origin: 50% 0 !important;
+}
+.site-header--harmonia .harmonia-header-inner {
+  position: relative !important;
+  z-index: 2 !important;
+  box-sizing: border-box !important;
+  width: min(100%, 76rem) !important;
+  height: 100% !important;
+  min-height: 0 !important;
+  margin: 0 auto !important;
+  padding: 0 1rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.site-header--harmonia .harmonia-identity {
+  position: relative !important;
+  box-sizing: border-box !important;
+  display: block !important;
+  width: min(80%, 58rem) !important;
+  margin: 0 auto !important;
+  padding: clamp(5.5rem, 11vw, 9rem) 0 1.4rem !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  background: none !important;
+  border: 0 !important;
+  color: #f2c76f !important;
+}
+.site-header--harmonia .harmonia-portal {
+  position: absolute !important;
+  display: block !important;
+  top: .65rem !important;
+  left: 50% !important;
+  width: clamp(9rem, 23vw, 17rem) !important;
+  height: clamp(5rem, 13vw, 9.5rem) !important;
+  transform: translateX(-50%) !important;
+  border: 2px solid rgba(240,181,63,.94) !important;
+  border-bottom: 0 !important;
+  border-radius: 50% 50% 0 0 / 100% 100% 0 0 !important;
+  background: transparent !important;
+  box-shadow: 0 0 20px rgba(240,181,63,.38), inset 0 0 14px rgba(240,181,63,.16) !important;
+}
+.site-header--harmonia .harmonia-portal::before,
+.site-header--harmonia .harmonia-portal::after {
+  content: "" !important;
+  position: absolute !important;
+  bottom: 0 !important;
+  width: 54% !important;
+  height: 1px !important;
+  background: linear-gradient(to right, transparent, rgba(240,181,63,.96)) !important;
+  transform-origin: bottom center !important;
+}
+.site-header--harmonia .harmonia-portal::before { left: -2% !important; transform: rotate(34deg) !important; }
+.site-header--harmonia .harmonia-portal::after { right: -2% !important; transform: rotate(-34deg) !important; }
+.site-header--harmonia .harmonia-wordmark {
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: clamp(2.5rem, 7.5vw, 6.2rem) !important;
+  font-weight: 400 !important;
+  line-height: .96 !important;
+  letter-spacing: -.035em !important;
+  color: #f4cc78 !important;
+  text-shadow: 0 0 20px rgba(240,181,63,.18) !important;
+}
+.site-header--harmonia .harmonia-wordmark sup {
+  position: relative !important;
+  top: -.45em !important;
+  margin-left: .1em !important;
+  font-size: .2em !important;
+}
+.site-header--harmonia .harmonia-rule {
+  display: flex !important;
+  align-items: center !important;
+  gap: .7rem !important;
+  width: min(92%, 50rem) !important;
+  margin: 1rem auto .7rem !important;
+}
+.site-header--harmonia .harmonia-rule::before,
+.site-header--harmonia .harmonia-rule::after {
+  content: "" !important;
+  flex: 1 !important;
+  height: 1px !important;
+  background: #e6b85d !important;
+}
+.site-header--harmonia .harmonia-rule i {
+  display: block !important;
+  width: .8rem !important;
+  height: .8rem !important;
+  border: 1px solid #e6b85d !important;
+  transform: rotate(45deg) !important;
+}
+.site-header--harmonia .harmonia-tagline {
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: clamp(.8rem, 2.2vw, 1.35rem) !important;
+  line-height: 1.25 !important;
+  color: #edc36e !important;
+}
+.site-header--harmonia .harmonia-tagline b {
+  margin-right: .55em !important;
+  font-weight: 400 !important;
+  letter-spacing: .2em !important;
+}
+.site-header--harmonia .harmonia-tagline em {
+  font-size: 1.12em !important;
+  letter-spacing: .03em !important;
+}
+.site-header--harmonia .anchor-menu {
+  position: absolute !important;
+  top: 1rem !important;
+  right: 1rem !important;
+  z-index: 5 !important;
+}
+@media (max-width: 40rem) {
+  .site-header.site-header--harmonia { height: 15.75rem !important; }
+  .site-header--harmonia .harmonia-header-inner { padding: 0 .75rem !important; }
+  .site-header--harmonia .harmonia-identity { width: 94% !important; padding: 5.25rem 0 .75rem !important; }
+  .site-header--harmonia .harmonia-portal { top: .7rem !important; width: 8.8rem !important; height: 4.9rem !important; }
+  .site-header--harmonia .harmonia-wordmark { font-size: clamp(2.25rem, 12vw, 3.7rem) !important; }
+  .site-header--harmonia .harmonia-tagline { font-size: .78rem !important; }
+  .site-header--harmonia .harmonia-tagline b { letter-spacing: .12em !important; }
+}
