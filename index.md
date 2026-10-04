@@ -39,9 +39,6 @@ shoreline_horizon: 36%
     </div>
     <!--
     PortusSophia™ — Five Modes
-    Terms
-    Provenance
-    Limitation
     Terms — Faith
     Provenance
     Limitation
@@ -55,6 +52,29 @@ shoreline_horizon: 36%
     <figure class="orientation-modes-figure">
       <img src="{{ '/assets/img/five-modes.svg' | relative_url }}" alt="PortusSophia five modes: Terms — Faith; Provenance; Limitation; Warrant — Joy; Fellowship — Earning. Footer: The Infinite Here and Now!.">
     </figure>
+
+    <!--
+    PortusSophia™ — Here and Now! Invocation Questions
+    What is true in this moment without interpretation?
+    What is the smallest honest action I can bear today?
+    What am I trying to control that I don’t actually own?
+    What cost is being displaced if I rush to closure?
+    What can I do that preserves autonomy—mine and theirs?
+    Native text is retained so the questions remain directly available to
+    readers, accessibility technology, search, and machine agents.
+    -->
+    <section class="invocation-questions" aria-labelledby="invocation-title">
+      <p class="invocation-kicker"><em>Here and Now!</em></p>
+      <h3 id="invocation-title">Invocation Questions</h3>
+      <div class="invocation-list">
+        <p>What is true in this moment without interpretation?</p>
+        <p>What is the smallest honest action I can bear today?</p>
+        <p>What am I trying to control that I don’t actually own?</p>
+        <p>What cost is being displaced if I rush to closure?</p>
+        <p>What can I do that preserves autonomy—mine and theirs?</p>
+      </div>
+    </section>
+
     <p><strong>Integrity–Begins–Within</strong><br><em>Here and Now!</em></p>
   </div>
 </section>
