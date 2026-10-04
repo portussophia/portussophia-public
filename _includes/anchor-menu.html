@@ -1,8 +1,13 @@
 {%- assign primary_items = site.data.nav.primary | default: site.data.navigation | default: empty -%}
 <details class="anchor-menu">
   <summary class="home-anchor menu-trigger" aria-label="Open primary navigation">
+    <!-- PortusSophia™ menu mark: captain's wheel, styled from the current gold-on-navy identity language. -->
     <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false">
-      <path fill="currentColor" fill-rule="evenodd" d="M32 3a8 8 0 0 0-4 14.93V23h-8v6h8v15.42c-7.07-1.55-12.55-6.32-15.14-12.56L20 29l-3-5L3 29l3 13 5.44-2.18C15.53 48.55 23.03 54 32 54s16.47-5.45 20.56-14.18L58 42l3-13-14-5-3 5 7.14 2.86C48.55 38.1 43.07 42.87 36 44.42V29h8v-6h-8v-5.07A8 8 0 0 0 32 3Zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z"/>
+      <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round">
+        <circle cx="32" cy="32" r="18"/><circle cx="32" cy="32" r="12"/><circle cx="32" cy="32" r="3" fill="currentColor"/>
+        <path d="M32 4v16M32 44v16M4 32h16M44 32h16M12.2 12.2l11.3 11.3M40.5 40.5l11.3 11.3M51.8 12.2L40.5 23.5M23.5 40.5L12.2 51.8"/>
+        <path d="M32 2l3 5-3 5-3-5zM32 52l3 5-3 5-3-5zM2 32l5-3 5 3-5 3zM52 32l5-3 5 3-5 3z"/>
+      </g>
     </svg>
   </summary>
 
