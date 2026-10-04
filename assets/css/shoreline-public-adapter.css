@@ -276,3 +276,64 @@
 .shoreline-page-content .evaluation-card a:focus-visible {
   color: var(--ps-navy, var(--navy, #0d1b2a));
 }
+
+
+/* ---------- Orientation composition refinement ---------- */
+.home-page .orientation-section .apex-narrow {
+  max-width: 64rem;
+}
+.home-page .orientation-triad-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+.home-page .orientation-triad-card {
+  display: flex;
+  min-height: 8.5rem;
+  padding: 1.4rem 1.6rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.home-page .orientation-triad-card p {
+  margin: 0;
+  color: var(--ps-navy, var(--navy, #0d1b2a)) !important;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  line-height: 1.45;
+}
+.home-page .orientation-cardinality {
+  max-width: 52rem;
+  margin: 2rem auto;
+  padding: 1.5rem 1.75rem;
+  border-left: 1px solid rgba(240,181,63,.6);
+  border-right: 1px solid rgba(240,181,63,.6);
+}
+.home-page .orientation-cardinality > p {
+  margin-top: 0;
+  text-align: center;
+}
+.home-page .orientation-cardinality ul {
+  width: fit-content;
+  max-width: 100%;
+  margin: 1rem auto 0;
+}
+.home-page .orientation-modes-figure {
+  width: min(100%, 58rem);
+  margin: 2.5rem auto 2rem;
+}
+.home-page .orientation-modes-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 40rem) {
+  .home-page .orientation-triad-grid { grid-template-columns: 1fr; }
+  .home-page .orientation-triad-card { min-height: 7rem; padding: 1.15rem 1rem; }
+  .home-page .orientation-cardinality { margin: 1.5rem 0; padding: 1.25rem 1rem; }
+  .home-page .orientation-modes-figure {
+    width: calc(100% + 1.5rem);
+    max-width: none;
+    margin-left: -.75rem;
+    margin-right: -.75rem;
+  }
+}
