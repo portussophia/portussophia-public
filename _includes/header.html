@@ -9,7 +9,9 @@
   {%- assign header_variant = 'shoreline' -%}
 {%- endif -%}
 
-{%- if header_variant == 'identity' -%}
+{%- if header_variant == 'harmonia' -%}
+  {%- include header-harmonia.html -%}
+{%- elsif header_variant == 'identity' -%}
   {%- include header-identity.html -%}
 {%- elsif header_variant == 'shoreline-identity' -%}
   {%- include header-shoreline-identity.html -%}
