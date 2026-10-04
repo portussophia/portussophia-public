@@ -15,11 +15,13 @@ shoreline_horizon: 36%
 <section class="apex-section orientation-section" aria-labelledby="orientation-title">
   <div class="shell apex-narrow">
     <h2 id="orientation-title" class="visually-hidden">PortusSophia orientation</h2>
-    <p class="mission-statement">PortusSophia™ seeks not to become an authority, a source of orientation, or a condition of coherence.</p>
+    <p class="mission-statement">PortusSophia™ seeks not to become an authority, a source of orientation, or a condition of coherence. PortusSophia seeks the joy of earning by way of:</p>
     <hr>
+    <p><strong>Non-Coercion ≅ Non-Resolution ≅ Non-Closure</strong></p>
     <p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p>
     <p><strong>Dignity ≅ Respect ≅ Kindness</strong></p>
-    <p><strong>Faith ≅ Fellowship ≅ Joy — <em>Here and Now!</em></strong></p>
+    <p><strong>Faith ≅ Fellowship ≅ Joy</strong></p>
+    <p><strong>Integrity–Begins–Within</strong><br><em>Here and Now!</em></p>
   </div>
 </section>
 
