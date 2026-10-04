@@ -17,39 +17,29 @@ shoreline_horizon: 36%
     <h2 id="orientation-title" class="visually-hidden">PortusSophia orientation</h2>
     <p class="mission-statement">PortusSophia™ seeks not to become an authority, a source of orientation, or a condition of coherence. PortusSophia seeks the joy of earning by way of:</p>
     <hr>
-    <p><strong>Non-Coercion ≅ Non-Resolution ≅ Non-Closure</strong></p>
-    <p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p>
-    <p><strong>Dignity ≅ Respect ≅ Kindness</strong></p>
-    <p><strong>Faith ≅ Fellowship ≅ Joy</strong></p>
+    <div class="domain-grid orientation-triad-grid" aria-label="Four orientation relations">
+      <article class="domain-card orientation-triad-card">
+        <p><strong>Non-Coercion ≅ Non-Resolution ≅ Non-Closure</strong></p>
+      </article>
+      <article class="domain-card orientation-triad-card">
+        <p><strong>Restraint ≅ Orientation ≅ Discipline</strong></p>
+      </article>
+      <article class="domain-card orientation-triad-card">
+        <p><strong>Dignity ≅ Respect ≅ Kindness</strong></p>
+      </article>
+      <article class="domain-card orientation-triad-card">
+        <p><strong>Faith ≅ Fellowship ≅ Joy</strong></p>
+      </article>
+    </div>
     <p><strong>PortusSophia™ presents the candidate cardinality independence of:</strong></p>
     <ul>
       <li><strong>Sequential Consequence</strong></li>
       <li><strong>Singular Inextractability</strong></li>
       <li><strong>Relational Regimentation</strong></li>
     </ul>
-    <div class="section-heading">
-      <p class="section-label">Five modes</p>
-      <h3>PortusSophia™ models five modes.</h3>
-    </div>
-    <div class="domain-grid">
-      <article class="domain-card">
-        <h3>Terms</h3>
-      </article>
-      <article class="domain-card">
-        <h3>Provenance</h3>
-      </article>
-      <article class="domain-card">
-        <h3>Limitation</h3>
-      </article>
-      <article class="domain-card">
-        <h3>Warrant</h3>
-        <p class="domain-subtitle">The Joy in Earning</p>
-      </article>
-      <article class="domain-card">
-        <h3>Fellowship</h3>
-        <p class="domain-subtitle">PortusNunc™ ≅ PortusHarmonia™ ≅ PortusAtlas™</p>
-      </article>
-    </div>
+    <figure class="orientation-modes-figure">
+      <img src="{{ '/assets/img/five-modes.svg' | relative_url }}" alt="PortusSophia five modes: Terms, Provenance, Limitation, Warrant — The Joy in Earning, and Fellowship — PortusNunc™ ≅ PortusHarmonia™ ≅ PortusAtlas™.">
+    </figure>
     <p><strong>Integrity–Begins–Within</strong><br><em>Here and Now!</em></p>
   </div>
 </section>
